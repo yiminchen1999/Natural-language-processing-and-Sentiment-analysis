@@ -5,9 +5,7 @@
 
 from typing import List
 import numpy as np
-import nltk
-from itertools import chain
-nltk.download('punkt')
+
 
 
 # import libraries
@@ -31,7 +29,8 @@ print(keyword_list)
 def keyword_sentence(file_name):
     # read a txt file save all sentences which are separated by period and remove any new line in a list called "sentences"
     with open(file_name, "r") as f:
-        sentences = f.read().split(".")
+        content = f.read()
+        sentences = content.split(".")
         sentences = [sentence.strip() for sentence in sentences]
 
     # find out sentences in sentences list which contain any keyword in keyword list and save those sentences in a list called "keyword_sentences"
@@ -41,16 +40,33 @@ def keyword_sentence(file_name):
             if keyword in sentence:
                 keyword_sentences.append(sentence)
 
-    return keyword_sentences
+    # join the keyword sentences with '\n' to form a single string
+    result = '\n'.join(keyword_sentences)
+    return result
 
 
-Year_2021_s1 = keyword_sentence("Year_2021_corpus_01.txt")
-Year_2021_s2 = keyword_sentence("Year_2021_corpus_02.txt")
-Year_2021_s3 = keyword_sentence("Year_2021_corpus_03.txt")
-Year_2021_s4 = keyword_sentence("Year_2021_corpus_04.txt")
-Year_2021_s5 = keyword_sentence("Year_2021_corpus_05.txt")
-Year_2021_s6 = keyword_sentence("Year_2021_corpus_06.txt")
-Year_2021_s7 = keyword_sentence("Year_2021_corpus_07.txt")
+def simplify_and_save(year, file_list):
+    year_str = str(year)
+    result = []
+    for file in file_list:
+        sentence = keyword_sentence(f"Year {year_str}/{file}")
+        result.append(sentence)
+    with open(f"{year_str}_results.txt", "w") as file:
+        file.write('\n'.join(result) + '\n')
+    return result
 
-def get_keyword_sentences(year):
-    return [keyword_sentence(f"Year_{year}_corpus_{i:02}.txt") for i in range(1, 8)]
+
+Year_2023_s1 = keyword_sentence("Year 2023/01_frank.txt")
+print(Year_2023_s1)
+#Year_2023_s2 = keyword_sentence("Year 2023/01_omni.txt")
+#Year_2023_s3 = keyword_sentence("Year 2023/01_remix.txt")
+#Year_2023_s4 = keyword_sentence("Year 2023/01_rube.txt")
+
+
+
+
+
+year = 2023
+file_list = ["01_frank.txt", "01_omni.txt", "01_remix.txt", "01_rube.txt"]
+results = simplify_and_save(year, file_list)
+print(results)
