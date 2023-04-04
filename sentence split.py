@@ -45,18 +45,21 @@ def keyword_sentence(file_name):
     result = '\n'.join(keyword_sentences)
     return result
 
-
 def simplify_and_save(year):
     year_str = str(year)
-    file_pattern = f"{year_str}/*.txt"
+    file_pattern = f"Year {year_str}/*.txt"
     file_list = glob.glob(file_pattern)
     result = []
     for file in file_list:
-        sentence = keyword_sentence(file)
-        result.extend(sentence)
+        sentences = keyword_sentence(file)
+        # split the string of sentences by '\n' and add the resulting list of sentences to the result list
+        result.extend(sentences.split('\n'))
     with open(f"{year_str}_results.txt", "w") as file:
         file.write('\n'.join(result) + '\n')
     return result
+
+
+
 
 
 
