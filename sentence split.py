@@ -68,8 +68,5 @@ print(Year_2023_s1)
 
 
 
-
-
-year = 2023
-results = simplify_and_save(year, file_list)
+results = simplify_and_save(2023)
 print(results)
