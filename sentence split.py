@@ -7,6 +7,7 @@ from typing import List
 import numpy as np
 
 
+import glob
 
 # import libraries
 import pandas as pd
@@ -45,15 +46,18 @@ def keyword_sentence(file_name):
     return result
 
 
-def simplify_and_save(year, file_list):
+def simplify_and_save(year):
     year_str = str(year)
+    file_pattern = f"{year_str}/*.txt"
+    file_list = glob.glob(file_pattern)
     result = []
     for file in file_list:
-        sentence = keyword_sentence(f"Year {year_str}/{file}")
-        result.append(sentence)
+        sentence = keyword_sentence(file)
+        result.extend(sentence)
     with open(f"{year_str}_results.txt", "w") as file:
         file.write('\n'.join(result) + '\n')
     return result
+
 
 
 Year_2023_s1 = keyword_sentence("Year 2023/01_frank.txt")
@@ -67,6 +71,5 @@ print(Year_2023_s1)
 
 
 year = 2023
-file_list = ["01_frank.txt", "01_omni.txt", "01_remix.txt", "01_rube.txt"]
 results = simplify_and_save(year, file_list)
 print(results)
