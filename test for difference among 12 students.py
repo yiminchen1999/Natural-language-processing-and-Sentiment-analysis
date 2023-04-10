@@ -1,63 +1,36 @@
+
 import pandas as pd
-from nltk.sentiment.vader import SentimentIntensityAnalyzer
+import matplotlib.pyplot as plt
+import seaborn as sns
 
-# Load dictionary
-dictionary = pd.read_excel("dictionary 2.0.xlsx")
-keyword_list = dictionary["traget n-gram"].tolist()
+# Load the data
+all_scores_df = pd.read_excel("2022_frank_sentiment_scores.xlsx")
 
-# Define function to get keyword sentences
-def keyword_sentence(file_name):
-    with open(file_name, "r") as f:
-        sentences = f.read().split(".")
-        sentences = [sentence.strip() for sentence in sentences]
-    keyword_sentences = []
-    for sentence in sentences:
-        for keyword in keyword_list:
-            if keyword in sentence:
-                keyword_sentences.append(sentence)
-    return keyword_sentences
+# Define the color palette for each sentiment
+#colors = ["#E74C3C", "#95A5A6", "#2ECC71", "#3498DB"]
+colors = ["#E74C3C", "#95A5A6", "#2ECC71"]
 
-# Define function to get sentiment scores
-def get_sentiment_scores(keyword_sentences):
-    sid = SentimentIntensityAnalyzer()
-    scores = []
-    for sentence in keyword_sentences:
-        score = sid.polarity_scores(sentence)
-        scores.append(score)
-    return scores
+# Set the plot style
+sns.set_style("ticks")
+sns.set_context("talk")
 
-# Define function to process sentiment scores for a single file
-def process_scores_for_file(file_name):
-    keyword_sentences = keyword_sentence(file_name)
-    scores = get_sentiment_scores(keyword_sentences)
-    all_scores = []
-    for j, score in enumerate(scores):
-        all_scores.append({
-            "Sentence": keyword_sentences[j],
-            "Negative": score["neg"],
-            "Neutral": score["neu"],
-            "Positive": score["pos"],
-            "Compound": score["compound"],
-            "File": file_name
-        })
-    # Convert scores to dataframe and return
-    all_scores_df = pd.DataFrame(all_scores).drop_duplicates(subset="Sentence")
-    return all_scores_df
+# Melt the dataframe to long format
+#melted_df = all_scores_df.melt(id_vars=["File", "Sentence"], value_vars=["Negative", "Neutral", "Positive", "Compound"], var_name="Sentiment")
 
-# Define function to process sentiment scores for all files
-def process_scores_for_all_files():
-    all_scores_combined = []
-    for i in range(1, 13):
-        file_name = f"Year 2022/{i:02d}_frank.txt"
-        all_scores_combined.append(process_scores_for_file(file_name))
-    all_scores_combined_df = pd.concat(all_scores_combined, ignore_index=True)
-    return all_scores_combined_df
+#ignore compound
+melted_df = all_scores_df.melt(id_vars=["File", "Sentence"], value_vars=["Negative", "Neutral", "Positive"], var_name="Sentiment")
+#, "Compound"],
+# Create the boxplot
+fig, ax = plt.subplots(figsize=(12, 8))
+sns.boxplot(x="File", y="value", hue="Sentiment", data=melted_df, ax=ax, palette=colors)
+sns.stripplot(x="File", y="value", hue="Sentiment", data=melted_df, ax=ax, jitter=0.2, size=6, edgecolor='gray', linewidth=0.5)
+plt.xticks(range(12), range(1, 13))
+plt.title("Sentiment Analysis Scores for 12 Student Files for Frank Project", fontsize=20, fontweight='bold')
+plt.xlabel("Student Number ", fontsize=16)
+plt.ylabel("Sentiment Score", fontsize=16)
+sns.despine(offset=10, trim=True)
+plt.tight_layout()
+plt.show()
+plt.savefig("2022_ver2_frank_sentiment_analysis_scores.png")
 
-# Process sentiment scores for all files
-all_scores_combined_df = process_scores_for_all_files()
 
-# Group scores by file and compute mean sentiment scores for each file
-mean_scores_by_file = all_scores_combined_df.groupby("File").mean()
-
-# Display mean sentiment scores by file
-print(mean_scores_by_file)
