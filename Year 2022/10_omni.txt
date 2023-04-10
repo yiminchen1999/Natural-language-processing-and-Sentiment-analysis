@@ -1,0 +1,16 @@
+Cat
+sketching
+searched for flat cat graphic design and other 3d puzzles to learn how to connect smaller pieces.
+designing
+prototyping
+& iteration
+Used gravit for 2d design. Managed the size of the pieces.
+The connection part didn't work well, so I iterated it for several times.
+Final design
+owl
+The laser cutter didn't work well on Tuesday night, so I still have one piece left to be printed.
+After I finished the first one, I thought it was too simple, so I started designing a more complex one, but I didn't have time for prototyping and laser cutting. I'll do it later.
+Reflection
+I really like this assignment, because I learnt a lot in a self- directed way. I started off having no idea how to design and connect each part together, so I looked at tons of others' works to figure out smart ways to connect parts. I spent a long time figuring out the measurements of each piece to connect them together, especially for the connection parts. It was not easy at first to imagine a 3d object in 2d and transform 3d object into flat. Thus I spent a long time designing the first one.
+After I printed out, I figured out that the connection parts cannot be too thing, otherwise it was too fragile to hold things together. I have tested with 1mm thin to 5 mm, which turned out to be perfect.
+After I finished the first design, I wanted to design a more complex one. Surprisingly, I spent much less time designing it for the first round, given it is much more complex and has more parts. I didn't have time to prototype and laser cut, but I am exited to text out my design.

@@ -1,0 +1,11 @@
+[Part 1] Co-Design
+Imani's (my interviewee) paintings about her dream
+
+The Interview Report: https://docs.google.com/document/d/13JKU2vRlqjP7dUFOaJMcC2HKBVCO-yMyfE6GXWFUPaE/edit
+
+[Part 2] Prototype and Test
+The final toy will be a treasure chest. To get the "treasure" (the llama doll) inside, she needs to answer questions, get passwords, and enter passwords. The chest is surrounded by puzzle grooves carved out by CNC, and the puzzle pieces are not only decorative, but also exercise Imani's graphic cognition ability.
+
+In the second interview, Imani was initially excited to see the prototype, but lost interest after deciphering the code. Therefore, I decided to increase the difficulty (color-related) of breaking the code.
+I also did a simple test of Imani's ability to recognize colors, finding that she had difficulty expressing more complex colors (such as brown, purple) and shapes (such as rhombus, pentagon).
+

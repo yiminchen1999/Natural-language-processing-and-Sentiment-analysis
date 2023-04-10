@@ -1,0 +1,14 @@
+Target learner: Middle School Students
+Learning Goal: Compare the impacts of conventional farming and organic farming, in terms of yield and effect to the local ecosystem.
+
+LED lights will light up red if there is pollution. More LED lights that light up means more pollution.
+
+Different combinations lead to different outcomesi in crop yield, and affects on the ecosystem.
+
+Simulation board
+
+Circles represent LED lights
+
+Squares represent buttons
+
+Rectangles represent counters

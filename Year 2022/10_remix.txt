@@ -1,0 +1,14 @@
+original code with pseudocode
+Don't understand the math
+Don't understand the math
+Don't understand the math
+
+My remix
+Change colors of the object, so it would randomly appear infinite different colors
+Use the grid system to create multiple aligned objects
+Assign x, and y as parameters to the mouth, so each object can has an unique mouth
+
+Reflection
+I found this week's assignment very difficult for me, partially because it involves geometry and graphics. I tried to find some projects that are easy to modify and make something new out of it, but I failed several times. First, it is hard to grasp the code at first, and the authors themselves do not have a good documentation of their code, and secondly, processing has a simultaneous processing, which is different from python, which I am more familiar with, so I took a long time to figure out the animation and color changing.
+I would say, if I could start this assignment again, I would start much earlier, and spend some time learning about processing first and then start to search for others' works and start to experiment myself.
+Nevertheless, I think I have learnt a lot from this assignment still. First, I got to learn about the structure of processing, the setup() function, the draw function, and other self-created functions that can be used to draw objects or mouse events functions. Secondly, I learnt something about geometry, which I took several classes during undergrad, the Delaunay Triangulation & Voronoi Diagram refresh my undergrad memory, which was really exciting. I think I'll spend more time experimenting different possibilities, looking at others' works, and figuring out the math.

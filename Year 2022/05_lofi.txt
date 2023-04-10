@@ -1,0 +1,6 @@
+Idea 1
+A puzzle-like game in which the learner can solve a puzzle containing pieces that form a somehow acceptable "theory" with some internal cohesion, but with elements that vary in their reliability. The overall "make-sense-ness" is displayed in a "make-sense-o-meter once the solved puzzle is placed on the board.
+
+Idea 2
+A turn-based strategy game in which the player is a digital influencer who tries to make a career "helping people debunk myths pushed by mainstream media and the establishment."
+At each round, the player has to create headlines from a source of words usually related to conspiracy theories (the establishment, China,  Big Tech etc). At the end of each round, the player's creation assessed in terms of success among users.

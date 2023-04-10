@@ -1,0 +1,36 @@
+Pseudocode with Original
+
+One thing that confused me here was using sprite sheets which was something I hadn't encountered before. After trying to comment it out and testing I realized that the sheet element was being used for the 
+
+This preload is being used to load the external files (images in assets) before calling out the function.
+
+Animating the images being used
+
+Still unsure what this loop does. Tried commenting it out and it did not change the appearance of the project
+
+Screen recording  (Pseudocode + Original): https://youtu.be/odgTt_tc0No
+Code link: https://editor.p5js.org/sa3860/full/TzJo-FU2Y
+
+Code Remix 
+
+I changed the original code from 2 images to just one and named the variable 'imgFilter'
+
+Decided to get rid of the animation here
+
+Added my own background
+
+Used another version of posenet (instead of wrists this one detects nose and aligns the image passed with the nose, also changed the size and dimensions of the image to fit on the head. Tinkered with the x and y coordinates as well)
+
+Tinkered with the html and created a new button with an onClick function. Each time the button is clicked, the camera takes a picture and is saved in the downloads.
+
+Screen recording (Pseudocode + Extension): https://www.youtube.com/watch?v=0IhBzCEA66w
+Code link: https://editor.p5js.org/sa3860/full/e6P--vdOi
+
+Reflection
+
+While pseudocode helped me think more thoroughly about the purpose of each line of code. The way it helped me learn was by breaking the code down to several separate lines of code and understanding it in bits and pieces was more useful than trying to understand the purpose of the entire project at once. Remixing code is something that I used to do when I started coding. One way it has always helped me is that coding is intimidating for me and building off of something is less overwhelming than starting from scratch. Another approach that I adopted was to start off with the easiest thing so that I stay motivated to learn.
+
+As soon as I saw the project, it reminded me of the filters that are going viral on all social media platforms and how they perpetuate unhealthy and unattainable beauty standards. So I changed the sprite to a crown to communicate how each individual wears their own crown and has their own unique appearance. Moreover, I also wanted to add a new feature so I added a button to save the pictures that the users capture to serve as a reminder of how they are worthy of their own crown.
+
+One of the challenges that I encountered was understanding the coordinates, positioning of the image with respect to the pose. I copied the code on a separate window and played with it and once I was able to organize that I copied it on the full section of the code. Another approach that I used was to comment out each line of code and see how that impacted the functioning of the code.
+

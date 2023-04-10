@@ -1,0 +1,15 @@
+Bendable leg prototypes
+inspiration for bendy arms from” https://www.instructables.com/Curved-laser-bent-wood/
+Early trouble with metric system - way to big
+drawing from talking through my design with TA Dave
+broken wood prototype - cut on speed 40
+Interesting learnings
+Laser cutter speed effects the measurements of “dowels” a bit
+for the wooden connector pieces across legs.
+
+final: magnetic hands for “clasping” branch
+my coreldraw file
+
+Sticky Sloth
+The sticky sloth has strong sticky hands that clasp together for tight holds on trees, branches. They are lighter than other sloths which makes it easier for them to hang on thin branches. The strong hold between their hands and feet allows them to stay hanging upside down even in  strong winds and more severe weather. 
+

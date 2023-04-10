@@ -1,0 +1,9 @@
+input: temperature
+output: rain/soil humidity
+brainstorm
+prototypes
+input of heat and output of water reminded of the water cycle system, water evaporating and then clouds letting precipitation go
+vertical option
+we want height for our seesaw/ramp to go down to a place that still has height for rain to "fall" from. How to achieve? Freestanding parts, or all secured to pegboard
+our Gogoboard code was pretty simple, though needed to be tweaked based on the room temperature where we were testing
+

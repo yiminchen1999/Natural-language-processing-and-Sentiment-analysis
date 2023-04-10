@@ -1,0 +1,29 @@
+Reflection
+What did you learn by writing pseudocode? How did learning happen?
+
+By explaining the sections of code I was able to follow the logic of the program and guess at the purpose of different variables. I was also able to look up some functions I wasn't familiar with like dist() or text(). Learning happened mostly by experimenting on a hypothesis I had about a particular part of the code. By adjusting a number I could see how that property would change the display
+
+What did you learn from remixing to create something new? How?
+
+I learned what the core of the program was in moving the objects away from each other BY EXPERIMENTING. I also learned about color inputs and arguments and generally just got more practice with p5
+
+How did you make the original code yours? Why is it personally meaningful to you?
+
+I switched up the colors and changed the faces a bit as well as switched the narrative on its head. I really liked the original design in LOVE bringing people of different backgrounds together, and think the opposite is true as well. When we think "our" people are more important than others we distance ourselves from learning and connection.
+
+What challenges did you encounter and how did you overcome them?
+
+I'd say just not knowing a function, which was easy to combat with a quick google search. Also maybe initially finding something that I thought was simple enough to tackle remixing.
+
+coolest live microphones across the world?? found this from another p5 project, could I somehow add audio to my page? figured out how to add the sound library but adding code to have it play is making it all take forever to load..
+
+SELECTED PROJECT: Illogical Acts
+-you hover over middle and then click, and LOVE animation goes,
+which then brings our two objects/people together as you keep hovering
+
+my remix
+https://editor.p5js.org/mfh2142/sketches/gR7TbWGfj
+
+my screen recording of original and remix: https://youtu.be/7MGc_a8scxc
+
+board i originally posted on with comments of my learning https://miro.com/app/board/uXjVOQpXd0c=/

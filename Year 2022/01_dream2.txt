@@ -1,0 +1,13 @@
+Megan's take aways from user testing: Meison was pretty engaged with his ideas of this controllable vehicle that could dive and maneuver in the water and shoot things. He did think the printed car was cool in that it was waterproof, but he didn't really engage with it that much (given this was over zoom). He noted how tiny it was and kind of went off on his descriptions of a mostly submarine type toy that could lower and come out of water, and really expressed wanting electric components (and brought up the multi tool/multi functional idea again). What about this idea from the readings though--give people what they want not what they ask for?
+
+NEW DIRECTION: rc submarine that can take on water with waterproof DC motors/batteries. LEARNING GOALS: circuitry, physics (buoyancy/archimedes principle, propulsion) mechanics, energy
+
+structure/history of submarines
+
+took apart a remote control car to understand how it worked mechanically
+
+initial connection of circuitry with makeshift battery holder feat. xxxx
+
+first submarine prototype with electronic components using Tupperware (propeller is the lid)
+
+cardboard prototype - watertight with hot glue and cardboard with packing tape

@@ -1,0 +1,25 @@
+After searching the TinkerCAD library we found a dinosaur that was made out of a few pieces. We separated the design into 7 easy to place pieces.
+
+We then printed out the dinosaur pieces, but with some failures as the main body wouldn't print correctly. We ended up putting two failed prints together make a full one. This worked since both failed prints were close to half way done.
+
+Choking hazard: The first print came out too small for her so we had to redesign with a bigger size
+
+One thing we learned from 3D printing was that it isn't as precise as the laser cutter. We made small holes in the body in the TInkerCAD design, but they' didn't fit properly with the legs after being printed. So instead we adapted and cut the leg plug in extensions and glued magnets to the legs and body.
+
+The base was too snug for the volcano so we sanded it down a bit for an easier fit.
+
+The original base was created to be big enough to hold the Gogo board with a batter pack, which is why it is so big. There is an indent to work as an input puzzle piece to the volcano print out.
+
+Originally we wanted to use a Gogo board to light up the volcano but we realized later that a circuit would was a simpler solution with the same result.
+
+We used a switch connected that completed the circuit between the LEDs and the watch battery as an input for triggering the lights.
+
+We wanted our volcano to light up in someway. After debating how to do that (e.g. red liquid coming out, LED on top of the volcano) we realized that the resin printer would make the volcano translucent and we could put LEDs in it to light up
+
+Lastly it was time to draw the puzzle onto the pieces.
+
+Near finished!
+
+2-3 paragraphs (max 200 words) about the take away messages from designing and fabricating your final product along with any additional user testing.
+
+Despite having a cardboard prototype in place and getting valuable feedback from Flora, our child participant, there was a lot changing on the fly we had to do in developing this product. This included combining failed 3D print jobs to make the dinosaur body, cutting off extension plugs for the legs, head, and tail and adding magnets, and switching from the Gogo board to a circuit to turn on the LEDs. We even had to change up how the dinosaur gets planted on the puzzle and triggers the switch that both balances the the dinosaur and has enough weight to trigger the switch. With that in mind we feel pretty proud at how we were able to adapt to different challenges and be resourceful.

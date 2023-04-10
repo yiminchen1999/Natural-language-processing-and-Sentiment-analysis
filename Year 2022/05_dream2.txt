@@ -1,0 +1,11 @@
+We benefited a lot from sketching ideas right after our first interview. Although the idea changed a lot in the following 20 days, that served as a material representation of what could be done, plus as a conversation starter with the kid.
+
+Win: using rapid prototyping techniques as a routine within the project. We went back and forth between sketching, using cheaper materials, and building components of the final product. To figure out the layered structure of the box, for example, we used series of post-it notes with colors representing different materials. Then, we placed them one above the other to understand how MDF should be cut, as well as the positions of wires, boards, and sensors.
+
+Challenge: the number of elements that needed to be cut out in fabric—a.k.a. the whole alphabet. For this task, we were undecided between (1) going to a laborious preparation of files to be cut using the Cricut, or (2) not preparing any more files and cutting all those by hand. We opted for the latter, although not entirely sure if that was the right answer.
+
+Post-it representation of the box's structure: with that, we could visualize the disposition of electronic parts and how the materials should be cut.
+
+After the very raw representation in paper and pencil, we went to cardboard to see if everything was properly designed. Most parts were ok.
+
+Testing the code using a different board and different actuators--the materials were at the lab and we found some spare time, then decided to verify if the code created in the previous day was working properly.

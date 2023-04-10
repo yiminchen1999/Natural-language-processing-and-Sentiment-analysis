@@ -1,0 +1,43 @@
+Plan: dissect broken boogie board (drawing sketch electronic thing), see what the wiring is as well as the screen. create something new... maybe take apart our broken smoke alarm too?
+
+The first surprise was the tiny TRIANGULAR screws the board was secured with. How to get those out without a triangular screw driver? iPhone repair kit to the rescue!
+
+Parts: stylus, plastic outer ring pieces, screen with some kind of liquid material inside, circuit board thing, wires to the batteries, batteries, and a plastic button that goes up against a button on the circuit board to activate. Pushing the yellow button is supposed to wipe the screen clean. It seems to do this by briefly sending an electric pulse through the liquid material in the screen, which then evens the liquid material out.
+
+Smoke alarm would NOT come apart, so will use felt and string and other crafting materials instead.
+
+SCREEN: plastic film, liquid substance in between. 
+INTERACTIVE
+
+circuit board: metal/copper?,, wires, plastic. 
+ELECTRIC
+
+BUTTON: yellow plastic.
+INTERACTIVE, mechanical
+
+SCREWS: metal. 
+structural
+
+COVERS: red & clear plastic.
+STRUCTURAL, no interaction
+
+battery cover: plastic. structural, interactive
+
+BATTTERIES:
+metal, zinc/potassium/graphite..
+
+ICE SKATING RINK for Bluey & Bingo
+
+Ideas for something new: ice skating rink, a tent, try to connect little lights to the circuitry? My preschooler heard ice skating and REALLY wanted to help with that so we went forward with that plan.
+
+Clear part would be the ice. First question, how to create space between the two plastic parts? Make pillars with rolled up paper and use screw cavities to connect the two. How to repurpose batteries? Screws? Tiered roof with batteries. Screws became stringed "lights" for ambience! The colored felt kind of made it feel more like a roller skating setting..
+
+By taking something apart I'm able to observe and guess at HOW the thing achieves its function. Repairing lets you learn from someone else's design, where making from scratch is more of a solo endeavor from your own creativity. 
+
+My dad is a mechanical engineer and we always boasted about how he could fix anything. I feel like I could have an aptitude for it through him, however, he was the go to fix it person in my family. We did make things last forever, my parents still have things around that are older than me.
+
+Megan's Reflection - Rethinking Repair
+Last Thursday I walked past wired  headphones that were broken and left on the road. Remembering our discussion in class about repurposing broken things, I had an inclination to pick them up. I turned around and stooped over to have a look, then laughed out loud as I told myself this was trash and continued on my way. This reading reminded me of this moment at times; I valued my appearance, status, or power more than the learning I could have had in tinkering with repair of the headphones. I've been conditioned to value the newest tech (tech that is designed to help me not notice it nor think about its inner workings) rather than tech with the greatest potential to teach.
+
+I loved the final quote of this paper accompanied by the angel drifting away backwards, symbolic of progression. Growth comes from learning from mistakes. Mistakes are where things have been "broken". Innovation comes from engaging with a problem. Yet we're problem-averse.  As I was taking apart my broken object for this Frankenthing assignment, I was curious about how the circuitry worked. I wondered if I could fix the electrical component of the original design, but I was eager to start working on what new thing it could be and didn't linger. I seem to have perfectly illustrated the phenomenon Jackson describes where production and design are hypervalued, and repair and the broken-world thinking go underutilized. By allowing myself to sit in the repair mindset longer or more equitably, I'd have perhaps been able to better innovate including electrical components, and be better equipped to innovate in future settings as well.
+

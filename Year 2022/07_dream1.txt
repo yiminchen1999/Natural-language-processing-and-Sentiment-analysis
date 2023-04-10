@@ -1,0 +1,46 @@
+INTERVIEW
+meison's recap of dream toy ideas:
+https://drive.google.com/file/d/188HAIvrEaw-eS0tFJZb_Vb_9i0rqin1z/view?usp=sharing
+google doc interview prep:
+https://docs.google.com/document/d/1peU0nbIwMQi4ScGi9U7pFzIpPOuSnJJdN2jfKPvHE1U/edit
+
+Initial sketch
+First version prototype
+3D printing prototype
+
+TO DOs March 6th:
+-solder circuitry/ensure secure
+-stick all electric parts in plastic, pierce holes, mount
+-mounts in place for motors
+-some heavy silicone or putty in the bottom part? or just weights? (fill somehow so not so buoyant)
+-secure metal rods to motor, O ring/elastics in place, secure fins to rods
+-secure propeller to back motor, O ring elastic & grease
+-paint?
+-decorate
+
+TO DOs March 8th
+Use silicone glue (borrow from Blake) to go around ring
+Maybe put elastic stopper on the smaller end to catch and seal against the ring?
+Add weights in bottom (metal balls?)
+Attach propeller
+Test under water again..
+Paint/decorate (top cockpit thing?)
+
+Interview Videos
+
+physics, chemistry, 3D printing
+not a lot of time to play, plays soccer at recess, little time between after school program and dinner/night
+multi functional
+a lot of transforming in the play we did
+exploratory, many components
+trial and error w transformers, (first the head, then the legs..)
+explicit requests: shape shifter, something with electronics, sharp sword?? RC car, multi tool
+elastic powered boat/car
+3D printed boat/car with elastic powered axles
+our 2nd interview with ****** revealed that he's really curious about the submerging and maneuvering factor of a submarine
+
+Meison is very clear about what he likes and wants when we interviewed him for the first time. We extracted some general and conceptual ideas from the toys he mentioned, the shapeshifter, cube, RC car/boat, electronic things, and multi tool. These toys have features of open-ended, exploratory, and multi-functional. They also relate to physics and math, which are Meison's favorite subjects. Due to the limited knowledge of electronic things, I purposed the elastic-power car/boat which can also move.  I thought it would help Meison understand how elastic power can be transferred to kinetic energy. I also wanted to make it can both run on the ground and water to help Meison observe how the toy move when it is influenced by different energy.
+In the second interview, I showed the car to Meison. He found the 3D printing car was interesting but not attractive enough. It might because the car is too common and not unique, and the driven power is not as cool as electronic.  He then described his imaginary amphibious car/submarine powered by electricity that can dive into the water and jump out of the water. He also really wanted to use the submarine to test the weight of different metal since he can put them into the submarine to see how metal with different density and weight can influence the depth the submarine can dive to.
+Megan and I finally decided to make the submarine that Meison really wants. Through this submarine, Meison can understand how the circuit connects the battery and the motor to make the boat move - how electric energy can be transferred to kinetic energy, as well as how the submarine is influenced by the changes of its own weight and other forces in the mechanical equilibrium system. The learning goals are understanding the forces and knowing the force analysis. There are several challenges such as how to switch on and off the motor/propeller, how to design an appropriate model of the submarine to make it waterproof, and how to connect the circuit. I was responsible for designing the 3D model. The common point that shared by sample videos on Youtube is that beverage bottle is usually the first choice because it has a screw thread cap that can prevent water entering in the bottle. Therefore, I designed a capsule shape submarine body since I didn't know how to design the screw thread cap. But the capsule also works and is easy to be 3D printed.
+
+

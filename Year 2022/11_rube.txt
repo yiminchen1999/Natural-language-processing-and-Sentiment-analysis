@@ -1,0 +1,19 @@
+Design
+Our initial design has three parts, in the first parts, the gogo board receives the wifi signal and activates the car, and the car drags the thread, which lifts the wood board, so the ball rolls down and hits the dominos.
+In the second part, the ball hits the spoon, and the spoon rotates and hits another ball, which repeats two times and eventually has one ball fall down from the board.
+In the last part, the ball which falls down hit the seesaw, so the other side of the seesaw lifts up, and the ball rolls down to hit the light switch. The light eventually lights up.
+
+Prototyping & testing
+Build prototype: use the easiest-to-find material to build the prototypes to see whether our design works
+Test each part: build each part and test them separately to make sure each parts work on their own, and then tries to connect them together
+Test with code: test code with previous and next group to make sure the signals are transmitted correctly
+
+Final product
+After iterated for several times, we put each part together, and it works well as a whole, but there are still some details that could be refined to be better.
+
+Reflection
+The Ruben goldberg project is very interesting. To start with the project, we first took look at some existing examples to get a clear understanding of how others design the mechanics and learn from them to start our own design. During our iteration, some problems came along, for example, it was hard to control the direction of the balls, so we used some tracks with precise measurements to make the design work. Another example is that we once decided to use spoons, but it didn't work well, so we used wood instead. We also learnt from other groups, for example, we borrowed the board design in the second part from Megan and Mike's group, which is really nicely designed.
+
+For the code part, it turned out to be much harder than I thought, because we received signal from other group, and passed signal to the following group, so we need to test with previous and next groups. We spend a long time testing the code to make sure it works with the other two groups
+
+I think when making it, some parts of our original design no longer work, so iterating and redesigning is very important when coming to solve real-problems

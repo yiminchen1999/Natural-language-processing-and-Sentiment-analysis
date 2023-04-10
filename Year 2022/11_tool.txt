@@ -1,0 +1,11 @@
+tool: 3d modeling and printing
+technique:
+Joint and socket (movable parts)
+description
+Images
+Create a sphere
+Place two rings on opposite sides of the sphere so that they are very close to the sphere, but not actually touching the sphere itself. The rings should be placed in such a way that the sphere is inputting into the inside of the rings themselves. Again they sphere and rings shouldn’t touch each other though.
+Place a ring that goes completely around the sphere and through the two other rings from one end of the ring to the other.
+Use the side rings to create a hole (make sure to replace them with duplicate rings in the same position to take their place). You can delete one of the longer arcs that have been created by the hole. You should now have a connected arc to the two rings that are reinforced with smaller arcs that go end to end on each ring. You now have a ball and socket.
+Add skinny cylinders to the arc of the socket. Copy and paste the whole object over and over to connect multiple ball and sockets together to create a chain.
+We designed a multi part chain that is connected by ball and socket joints, to allow for free range mobility in most directions. The ball joint lays inside of an enclosing socket to keep the joint in place. As a ball the limb can move freely except limited to angles covered by the socket itself.

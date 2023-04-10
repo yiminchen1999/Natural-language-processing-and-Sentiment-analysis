@@ -1,0 +1,11 @@
+Original code
+
+Remix code
+
+Reflection
+
+Writing pseudocode, especially on the original code is a good way for me to see the every detail of the original code, and figure out how these codes perform specific functions. In the process of reading the code and writing pseudocode, I felt like translating an unfamiliar language into familiar words, or like deciphering some secret code. It was difficult but meaningful.
+
+I learned how to imitate others' code and create my own code in the remixing process. I'm new to coding, so observing and imitating others' codes is the first step to think of and try various functions, which improve my knowledge of the use of different functions. However, I also find it very difficult to "translate" my plan to code, since my understanding of those functions in the reference are a little bit superficial. I need more time to dissemble the complicated functions into simple logic, and sequentially think of the code like a computer. The way I usually use to overcome the problem is to search the effect/functions that I want online to learn and imitate others' code.  Although I can hardly find the exactly same thing I want, but I learned a lot by reading others' code and understanding others' process of dissembling complicated functions into simple logic.
+
+I think I hardly reach the goal of making the code meaningful to myself, but the remix key-pressing game was really inspired by a popular software in my childhood, the king of typists. Almost every student in my age firstly learn to type through using the software and playing its typing games. The software shows the speed and total typed words (both English and Chinese) to help users practice typing efficiently and effectively.

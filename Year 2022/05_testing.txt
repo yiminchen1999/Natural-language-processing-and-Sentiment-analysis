@@ -1,0 +1,51 @@
+Feedback from instructor for ideas from week 9
+The overall feedback was that the directions were interesting
+what if two ideas are integrated? (a simulator game in which the puzzle mechanics is incorporated
+the idea that an absurd theory can be formed out of a combination of facts is possibly good
+
+Brainstorm
+I informally brainstormed with a friend at the lab
+The idea that different perspectives can generate different comprehensions of facts was salient, and it led to another direction: a game inspired in Root. I spent a lot of time with a mental block, trying to come up with mechanics for this
+
+Back to original idea
+Then, I went back to the original ideas, with a twist: players would form news headlines using sets of words and images coming from different sources--reliability would depend on the source. I even started to prototype that in cardboard, but I kept thinking that the idea was not robust enough
+
+Another brainstorm
+The idea of a game kept coming, and I did another brainstorm.
+The current iteration is a card game whose dynamics resembles Dixit
+What I like about this idea is that it highlights the fact that personal perspectives and interests can impact how we tell stories and vouch for them
+Also, the mechanics seems to hold up. I dry-tested with two friends and, while they offered some constructive feedback, they seem to see value in the game
+And I'm currently exploring ways to integrate more technology to the mechanics.
+One possible way is to have an AI player (I tested some interactions using GPT-3, and it seems promising).
+Another possibility is using the computer to improve the score-marking method.
+
+3 card decks (goals, facts, special cards)
+Scoreboard
+Instructions
+
+My rational is at the beginning of the current prototype:
+https://www.figma.com/file/G7TwxS8be5Py9tzjMqeskB/Disinformation-prototype?node-id=0%3A1
+
+Previous week's prototype:
+
+Insight from testing it
+
+It became clear that the mechanic was way too complex for this stage. Although I understand that an educational game (or intervention) can be complicated, I believe that, at this point, the complexity would make it harder for me to isolate the aspects that I plan to test. From there, I envisioned two possible directions:
+simplify the mechanics, but keep the essence (a group game in which the players have to create news and identify when personal views are getting on the way of a reasonable account of facts);
+simplify even more and make it a "single player" experience.
+I went with the second option and wanted to test whether AI could serve as scaffold to the task of "creating" news (which was challenging, according to feedback)
+
+My first prototype this week:
+
+I started testing what AI could do with the task of creating headlines from keywords, then added criteria like ("include a generalization," or "include bias towards x"). The results were interesting (see example below).
+
+So, I started creating a simulated learning experience with Google Slides. That allowed me to evaluate the potential of the idea in terms of number of prompts, possible outputs, etc.
+I created 4 rounds (in two of them, the learner creates stories which get evaluated by AI; in the other two, roles reverse) plus an extra interaction in which the user and the AI evaluate each other's way of thinking.
+
+With positive feedback from TAs, I went ahead and created a Figma prototype
+
+The current prototype:
+Finally, I created a (still non-functional) prototype using Figma, which afforded a better look and more flexibility with transitions. This is the link to the prototype in view mode.
+
+I think that the past week has been the least efficient for me in terms of work vs results. I spent a large number of hours trying to figure out some technical aspects of my project and made little progress in terms of final product.
+I started this week's work by debriefing the feedback from the crits and thinking about the technical feasibility of the idea I presented.

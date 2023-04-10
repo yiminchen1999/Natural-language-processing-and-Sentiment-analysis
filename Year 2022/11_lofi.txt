@@ -1,0 +1,7 @@
+target learners: kids and adults who are interested in creating art using light, colors and patterns
+we do not have strong colored LED at lab yet no so I used the multicolor LED to imitate the effect. By adding reflective/mirrored lens, we can have a more interesting visual effects.
+My idea is by using light to create shapes that signal colors, users can create their own patterns by combining acrylic filters and LED lights of different colors
+the learning goals:
+1. to understand color theory
+2. to understand optical effects  
+3. create visual effects by using colors, shapes and light sources

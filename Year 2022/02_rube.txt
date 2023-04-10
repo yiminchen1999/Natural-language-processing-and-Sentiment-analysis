@@ -1,0 +1,16 @@
+Rube Goldberg:  Pinball Station (Light Sensor & Temperature Sensor)
+Introduction
+Inspired by 3D pinball game, we created a station which is triggered by the second group's light sensor with above 10 input data.
+
+Once it is triggered, after 3 seconds, the barrel set at the top of the station will turn 45 degrees for pouring out some little squares in there.
+
+The dropping squares will pile over the proximity sensor set at the bottom of the station. Finally, the hair dryer will be turned on for heating up the temperature.
+
+Brainstorming
+
+Getting a inspiration from 3D pinball game
+
+Designing
+
+Drawing 2D vector images on Gravity
+

@@ -1,0 +1,22 @@
+Forked Code With Pseudocode
+https://openprocessing.org/sketch/1461704
+
+My Remixed Code https://openprocessing.org/sketch/1461704
+
+My reflection
+I looked through quite a lot of inspirational code (I’ve got a document full of useful bookmarks for later).
+I was excited by all the possibilities for relatively easy visual element design and styling. 
+Pseudocode - while I’ve had some experience with HTML, CSS, and JS in regards to exploring other peoples code and pseudocode, I found this process of writing my own pseudocode to help me identify gaps in my knowledge and understanding i might have otherwise missed.
+
+
+I found that the that by systematically breaking down the code I was able to pick out the pieces I was unsure of amongst the many pieces I was familiar with. This not only helped me identify the  gaps in my knowledge but also allowed to form my theories for what these pieces of code did and then test out these theories.
+
+Why my remix is personally meaningful.
+From childhood, I’ve found that my love of and propensity for thinking up  visual ideas to be at conflict with my terrible handwriting and medically diagnosed grapho-motor skill  deficiency. The many technology based tools and softwares that have become popular have certainly helped  close this gap. However, I have found that many of theses softwares like adobe illustrator offer tools designed for those already gifted at illustrating their ideas using analog tools. For this reason, I find  the generative design possibilities of p5 particularly exciting.
+
+My remix allowed me to develop a tool for testing out different aspects of coding and math in a way that more clearly visually represents larger mathematical concepts.
+
+Future use:
+I found it interesting that my sketch also made it easier to see how colors work together, in action, and at different ratios - compared to a color scheme building tools.
+
+I think remixing my remix with the focus on this particular objective presents exciting potential for future work.

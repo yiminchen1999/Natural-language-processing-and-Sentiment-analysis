@@ -1,0 +1,31 @@
+ORIGINAL SKETCH
+
+MY REMIX
+
+I found it interesting that these "sound" variables were declared right in the beginning, and tried to declare other ones that I'd planned to use in my remix (the text string, for example). It didn't work, and I'm not sure why exactly...
+
+This part of the code was easy to understand how to assign an .mp3 file to a variable. The challenge here was to find in the editor interface where the files would go. I found it out by trial and error, clicking on different parts of the menu.
+
+Not sure why this is necessary: why stating the format of a file?
+
+It was fun to work with a song that has an emotional meaning to me. However, I got a little tired of hearing its intro every time that I tested the code XD
+
+I'm still a little confused as to why this button was necessary: no other reference is made to it throughout the code, although removing it produces a glitch.
+
+I found it clever and "elegant" (as programmers like to say) to assign variable numerical values that I could use later. However, it ended up being a little confusing because some functions use coordinates mixed with dimension measures (rect(), for example), whereas others use only coordinates (triangle(), for example)
+
+Changing the text font remained a mystery to me. I looked it up in the Processing documentation, and tried to follow the steps there, but couldn't reproduce the solution in my code, although it seemed quite straight-forward.
+
+This was another challenge: how to define the vertices of the vertices of a triangle using coordinates. The rightmost vertex was a little easier, as well as the top-left one. By trial and error and a couple of drawings on paper, I think I managed to reach a fairly acceptable solution. Akio helped me figure out a method for finding out the coordinates, but I ended up sticking with the previous values because of time constraints.
+
+It was helpful to go back to a few notes that I took during class, linking known shapes with the coordinate system and syntax for shapes.
+
+REFLECTION
+As I wrote pseudocode, I made the effort to explain to myself what was going on. I have heard of this "rubber duck" technique that some programmers use to debug (explain the code to a rubber duck), and I think that a similar process happens with pseudocode. Putting the logic into words "translates" programming language to language that I speak naturally, and this helps me process the meanings that are part of code. Sometimes I feel that
+
+I believe that remixing code is a very efficient learning technique for me. I started using it more systematically during the introductory programming class, and it was critical for me to "grasp beyond reach" (Fosnot, 1996): trying to insert familiar bits into chunks of programming with which I was not familiar and checking out what changed in the output. I think that without "remixing," my learning curve would be less smooth than it can be.
+Going back to Fosnot (1996) again, I am aware that I couldn't solve some contradictions between what I expected and what the screen showed. In those cases, I ignored those contradictions and kept going, keeping those bugs in a kind of "backlog."
+
+The song that I used in my sketch is very meaningful to me. I know that parenting is a recurring theme in my reflections, but this is the case again. This song was a sort of "magical lullaby" that helped make my daughter sleep when she was very little. The singer is one of my favorites, by the way. Now that she is becoming more aware of everything, when it's sleep time, she asks us to sing "the song from when she was very little," and so we sing. Apart from the song, I believe that I turned the tutorial into a more "usable" experiment, but changing the sound effect to a song (although I'm aware of copyright issues that this would imply in real world). I also used the colors more intentionally, I guess, with green calling the attention to the button that has to be pressed.
+
+Among the challenges that I encountered, I think the main one was to draw the triangle using coordinates. I had an intuition of the correct values, and felt it was easier to guess, instead of calculating them precisely. It turns out the result I achieved is acceptable in terms of the vertices. It is worth noting that this challenge is part of a mathophobia that I nurtured for years. Although I have been working hard to overcome it by working more intentionally with numbers, it shows up then and again, especially when time is a constraint.

@@ -1,0 +1,24 @@
+The final design was inspired by a dream Imani shared with me: a white llama would collect a lot of hearts, protecting her from being eaten by monsters in the dream.
+
+Game Rules
+
+1. Players need to place all the heart cards around the game board, before starting from the red stars at each end.
+
+2. Every round, the player, after turning the turntable, will go to the position of the pointed color, while collecting the hearts corresponding to the number of steps.
+
+3. For example, when the game starts, if the player turns to red, his/her llama will take a step forward and collect a heart card at the same time.
+
+4. When the two players meet, the player with the most heart cards wins.
+
+The board game includes a game board (which imitates the plateau, snow-capped mountains and seaside where llamas live), a turntable, two characters (llamas), and fifty heart circle cards are collected into small boxes.
+
+Some Thoughts
+
+I hope this board game can exercise Imani's (three-year-old preschooler) ability to recognize colors, to count, and to socialize with peers, so as to help her future art and math studies.
+
+In this assignment, I found that the difficulty of designing toys for preschool children is first, how to encourage them to think aloud their behaviors for discovering design pain points. For example, Imani firmly wanted an llama in the first interview but could not explain the reason, until I asked her about the characteristics (like color, feeling of touch and etc.) of this alpaca from the side.
+
+Second, in addition to safety issues, I as a instructional designer also need to consider that preschool children grow up very fast. Rather than designing toys that contain a certain knowledge, it is better to start from a macro perspective of cognition. For example, I initially wanted Imani to learn more complex colors and shapes, but in the second interview, I found that she had mastered it.
+
+Also, at the time of the final presentation, Imani's attention was on the leaking llama instead of the whole board game. I do not think this little accident is negative, on the contrary, it reminds me that the more freedom of play, the more willing children are to explore, not to put them under the limitation of game rules.
+

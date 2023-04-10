@@ -1,0 +1,26 @@
+Interview 1
+Brainstorming Session
+
+Interview 2 
+Prototype Testing
+
+The Process
+After we finished the brainstorming session we decided to create a snake that Peter can have fun with! We used paper and velcro that Peter could use to change the skin, head and tail colors. The jaw of the snake would open and close and we also created a small tiny mouse that acted as the snake's  prey. We also carried motors with the Gogo Board that we had already precoded.
+
+Video of Peter playing with Hexbugs
+
+For videos and more pictures do check out out the google doc link
+
+LINK TO  INTERVIEW DOC
+https://docs.google.com/document/d/1gKfoAvwS1Min_WEDdQlEc7oshtlwA3LXZDcE4HKoeZE/edit?usp=sharing
+
+Peter's Reaction: 
+When we showed the prototype to Peter, he did not seem too excited by it. We showed him the options of changing the different skin color but he didn't seem to care. When we showed the mouth of the snake could be opened and closed, he started to get a little more interested. We then showed him the mouse too. It took him a while to understand what it was but then he soon realized it could be a potential prey. He put the mouse inside the mouth of the snake, and his next question was how could the mouse come out. He shook the snake upside down several times for the mouse to come out and it did! We then showed him the motors with the  GoGo Board and he seemed very excited by that! He took it to his hallway and started playing around with it! We had used proximity sensors and buttons as input to run the motors but Peter had a little trouble getting the difference between proximity and buttons. Although the proximity sensors were not attached to anything so may have not fully be clear how they work.  He kept trying to get the motor and wheels to move in different directions. Some questions that popped up were “how did it flip” or “how did you make it flip”
+After figuring out the motors and how it worked, he then took the snake and put it on top of the motor and started playing with it. He also tried to follow the prey with the motor.
+
+We realized Peter wanted the following:
+1. He wanted wheels on the snake.
+2. The Jaw needs to open and close. The prey needs to go inside the mouth and also come out. 
+3. The snake could climb. We could use magnets.
+4. The snake should be easily foldable.
+

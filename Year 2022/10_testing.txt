@@ -1,0 +1,50 @@
+Critiques from panel
+Connecting computational thinking with social emotional learning (does sel involve computational thinking (the logic, the sequence, abstraction .... )
+Considering children's literacy skills. Better if it can be visuals, graphics and pictures.
+The actions, events, emotions is a little bit simple. How to extend the block units. What units can the kit have?
+Under what learning settings? With whom it should be used? Teachers' scaffolding? Teacher <-> student interactions?
+Critiques from Paulo
+Add overlays (finding the patterns:what causes bad emotions, how people usually act under emotions ... a ebook that helps renegade decisions and predict outcomes)
+Supporting materials (videos or books to guide through using the kit)
+Technical suggestions from Jonathan
+Fiducial and AR
+Redesign - a complete toolkit
+EmotionBlocks that enable children to explore emotions through tangible storytelling
+Principle:
+ Use pictures, use colors
+ More blocks for more complex scenes (locations, actions, emotions, people, satisfaction, reactions)
+ Use animal/cartoon characters
+levels of emotions
+images instead of words
+EmotionDiary that prompt children to reflect and analyze patterns through AR phone application
+Principle:
+Automatically generated prompts for reflection
+Why do you feel angry?
+How do they feel differently?
+Conversational agent to guide the scaffolding process
+Collect sequential data and analyze the patterns
+Storybooks that serves as a guide and prompts to start using the kit.
+Final Design
+EmotionBlocks that enable children to explore emotions through tangible storytelling
+
+Block types:
+Location block: where does it happen
+Action block: what happens
+Emotion block: How do different people feel
+Locations:
+Forest, Park, Classroom, Home
+Actions:
+fight grab throw want eat get yell cry
+no yes
+calmdown ask talk apologize
+play sport think listen read paint sing study say
+Emotions:
+Sad angry worried disappointed
+jealous confused shy embarrassed tired bored
+happy proud excited curious loved
+People:
+Bear, Fox, Bear mom, Teacher
+Items:
+cookie toy milk snack book TV game phone
+book exam
+basketball soccer

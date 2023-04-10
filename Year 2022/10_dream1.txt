@@ -1,0 +1,34 @@
+Interview protocol
+
+Design idea
+Co-design
+Similar products
+
+A description of your initial idea(s) for the dream toy.
+What toy/toolkit did you and the kid converge on?
+We decided to build a wooden house with different rooms. Inside rooms are different furnitures. There will be multiple dolls that can have various clothes for replacement.
+What are the learning goals of the toy?
+There are two learning goals. First is learn about interior design and decoration. Maggie will have freedom to decorate the house and learn about the functions of different rooms and appropriate furnitures in different rooms. Secondly, Maggie will have the chance to learn about fashion making and designing outfits for the dolls. Lastly, Maggie can play the toy with her family. It is a chance for family to enjoy playing together.
+What design decisions did you make about the toy/toolkit, and why?
+I will use wood to build the house and different rooms. I will use various materials, including wood, mdf, clay, fabric, and metal to make the furnitures. Ideally, I will use copper tape and LED to luminate the house, and I will use 3d printing to make the dolls.
+Are you going to incorporate 3D fabrication into your toy or in your omni animal? If so, how?
+I will use 3d printing to make the dolls, and I will use vacuum machine and modeling  to make some furnitures.
+
+Reflection
+Reflective conclusion:
+How do your decisions for medium (virtual, physical, etc.), format (game, puzzle, free, tutorial, etc.) and interaction possibilities align with the learning goals?
+Meggie wants to learn about fashion and interior design, and she also likes decorating and constructing. So I think this will be a good start to learn about pairing different outfits and decorating rooms.
+What did you learn from the process about the kid, about the process itself, etc?
+I think it is very difficult to interview kids for me. I don't understand the toys she likes and I don't know about the books she reads, so I think I learnt a lot from her about what kids of their age like to do and play. It is very different from what I like when I was little. It is also interesting to discover that what I have assumed about kids, how they learn, and what they want to learn are something very subjective. It was a very good chance to see how children communicate and the ways they think.
+What will you change when you do user research for your final project?
+I think I focus too much on the toy itself without thinking about the learning theories behind the design. When interviewing kids, it is also ideal to prepare some activities to do together with kids.
+
+Interview process
+I visited Meggie's home on Sunday morning. Her mom Megan is very friendly, and showed me their house and Meggie's room. Meggie's room is very organized with a tall pile and a basket of stuffed animals and soft dolls. She also has a shelf of books, and her favorite book is Dork Diary. Then we had a nice conversation about her school life, her hobbies, her favorite toys, and skills and knowledge she would like to gain in the future. Her favorite subject at school is History, and she has a special interest in the history of film. She likes fashion and singing. Her favorite musician is Taylor Swift, and she wants to learn piano and guitar in the future. She likes to play at Central Park, and school playground. She likes to play with her friends, but she also enjoys play alone. She likes to play video games (switch games) with her father.
+
+Brainstorm
+She showed me her favorite toys. It is a Blume doll. She told me that it was her second favorite, but she lost her favorite when her family moved. She also showed me some other toys, like a hand-on fashion making kit, cute pillows, and science experiment kit.
+Then she showed me some of the crafts she made. She loves making crafts, especially when she makes them with and for her family. She makes a cute craft for each member in her family. She really loves her family, her brothers and her mom and dad.
+
+After seeing the toys she like, and the crafts she made. We talked about what she would like to have as a toy, and I showed her some pictures of similar toys.
+

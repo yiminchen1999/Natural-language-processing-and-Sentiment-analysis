@@ -1,0 +1,21 @@
+original plan: poke the ballon with a needle, but the ballon is too thick, so we gave up this idea and decided to use a box stores glitters
+Laser cutter printed box
+when the gogoboard takes heart beat as input, the red light start to shine, when the heart beats 10 times, the yellow light starts to shine, and when the heart beats 20 times, the green light start to shine
+working on the electricity of three lights
+box stores the glitters, glitters will pop-up when the machine opens the box
+After the heartbeat reaches 30 beats in 25 second, the will start to turn, and the box will be opened, then the glitters will pop-up
+some decorations of the box using the vinyl paper
+3-D printed wheel, thanks to David ;)
+final look of the product
+code run in background that control the broadcasting to next group
+code that control the LED light
+code that turn the motor and the wheel
+after everything is done, send the broadcast signal to next group
+First it took us sometime to write the code of calculating the heart beat. We originally wanted to calculate heart beat per minute, but it may takes a longer time for the user to interact with the board, so we decided to change our design and made it to be count the heart beats in a certain amount of time.
+
+Then we designed a surprising box and cut it using the laser cutter. The original plan was to open the box using the motor that located on the side of the box to turn and pull the string, but because the MDF material is too heavy to pull using the force from the motor, we change the top part of the box to use the cardboard, then tied the top part with the side of the boxes.
+
+We wanted to tape the ballon in the box, and when the motor pull the top of the box, it will also pull the ballon to hit the needle that we put on the side of the box, but we tested may times and this design did not work well because the ballon is too thick, and none of the needle in the lab could poke the ballon. So we get rid of the ballon and designed another box inside the box as a container hold the glitters, when the box is opened, the glitters from the container will pop up.
+
+We originally designed to put the motor on the side of the box, and did many test to use the motor to pull the string, but it did not work out because the force from this angle is not strong enough to pull the box to open. Then we changed our design to have a tall stand for the motor and make it stand by the side of the box, so the force comes from the motor will be able to pull the top.
+Also, thanks to David for making the 3D wheel for us to roll the string that pulls the box top!

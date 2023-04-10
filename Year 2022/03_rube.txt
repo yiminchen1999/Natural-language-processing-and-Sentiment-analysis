@@ -1,0 +1,24 @@
+Prototyping
+Laser cutting
+Cutting the sticks
+Chopping the platform (for supporting the proximity sensor)
+Gluing the sticks, completing the pinball board!
+Sanding the platform
+Drilling
+Coding
+
+[How did you test your mechanism?]
+When we decided to make the 3D Pinball, we first developed a rough prototype to let the ball falls from the top of the broad to test where the ball might eventually fall. Then we would make adjustments accordingly.
+
+[What was your goal in iteration? (Reliability? Elegance?)]
+Our goal was reliability. Because we needed to made sure that at least one of our balls could fall in the range to trigger the proximity sensor so that sensor could be triggered to reach the next phase.
+
+[How did you decide what to change?]
+Our biggest challenge was how to make sure to trigger the proximity sensor when the ball drops. It turned out that the proximity sensor is extremely sensitive, that the ball must be fall into a very exact point to trigger the sensor. That was something we did not anticipated in our original design so we decided to make some changes. The first thing we did was to block some of the path of the balls, so the balls could fall into a relatively easier place to trigger the proximity sensor. Then we adjusted the height, angles as well as the power of the motor to ensure the balls do not fall out of the area and the speed of falling is controlled in an ideal range.
+
+The final code on GoGo Board
+Pinball Station
+
+The front side (up)
+
+The back side (right)

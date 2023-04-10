@@ -1,0 +1,22 @@
+We 3D printed the mice that acted as a prey for the robotic snake.
+
+We created Silicone molds to cover the body of the snake. We considered many different ways to create a mold to cast our silicone scales and landed on using silicone pot holders with a hexagonal pattern. One of the biggest challenges we faced was to stick the silicone to the wood. After using several glues, we finally decided to use zip ties to attach the silicone to the wood.
+
+after creating a quick cardboard prototype we made this wooden prototype to test out the movement of a snake with metal binding posts connecting pieces of wood
+
+To make each body section move smoothly while maintaining the slithering, we added two small wooden beads to each piece.
+This design was inspired by research on other types of snake toys along with DIY videos on different types of robots.
+
+Snake Slithering
+
+Getting the snake body to move correctly was a big challenge, we had to make multiple modification including:
+ - changing the size of the body pieces 
+- adding weights inside the mouth (a fidget spinner + modeling clay + a few bolts and screws stuck in between the fidget spinner sections
+- varying sizes of binding posts
+
+You may notice that we did not finish attaching the scales to the head while testing the motion. This gave us the flexibility to try different amounts of weight in the head.
+
+REFLECTION
+ It took many iterations and much tinkering to build the robot snake for Peter. Our two significant challenges involved getting the snake body to move in a slithering pattern and getting the snake silicone “skin” to attach to the wooden body.  Through these iterations we learned that making a final product always takes longer than expected and we learned how to whittle down our list of “dream” features (based on our interview and testing with Peter) to key features and functionality that were doable in the available time.
+ We spent a lot of time figuring out how to make the robot feel more like a real snake than Peter's current only snake toy - a long stuffed snaked. We decided to use silicone to create the snake skin to give it a little more realistic texture.
+ Ultimately, after consulting with Paulo, we realized the need to add an additional playful element to the toy snake experience so we created a magnetic tongue. We gave Peter a small metal box with little washers for him to spread out on the ground and have the snake pick up as it slithered over them. The box also included the 3D printed mice, a few bugs and a compass affixed to the top. This snake feeding box ended up being one of the most exciting things to Peter - he showed more interest in the box and its contents then some of the features of the snake we spent much more time on. This showed us how important incorporating playful elements are to the design and the power of creating “kits” for children.

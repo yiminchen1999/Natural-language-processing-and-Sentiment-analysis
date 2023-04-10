@@ -1,0 +1,2466 @@
+Original Code: https://p5play
+p5js
+p5js
+org/quinton-ashley/sketches/szN_XdV5O
+
+Trial and error:
+I initially started with saving the code on my desktop and updating it with notepad, however it was difficult to see the effect of my changes
+org/quinton-ashley/sketches/szN_XdV5O
+
+Trial and error:
+I initially started with saving the code on my desktop and updating it with notepad, however it was difficult to see the effect of my changes
+I was able to change the directions in which they moved and adjust the speed by updating the velocity
+
+Pseudocode
+
+I was having difficulty changing the background, so I then switched over to the js5 editor and started to work there
+I was able to change the directions in which they moved and adjust the speed by updating the velocity
+
+Pseudocode
+
+I was having difficulty changing the background, so I then switched over to the js5 editor and started to work there
+I then found additional code that I could add to change shapes and colors of the "sprites" so I experimented with the dots, polygon and star shape
+Each one reacted differently - the polygon had a "collide" and "bounce" reaction, whereas the star held the sprites inside of its borders
+
+The code remix was quite challenging when I was getting started and trying to figure out how to use the libraries
+Each one reacted differently - the polygon had a "collide" and "bounce" reaction, whereas the star held the sprites inside of its borders
+
+The code remix was quite challenging when I was getting started and trying to figure out how to use the libraries
+I had difficulty changing the background of the game, as I initially wanted to switch it out to look like a video game background
+My first thoughts before disassembling the camera were to:
+1
+Try to salvage and/or utilize the "main" components (lens, screen, buttons, lights)
+3
+Ideas of what to recreate ranged from a charger, to getting the screen to turn on,
+to making an aesthetic art piece, to a telescope from the lens
+
+Disassembling Phase:
+I used a screwdriver to easily take apart the camera
+There were a series of different boards inside along with the obvious of lenses, lights, batteries, the screen
+I am unsure what the orange strips were, my one thought is that they function as the "wires" to send signals to the various boards
+Once I saw the hole that the main lens left when it was removed I then had the thought "I could make this a speaker!"
+
+Revision Phase:
+I make Bluetooth speakers with my students, so I knew I had the supplies to make this happen
+I used a Dremel to remove some plastic for a 9V battery to fit inside the case, as well as had to Dremel down the switch to make it fit in the original button hole
+Once I soldered the switch and  glued in the speaker, the last (most challenging) part was to reassemble the case and screw it all back together
+
+Reflection
+I wish I paid closer attention when disassembling the case because the most challenging part was reassembling it
+Ideas of what to recreate ranged from a charger, to getting the screen to turn on,
+to making an aesthetic art piece, to a telescope from the lens
+
+Disassembling Phase:
+I used a screwdriver to easily take apart the camera
+There were a series of different boards inside along with the obvious of lenses, lights, batteries, the screen
+I am unsure what the orange strips were, my one thought is that they function as the "wires" to send signals to the various boards
+Once I saw the hole that the main lens left when it was removed I then had the thought "I could make this a speaker!"
+
+Revision Phase:
+I make Bluetooth speakers with my students, so I knew I had the supplies to make this happen
+I used a Dremel to remove some plastic for a 9V battery to fit inside the case, as well as had to Dremel down the switch to make it fit in the original button hole
+Once I soldered the switch and  glued in the speaker, the last (most challenging) part was to reassemble the case and screw it all back together
+
+Reflection
+I wish I paid closer attention when disassembling the case because the most challenging part was reassembling it
+Ideas of what to recreate ranged from a charger, to getting the screen to turn on,
+to making an aesthetic art piece, to a telescope from the lens
+
+Disassembling Phase:
+I used a screwdriver to easily take apart the camera
+There were a series of different boards inside along with the obvious of lenses, lights, batteries, the screen
+I am unsure what the orange strips were, my one thought is that they function as the "wires" to send signals to the various boards
+Once I saw the hole that the main lens left when it was removed I then had the thought "I could make this a speaker!"
+
+Revision Phase:
+I make Bluetooth speakers with my students, so I knew I had the supplies to make this happen
+I used a Dremel to remove some plastic for a 9V battery to fit inside the case, as well as had to Dremel down the switch to make it fit in the original button hole
+Once I soldered the switch and  glued in the speaker, the last (most challenging) part was to reassemble the case and screw it all back together
+
+Reflection
+I wish I paid closer attention when disassembling the case because the most challenging part was reassembling it
+Ideas of what to recreate ranged from a charger, to getting the screen to turn on,
+to making an aesthetic art piece, to a telescope from the lens
+
+Disassembling Phase:
+I used a screwdriver to easily take apart the camera
+There were a series of different boards inside along with the obvious of lenses, lights, batteries, the screen
+I am unsure what the orange strips were, my one thought is that they function as the "wires" to send signals to the various boards
+Once I saw the hole that the main lens left when it was removed I then had the thought "I could make this a speaker!"
+
+Revision Phase:
+I make Bluetooth speakers with my students, so I knew I had the supplies to make this happen
+I used a Dremel to remove some plastic for a 9V battery to fit inside the case, as well as had to Dremel down the switch to make it fit in the original button hole
+Once I soldered the switch and  glued in the speaker, the last (most challenging) part was to reassemble the case and screw it all back together
+
+Reflection
+I wish I paid closer attention when disassembling the case because the most challenging part was reassembling it
+Ideas of what to recreate ranged from a charger, to getting the screen to turn on,
+to making an aesthetic art piece, to a telescope from the lens
+
+Disassembling Phase:
+I used a screwdriver to easily take apart the camera
+There were a series of different boards inside along with the obvious of lenses, lights, batteries, the screen
+I am unsure what the orange strips were, my one thought is that they function as the "wires" to send signals to the various boards
+Once I saw the hole that the main lens left when it was removed I then had the thought "I could make this a speaker!"
+
+Revision Phase:
+I make Bluetooth speakers with my students, so I knew I had the supplies to make this happen
+I used a Dremel to remove some plastic for a 9V battery to fit inside the case, as well as had to Dremel down the switch to make it fit in the original button hole
+Once I soldered the switch and  glued in the speaker, the last (most challenging) part was to reassemble the case and screw it all back together
+
+Reflection
+I wish I paid closer attention when disassembling the case because the most challenging part was reassembling it
+Ideas of what to recreate ranged from a charger, to getting the screen to turn on,
+to making an aesthetic art piece, to a telescope from the lens
+
+Disassembling Phase:
+I used a screwdriver to easily take apart the camera
+There were a series of different boards inside along with the obvious of lenses, lights, batteries, the screen
+I am unsure what the orange strips were, my one thought is that they function as the "wires" to send signals to the various boards
+Once I saw the hole that the main lens left when it was removed I then had the thought "I could make this a speaker!"
+
+Revision Phase:
+I make Bluetooth speakers with my students, so I knew I had the supplies to make this happen
+I used a Dremel to remove some plastic for a 9V battery to fit inside the case, as well as had to Dremel down the switch to make it fit in the original button hole
+Once I soldered the switch and  glued in the speaker, the last (most challenging) part was to reassemble the case and screw it all back together
+
+Reflection
+I wish I paid closer attention when disassembling the case because the most challenging part was reassembling it
+Ideas of what to recreate ranged from a charger, to getting the screen to turn on,
+to making an aesthetic art piece, to a telescope from the lens
+
+Disassembling Phase:
+I used a screwdriver to easily take apart the camera
+There were a series of different boards inside along with the obvious of lenses, lights, batteries, the screen
+I am unsure what the orange strips were, my one thought is that they function as the "wires" to send signals to the various boards
+Once I saw the hole that the main lens left when it was removed I then had the thought "I could make this a speaker!"
+
+Revision Phase:
+I make Bluetooth speakers with my students, so I knew I had the supplies to make this happen
+I used a Dremel to remove some plastic for a 9V battery to fit inside the case, as well as had to Dremel down the switch to make it fit in the original button hole
+Once I soldered the switch and  glued in the speaker, the last (most challenging) part was to reassemble the case and screw it all back together
+
+Reflection
+I wish I paid closer attention when disassembling the case because the most challenging part was reassembling it
+Ideas of what to recreate ranged from a charger, to getting the screen to turn on,
+to making an aesthetic art piece, to a telescope from the lens
+
+Disassembling Phase:
+I used a screwdriver to easily take apart the camera
+There were a series of different boards inside along with the obvious of lenses, lights, batteries, the screen
+I am unsure what the orange strips were, my one thought is that they function as the "wires" to send signals to the various boards
+Once I saw the hole that the main lens left when it was removed I then had the thought "I could make this a speaker!"
+
+Revision Phase:
+I make Bluetooth speakers with my students, so I knew I had the supplies to make this happen
+I used a Dremel to remove some plastic for a 9V battery to fit inside the case, as well as had to Dremel down the switch to make it fit in the original button hole
+Once I soldered the switch and  glued in the speaker, the last (most challenging) part was to reassemble the case and screw it all back together
+
+Reflection
+I wish I paid closer attention when disassembling the case because the most challenging part was reassembling it
+It took me a while to realize I needed to utilize the metal sections I had taken out in order for the screws to hold
+It took me a while to realize I needed to utilize the metal sections I had taken out in order for the screws to hold
+As I think about the word "repair" I used to associate it with fixing a current object in order to restore its original function
+However, after reading Rethinking Repair, I began to understand that repair is beyond just fixing something, but rather the beauty of repair is that it can become something totally new
+Originally, I was so focused on "needing" to use the electronics of the camera that I felt stuck, but once I allowed myself to be okay with not using those components I really enjoyed creating something entirely new within its case
+Originally, I was so focused on "needing" to use the electronics of the camera that I felt stuck, but once I allowed myself to be okay with not using those components I really enjoyed creating something entirely new within its case
+FIRST IDEA
+Materials:
+Crocs: Primarily composed of PEVA and fabric
+Jeans: Jeans, button, ziper, thread
+
+This was my daughter crocs that is too tight
+FIRST IDEA
+Materials:
+Crocs: Primarily composed of PEVA and fabric
+Jeans: Jeans, button, ziper, thread
+
+This was my daughter crocs that is too tight
+I planned to do a pencil case as you can see on the sketch
+SECOND IDEA
+
+Materials:
+	•	Crocs: Primarily composed of polyethylene vinyl acetate (PEVA) and fabric
+	•	Part of a Lamp (I found it in my building garbage like this): Metal inside and plastic outside
+	•	Crochet thread
+
+Sketch:
+As the crocs is made of plastic and water proof, I thought about bringing life to something that was already junk
+SECOND IDEA
+
+Materials:
+	•	Crocs: Primarily composed of polyethylene vinyl acetate (PEVA) and fabric
+	•	Part of a Lamp (I found it in my building garbage like this): Metal inside and plastic outside
+	•	Crochet thread
+
+Sketch:
+As the crocs is made of plastic and water proof, I thought about bringing life to something that was already junk
+SECOND IDEA
+
+Materials:
+	•	Crocs: Primarily composed of polyethylene vinyl acetate (PEVA) and fabric
+	•	Part of a Lamp (I found it in my building garbage like this): Metal inside and plastic outside
+	•	Crochet thread
+
+Sketch:
+As the crocs is made of plastic and water proof, I thought about bringing life to something that was already junk
+When I finished sewing, I planted the bean in cotton and another one on land to see which one would grow
+In today's fast-paced world, we often discard objects that are broken or no longer useful, without giving much thought to repairing or repurposing them
+In today's fast-paced world, we often discard objects that are broken or no longer useful, without giving much thought to repairing or repurposing them
+This project served me as a reminder of the power and importance of repurposing and reusing what we might otherwise discard
+Rube Goldberg:
+Input: Heartbeat
+Output: Broadcast wifi message
+
+Design
+
+The general idea is to divide the whole mechanism into two parts, In the first part, the input of heartbeat will transit into motor movement, which will trigger some kind physical mechanism that push the button
+Rube Goldberg:
+Input: Heartbeat
+Output: Broadcast wifi message
+
+Design
+
+The general idea is to divide the whole mechanism into two parts, In the first part, the input of heartbeat will transit into motor movement, which will trigger some kind physical mechanism that push the button
+Rube Goldberg:
+Input: Heartbeat
+Output: Broadcast wifi message
+
+Design
+
+The general idea is to divide the whole mechanism into two parts, In the first part, the input of heartbeat will transit into motor movement, which will trigger some kind physical mechanism that push the button
+Then, the button will trigger the broadcast mechanism, which will be received by the next group
+Then, the button will trigger the broadcast mechanism, which will be received by the next group
+Then, the button will trigger the broadcast mechanism, which will be received by the next group
+At the beginning we had different ideas, such as designing a car that would transport weight and then would deposit the objects triggering the next button
+Finally, we decided to build a pulley with wood, and a box and a gear with the laser cutter machine
+Finally, we decided to build a pulley with wood, and a box and a gear with the laser cutter machine
+Finally, we decided to build a pulley with wood, and a box and a gear with the laser cutter machine
+Finally, we decided to build a pulley with wood, and a box and a gear with the laser cutter machine
+prototype
+
+We cut a piece of wood to make a base and we cut a wood stick
+prototype
+
+We cut a piece of wood to make a base and we cut a wood stick
+Then, we made a hole in he base to attach the vertical wood stick
+We made a hole in the vertical stick to attach the gear
+We laser cut 4 circles to build a gear, and a box
+We laser cut 4 circles to build a gear, and a box
+Then, we decided to make another hole in the base to attach the motor
+We put weight in the box to trigger a button behind the box that sends a wifi message to the next station
+We glued the pieces of the box, and added magnets to make the box heavy
+final station
+
+How we code the two mechanisms with GoGo Code
+
+This is the final version of the box with some flowers as decorations
+At the end, we laser cut a heart to decorate the heartbeat sensor
+At the end, we laser cut a heart to decorate the heartbeat sensor
+It can be difficult to imagine mechanism working, to prototype real physics working, and trying the best materials, and weight
+We learnt how to shape and work with wood, continue trying laser cutter machine and added physics mechanism
+We learnt how to shape and work with wood, continue trying laser cutter machine and added physics mechanism
+At first, we really struggle over how we can insert a middle link between heartbeat and broadcast because both seem to be so “un”-physical
+At first, we really struggle over how we can insert a middle link between heartbeat and broadcast because both seem to be so “un”-physical
+We then decided to use an extra button and the gear to interpolate between the heartbeat
+We then decided to use an extra button and the gear to interpolate between the heartbeat
+Another thing we encountered is how to come up with a solid structure that supports the gear
+After considering the level of convenience for both, we finally decide on a disc base, which will allow us to fix layout for other elements like the button and the motor
+After considering the level of convenience for both, we finally decide on a disc base, which will allow us to fix layout for other elements like the button and the motor
+We  needed something that would carry the water without absorbing it, so wood wouldn't work without another material on top
+We found this tube and began researching simple machines (specifically levers and pulleys) as a way to move the tube
+We found a motor that we could make into a pulley, we just needed to find something heavy enough (hockey puck) to actually move the tube
+We found a motor that we could make into a pulley, we just needed to find something heavy enough (hockey puck) to actually move the tube
+Prototyping & Moments of Learning
+We attached the hockey puck to the pulley using a strong plastic typed material and used a spring to distribute the weight so our motor could turn the hockey puck pulley enough
+Prototyping & Moments of Learning
+We attached the hockey puck to the pulley using a strong plastic typed material and used a spring to distribute the weight so our motor could turn the hockey puck pulley enough
+Prototyping & Moments of Learning
+We attached the hockey puck to the pulley using a strong plastic typed material and used a spring to distribute the weight so our motor could turn the hockey puck pulley enough
+Then, we began creating a base that would keep the motor elevated and all the aspects in place
+Eury found a great wood piece that could hold our tube once we found a way to attach the wood the table (it was magnetic but it wouldn't stay on any white boards)
+Eury found a great wood piece that could hold our tube once we found a way to attach the wood the table (it was magnetic but it wouldn't stay on any white boards)
+Our only issue then was to ensure the tube would stay on same part of the wood each time, tipping in the same location so it would hit the sensor reliably
+Our only issue then was to ensure the tube would stay on same part of the wood each time, tipping in the same location so it would hit the sensor reliably
+We laser cut some circles that were slightly bigger than our tube and glued 2 together after realizing only 1 allowed the tube to move too much, and attaching 3 gave too little flexibility
+When the "cotton balls" were too wet, they were too heavy and did not slide
+When there was only 1-2 "cotton balls", they did not always build up the momentum to move
+When we used a combination of a few fish, a few blue stones, and more "cotton balls" that were moderately wet, we found the most success
+Reflection Card: Working with a partner was really helpful for this project because we were able to brainstorm and problem solve together, incorporating two different perspectives into the design
+This process taught me about force, weight, gravity, and friction in a hands on way that did not require the use of equations specifically, but rather shaped our understanding of the math behind it through these concrete objects
+The combination of coding and 3d movement, similarly as with the laser cutting assignment, demonstrated switching between 2d and 3d seamlessly
+The combination of coding and 3d movement, similarly as with the laser cutting assignment, demonstrated switching between 2d and 3d seamlessly
+The dissembling process itself is a test for perseverance and creativity
+I revised how electric machine works in the process
+I observed more closely and had deeper understanding of every pieces when brainstorming for new design
+I failed forward
+People are focused, driven and creative in this state
+
+I dissembled a small electric fan designed for a computer's CPU
+
+Tools and process
+
+Final dissembled parts
+
+Copper wire
+Plastic fan
+Plastic shell
+Electric machine (including magnets, copper wire)
+Electric wire 
+Heat conductor
+Plastic and copper
+Plastic connecting parts
+
+Early design ideas 
+Circles look spiritual
+Really trying to do something with the copper wire here
+
+Final design: a G-shaped wall decoration
+It looks different if you look at it from different angles
+People are focused, driven and creative in this state
+
+I dissembled a small electric fan designed for a computer's CPU
+
+Tools and process
+
+Final dissembled parts
+
+Copper wire
+Plastic fan
+Plastic shell
+Electric machine (including magnets, copper wire)
+Electric wire 
+Heat conductor
+Plastic and copper
+Plastic connecting parts
+
+Early design ideas 
+Circles look spiritual
+Really trying to do something with the copper wire here
+
+Final design: a G-shaped wall decoration
+It looks different if you look at it from different angles
+People are focused, driven and creative in this state
+
+I dissembled a small electric fan designed for a computer's CPU
+
+Tools and process
+
+Final dissembled parts
+
+Copper wire
+Plastic fan
+Plastic shell
+Electric machine (including magnets, copper wire)
+Electric wire 
+Heat conductor
+Plastic and copper
+Plastic connecting parts
+
+Early design ideas 
+Circles look spiritual
+Really trying to do something with the copper wire here
+
+Final design: a G-shaped wall decoration
+It looks different if you look at it from different angles
+Original code: Follow
+ (with pseudocode)
+
+Biggest learnings from the pseudocode exercise
+1
+Original code: Follow
+ (with pseudocode)
+
+Biggest learnings from the pseudocode exercise
+1
+Original code: Follow
+ (with pseudocode)
+
+Biggest learnings from the pseudocode exercise
+1
+draw() is the key to create interactive graphics and animation
+3
+draw() is the key to create interactive graphics and animation
+3
+New design idea 1:
+I wanted to make a snake game/"fish eat fish" type of experience and realized that it would be too difficult
+
+After playing around the code, I realized that frameRate() is a intersting function so I kept it
+
+New design idea 2:
+I got interested in this movement and wanted a drawing effect to show the trail/track of the movement
+
+I did not know how to search for the effect I wanted at first
+Luckily, I found this resource in p5
+New design:  Art tool (and a math learning tool)
+
+Changes made based on the original code
+1
+Added a slider to control the frame rate and a clear button to reset the canvas
+
+A user can adjust the frame rate with the slider
+When the rate is higher, the lines are denser from before and present a different artistic feeling
+
+I tried changing the color and length of the strokes in the code
+Given more time, I will build them as buttons or sliders for users to play with
+
+1
+Learning code is like learning another language that is rooted in computational thinking
+Learning code is like learning another language that is rooted in computational thinking
+However, constructionist way of learning coding gave me an understanding of what codes can do and build self-efficacy
+I now know how to debug and solve problems on my own
+First I created a rectangle to put inside the buttons
+I didn't know how to do the buttons, but with the help of Akio and the references I was able to create
+Play the video to see the code working!
+
+I didn't understand how to clear my canvas, so I decided to create an erase by giving the same color of the canvas to the brush
+But after I was able to create the reset button :)
+
+Along with my code is possible to read my pseudocode where I explain my choices
+But after I was able to create the reset button :)
+
+Along with my code is possible to read my pseudocode where I explain my choices
+But after I was able to create the reset button :)
+
+Along with my code is possible to read my pseudocode where I explain my choices
+But after I was able to create the reset button :)
+
+Along with my code is possible to read my pseudocode where I explain my choices
+I wanted to add a button but didn't know how, so I looked for references and even sought help from ChatGPT
+With Akio's help and my own research, I was able to find a simple code that I felt comfortable with
+I dedicated a significant amount of time to styling the code and making it look good
+This project was especially meaningful to me as my daughter had asked me to draw on my computer using paint, so finding a suitable code was a fun challenge
+This project was especially meaningful to me as my daughter had asked me to draw on my computer using paint, so finding a suitable code was a fun challenge
+Idea + Blueprint: I got so intrigued and excited when I first saw the mobius strip at TLTL
+It was fascinating given that we can make something bendable out of the rigid wood
+I realized mobius strip resembles the feather(train) of the male peacock
+Trial & Error: I had to play with mobius strip svg file to get the exact degree of curve that I wanted for the peacock's feather(train)
+Final Stage: I made three little rectangle-shaped cuts on the edge of the mobius strip to insert it on the side-edge of the peacock's body and stabilize the feather(train)
+But now I became an inventor who could make the toolkit for the animal 3D wooden puzzle and it makes me feel like I--as we--am forging community altogether and empowered/get more agency of belonging
+But now I became an inventor who could make the toolkit for the animal 3D wooden puzzle and it makes me feel like I--as we--am forging community altogether and empowered/get more agency of belonging
+As shown in trial & error #1 picture, I had to play with the shapes (comb pattern) to get the shape I desire and it led me to comprehend the general mechanism of Mobius strip, which I was not able to get when I was doing heads-on only
+Link to original project with pseudocode comments: https://editor
+Link to original project with pseudocode comments: https://editor
+Link to original project with pseudocode comments: https://editor
+p5js
+p5js
+org/hh2867/sketches/RfEPqAr6A
+
+Link to NEW project with pseudocode comments on what has been reiterated: https://editor
+org/hh2867/sketches/RfEPqAr6A
+
+Link to NEW project with pseudocode comments on what has been reiterated: https://editor
+org/hh2867/sketches/RfEPqAr6A
+
+Link to NEW project with pseudocode comments on what has been reiterated: https://editor
+org/hh2867/sketches/RfEPqAr6A
+
+Link to NEW project with pseudocode comments on what has been reiterated: https://editor
+org/hh2867/sketches/RfEPqAr6A
+
+Link to NEW project with pseudocode comments on what has been reiterated: https://editor
+p5js
+p5js
+org/hh2867/sketches/F5u02Xbj_
+
+Summary of what I changed:
+
+I turned the simple foggy forest into a meditation experience with purpose
+For this I was able to utilize other codes in the p5js gallery by looking at how various people had made rain
+For this I was able to utilize other codes in the p5js gallery by looking at how various people had made rain
+For this I was able to utilize other codes in the p5js gallery by looking at how various people had made rain
+The Meditation Sounds:
+I first converted youtube sounds to mp3 and then uploaded them into my p5
+I knew what I needed to happen and what the computer needed to be told to make it happen, but it took me a bit to figure out the correct 'if, else' statement to make it happen
+Even if it not exactly how I "wanted" to code it, it still functions
+The article “Rethinking Repair” made me think about the concept of repair as I worked through this assignment, and that it goes beyond fixing broken items, but also thinking about repurposing and reusing
+The article “Rethinking Repair” made me think about the concept of repair as I worked through this assignment, and that it goes beyond fixing broken items, but also thinking about repurposing and reusing
+Currently, our technologies change so quickly and new items are introduced, including toys, so the idea of repurposing seems extremely timely and necessary
+Materials
+	•	Mechanical pencil and pen
+	•	Bottle cap
+	•	Buttons
+	•	Hand sanitizer bottle
+
+Parts 
+	•	additional items added during process: wooden base, cloth to connect springs and base
+
+Tools
+	•	Scissors
+	•	Super glue
+	•	Needle and thread
+
+
+Design sketch/ Bobble Toy
+
+Process 
+
+Video
+
+Final
+The springs were different sizes/heights, which caused the base to be slanted
+Materials
+	•	Mechanical pencil and pen
+	•	Bottle cap
+	•	Buttons
+	•	Hand sanitizer bottle
+
+Parts 
+	•	additional items added during process: wooden base, cloth to connect springs and base
+
+Tools
+	•	Scissors
+	•	Super glue
+	•	Needle and thread
+
+
+Design sketch/ Bobble Toy
+
+Process 
+
+Video
+
+Final
+The springs were different sizes/heights, which caused the base to be slanted
+Materials
+	•	Mechanical pencil and pen
+	•	Bottle cap
+	•	Buttons
+	•	Hand sanitizer bottle
+
+Parts 
+	•	additional items added during process: wooden base, cloth to connect springs and base
+
+Tools
+	•	Scissors
+	•	Super glue
+	•	Needle and thread
+
+
+Design sketch/ Bobble Toy
+
+Process 
+
+Video
+
+Final
+The springs were different sizes/heights, which caused the base to be slanted
+Input: Humidity
+Output: Tilt
+
+First Idea: Gears
+It didn't tilt, just shake
+
+Second Idea: See-saw
+Project
+Everything was done with fittings so we used hot glue only on the magnet
+Input: Humidity
+Output: Tilt
+
+First Idea: Gears
+It didn't tilt, just shake
+
+Second Idea: See-saw
+Project
+Everything was done with fittings so we used hot glue only on the magnet
+Input: Humidity
+Output: Tilt
+
+First Idea: Gears
+It didn't tilt, just shake
+
+Second Idea: See-saw
+Project
+Everything was done with fittings so we used hot glue only on the magnet
+Higher sail to capture more fan
+when the wind builds up in the sail, the seesaw tilts
+Used a tool to fix the wood into the table
+Because the previous group was finishing their move at the edge of the table, we built a ramp to continue the moving path
+So, we decided to use a car pattern design, cut on the laser cut machine, commonly used in robotics learning settings
+Coding the GogoBoard
+
+THE CODE
+While we were assembling our ramp and car, we coded our GogoBoards
+Coding the GogoBoard
+
+THE CODE
+While we were assembling our ramp and car, we coded our GogoBoards
+Following the tilt action, the first GogoBoard would signal the second to trigger the car motor and play music
+Once the engines are on, they should turn the wheel clockwise attached to them and move straight ahead until the end of the ramp
+Once the engines are on, they should turn the wheel clockwise attached to them and move straight ahead until the end of the ramp
+The testing was a nightmare
+First, we couldn't start the engines together and turn the wheel in the same direction
+We changed the code, motors, wheels, and car weight and even turned the engines on opposite sides
+We changed the code, motors, wheels, and car weight and even turned the engines on opposite sides
+We changed the code, motors, wheels, and car weight and even turned the engines on opposite sides
+Akio helped us fix the code, although one wheel was faster than the other, which kept the car pending to the right and following through the ramp
+Akio helped us fix the code, although one wheel was faster than the other, which kept the car pending to the right and following through the ramp
+Akio helped us fix the code, although one wheel was faster than the other, which kept the car pending to the right and following through the ramp
+The problem was an old glue that was left on the motor that made the wheel turn wrong
+The problem was an old glue that was left on the motor that made the wheel turn wrong
+Once we got the bond out and set the right speed, the car drove ahead and nailed the ballon!
+
+1 - Inspiration;  2- Sketches
+
+THE SIMPLE MACHINE
+We decided to build a ramp as a simple machine
+We used the laser cut for the ramp and sides because we needed precision
+We used the laser cut for the ramp and sides because we needed precision
+And the legs we cut at the wood saw and wood sander machine
+However, we were unsure about the ideal angle for the ramp, so we employed an adaptable feature to connect its parts: hinges
+Using the hinges was an excellent decision because when we were testing the car walking, the ramp was too tilted, so effortlessly, we adapted the angle by putting the ramps from part higher
+Using the hinges was an excellent decision because when we were testing the car walking, the ramp was too tilted, so effortlessly, we adapted the angle by putting the ramps from part higher
+Also, we decided to inflate the balloon more so the plastic area was finer (good decision)
+We used some pieces of wood to weigh on the pole bottom and try to balance it
+It was not enough! The final solution was to wrap the pole with the ramp's last part legs
+As a beginner using design tools on the computer and little experience with the laser cutting machine, I decided to start from a simple design and see how it worked
+As a beginner using design tools on the computer and little experience with the laser cutting machine, I decided to start from a simple design and see how it worked
+first iteration: I looked at my prototype and observed it was too simple
+first iteration: I looked at my prototype and observed it was too simple
+Second iteration: The design was still too simple
+I tested it in the laser cutting machine with cardboard
+I tested it in the laser cutting machine with cardboard
+I tested it in the laser cutting machine with cardboard
+Third iteration: It was time to print in MDF and try a thicker material
+I got more experience using the laser cutting machine
+It was really difficult for me to sketch and plan before using the laser cutter because the logic didn't make sense in my head, until I did my first printing iteration
+It was really difficult for me to sketch and plan before using the laser cutter because the logic didn't make sense in my head, until I did my first printing iteration
+It was really difficult for me to sketch and plan before using the laser cutter because the logic didn't make sense in my head, until I did my first printing iteration
+It was really difficult for me to sketch and plan before using the laser cutter because the logic didn't make sense in my head, until I did my first printing iteration
+Designs in Inkspace:
+
+Prototypes & Final Design
+
+Reflection Card: After my first print, seeing how all the pieces should fit gave me a lightbulb moment that supported my understanding
+Then, I was able to improve the design for both fit and style a few more times and change what parts of her would be attached to which pieces
+This reflection process of the modifications I could have made with more time created a second lightbulb moment, so now I feel much more equipped to actually design and execute laser cut projects in the future
+This reflection process of the modifications I could have made with more time created a second lightbulb moment, so now I feel much more equipped to actually design and execute laser cut projects in the future
+Object being disassembled: Dell Docking Station
+
+Reason classified as "trash": one cable stopped working, and the cable itself is more expensive than buying a brand new docker
+Step 1: Disassembly
+
+Printed circuit boards
+Screws (multiple sizes)
+Adhesive foot
+Exterior wire
+Casings
+Plastic cable holders
+Halogen-free fast cable
+Metallic structures 
+Not pictured: base rubber surface 
+
+Step 2: Planning
+
+Part 1-
+Goal Redesign: Pencil holder with cute face
+To the left: initial sketch idea
+Materials used:
+salt container (label removed)
+base rubber surface surrounds container
+bottle caps (as eyes)
+magnets (for holding up caps)
+plastic cable holder (as eraser cup)
+flat wire (as smile)
+Issues with first design:
+The cardboard of the salt container was too thick to use magnets
+Difficulties sticking objects to rubber surface
+
+Part 2-
+To the left: reworked sketch idea
+Materials added:
+tape (to adhere objects to container)
+salt pourer (as nose)
+twist tie (new smile)
+smaller plastic cable holder (for holding screws)
+Issue resolution:
+Tape/sticky putty used for sticking objects
+Added features:
+Eraser cup is now for USBs
+New cup for screws
+Nose added to face
+Handle added to drag holder around
+New issues:
+Handle is insecurely attached (wire/rubber material not compatible)
+
+Step 3: Final Product
+Face
+Handle
+In Use
+
+Reflection Card: Interestingly enough, the disassembly part was easier than the redesign section
+Step 1: Disassembly
+
+Printed circuit boards
+Screws (multiple sizes)
+Adhesive foot
+Exterior wire
+Casings
+Plastic cable holders
+Halogen-free fast cable
+Metallic structures 
+Not pictured: base rubber surface 
+
+Step 2: Planning
+
+Part 1-
+Goal Redesign: Pencil holder with cute face
+To the left: initial sketch idea
+Materials used:
+salt container (label removed)
+base rubber surface surrounds container
+bottle caps (as eyes)
+magnets (for holding up caps)
+plastic cable holder (as eraser cup)
+flat wire (as smile)
+Issues with first design:
+The cardboard of the salt container was too thick to use magnets
+Difficulties sticking objects to rubber surface
+
+Part 2-
+To the left: reworked sketch idea
+Materials added:
+tape (to adhere objects to container)
+salt pourer (as nose)
+twist tie (new smile)
+smaller plastic cable holder (for holding screws)
+Issue resolution:
+Tape/sticky putty used for sticking objects
+Added features:
+Eraser cup is now for USBs
+New cup for screws
+Nose added to face
+Handle added to drag holder around
+New issues:
+Handle is insecurely attached (wire/rubber material not compatible)
+
+Step 3: Final Product
+Face
+Handle
+In Use
+
+Reflection Card: Interestingly enough, the disassembly part was easier than the redesign section
+Step 1: Disassembly
+
+Printed circuit boards
+Screws (multiple sizes)
+Adhesive foot
+Exterior wire
+Casings
+Plastic cable holders
+Halogen-free fast cable
+Metallic structures 
+Not pictured: base rubber surface 
+
+Step 2: Planning
+
+Part 1-
+Goal Redesign: Pencil holder with cute face
+To the left: initial sketch idea
+Materials used:
+salt container (label removed)
+base rubber surface surrounds container
+bottle caps (as eyes)
+magnets (for holding up caps)
+plastic cable holder (as eraser cup)
+flat wire (as smile)
+Issues with first design:
+The cardboard of the salt container was too thick to use magnets
+Difficulties sticking objects to rubber surface
+
+Part 2-
+To the left: reworked sketch idea
+Materials added:
+tape (to adhere objects to container)
+salt pourer (as nose)
+twist tie (new smile)
+smaller plastic cable holder (for holding screws)
+Issue resolution:
+Tape/sticky putty used for sticking objects
+Added features:
+Eraser cup is now for USBs
+New cup for screws
+Nose added to face
+Handle added to drag holder around
+New issues:
+Handle is insecurely attached (wire/rubber material not compatible)
+
+Step 3: Final Product
+Face
+Handle
+In Use
+
+Reflection Card: Interestingly enough, the disassembly part was easier than the redesign section
+Step 1: Disassembly
+
+Printed circuit boards
+Screws (multiple sizes)
+Adhesive foot
+Exterior wire
+Casings
+Plastic cable holders
+Halogen-free fast cable
+Metallic structures 
+Not pictured: base rubber surface 
+
+Step 2: Planning
+
+Part 1-
+Goal Redesign: Pencil holder with cute face
+To the left: initial sketch idea
+Materials used:
+salt container (label removed)
+base rubber surface surrounds container
+bottle caps (as eyes)
+magnets (for holding up caps)
+plastic cable holder (as eraser cup)
+flat wire (as smile)
+Issues with first design:
+The cardboard of the salt container was too thick to use magnets
+Difficulties sticking objects to rubber surface
+
+Part 2-
+To the left: reworked sketch idea
+Materials added:
+tape (to adhere objects to container)
+salt pourer (as nose)
+twist tie (new smile)
+smaller plastic cable holder (for holding screws)
+Issue resolution:
+Tape/sticky putty used for sticking objects
+Added features:
+Eraser cup is now for USBs
+New cup for screws
+Nose added to face
+Handle added to drag holder around
+New issues:
+Handle is insecurely attached (wire/rubber material not compatible)
+
+Step 3: Final Product
+Face
+Handle
+In Use
+
+Reflection Card: Interestingly enough, the disassembly part was easier than the redesign section
+Step 1: Disassembly
+
+Printed circuit boards
+Screws (multiple sizes)
+Adhesive foot
+Exterior wire
+Casings
+Plastic cable holders
+Halogen-free fast cable
+Metallic structures 
+Not pictured: base rubber surface 
+
+Step 2: Planning
+
+Part 1-
+Goal Redesign: Pencil holder with cute face
+To the left: initial sketch idea
+Materials used:
+salt container (label removed)
+base rubber surface surrounds container
+bottle caps (as eyes)
+magnets (for holding up caps)
+plastic cable holder (as eraser cup)
+flat wire (as smile)
+Issues with first design:
+The cardboard of the salt container was too thick to use magnets
+Difficulties sticking objects to rubber surface
+
+Part 2-
+To the left: reworked sketch idea
+Materials added:
+tape (to adhere objects to container)
+salt pourer (as nose)
+twist tie (new smile)
+smaller plastic cable holder (for holding screws)
+Issue resolution:
+Tape/sticky putty used for sticking objects
+Added features:
+Eraser cup is now for USBs
+New cup for screws
+Nose added to face
+Handle added to drag holder around
+New issues:
+Handle is insecurely attached (wire/rubber material not compatible)
+
+Step 3: Final Product
+Face
+Handle
+In Use
+
+Reflection Card: Interestingly enough, the disassembly part was easier than the redesign section
+Step 1: Disassembly
+
+Printed circuit boards
+Screws (multiple sizes)
+Adhesive foot
+Exterior wire
+Casings
+Plastic cable holders
+Halogen-free fast cable
+Metallic structures 
+Not pictured: base rubber surface 
+
+Step 2: Planning
+
+Part 1-
+Goal Redesign: Pencil holder with cute face
+To the left: initial sketch idea
+Materials used:
+salt container (label removed)
+base rubber surface surrounds container
+bottle caps (as eyes)
+magnets (for holding up caps)
+plastic cable holder (as eraser cup)
+flat wire (as smile)
+Issues with first design:
+The cardboard of the salt container was too thick to use magnets
+Difficulties sticking objects to rubber surface
+
+Part 2-
+To the left: reworked sketch idea
+Materials added:
+tape (to adhere objects to container)
+salt pourer (as nose)
+twist tie (new smile)
+smaller plastic cable holder (for holding screws)
+Issue resolution:
+Tape/sticky putty used for sticking objects
+Added features:
+Eraser cup is now for USBs
+New cup for screws
+Nose added to face
+Handle added to drag holder around
+New issues:
+Handle is insecurely attached (wire/rubber material not compatible)
+
+Step 3: Final Product
+Face
+Handle
+In Use
+
+Reflection Card: Interestingly enough, the disassembly part was easier than the redesign section
+Step 1: Disassembly
+
+Printed circuit boards
+Screws (multiple sizes)
+Adhesive foot
+Exterior wire
+Casings
+Plastic cable holders
+Halogen-free fast cable
+Metallic structures 
+Not pictured: base rubber surface 
+
+Step 2: Planning
+
+Part 1-
+Goal Redesign: Pencil holder with cute face
+To the left: initial sketch idea
+Materials used:
+salt container (label removed)
+base rubber surface surrounds container
+bottle caps (as eyes)
+magnets (for holding up caps)
+plastic cable holder (as eraser cup)
+flat wire (as smile)
+Issues with first design:
+The cardboard of the salt container was too thick to use magnets
+Difficulties sticking objects to rubber surface
+
+Part 2-
+To the left: reworked sketch idea
+Materials added:
+tape (to adhere objects to container)
+salt pourer (as nose)
+twist tie (new smile)
+smaller plastic cable holder (for holding screws)
+Issue resolution:
+Tape/sticky putty used for sticking objects
+Added features:
+Eraser cup is now for USBs
+New cup for screws
+Nose added to face
+Handle added to drag holder around
+New issues:
+Handle is insecurely attached (wire/rubber material not compatible)
+
+Step 3: Final Product
+Face
+Handle
+In Use
+
+Reflection Card: Interestingly enough, the disassembly part was easier than the redesign section
+Step 1: Disassembly
+
+Printed circuit boards
+Screws (multiple sizes)
+Adhesive foot
+Exterior wire
+Casings
+Plastic cable holders
+Halogen-free fast cable
+Metallic structures 
+Not pictured: base rubber surface 
+
+Step 2: Planning
+
+Part 1-
+Goal Redesign: Pencil holder with cute face
+To the left: initial sketch idea
+Materials used:
+salt container (label removed)
+base rubber surface surrounds container
+bottle caps (as eyes)
+magnets (for holding up caps)
+plastic cable holder (as eraser cup)
+flat wire (as smile)
+Issues with first design:
+The cardboard of the salt container was too thick to use magnets
+Difficulties sticking objects to rubber surface
+
+Part 2-
+To the left: reworked sketch idea
+Materials added:
+tape (to adhere objects to container)
+salt pourer (as nose)
+twist tie (new smile)
+smaller plastic cable holder (for holding screws)
+Issue resolution:
+Tape/sticky putty used for sticking objects
+Added features:
+Eraser cup is now for USBs
+New cup for screws
+Nose added to face
+Handle added to drag holder around
+New issues:
+Handle is insecurely attached (wire/rubber material not compatible)
+
+Step 3: Final Product
+Face
+Handle
+In Use
+
+Reflection Card: Interestingly enough, the disassembly part was easier than the redesign section
+Step 1: Disassembly
+
+Printed circuit boards
+Screws (multiple sizes)
+Adhesive foot
+Exterior wire
+Casings
+Plastic cable holders
+Halogen-free fast cable
+Metallic structures 
+Not pictured: base rubber surface 
+
+Step 2: Planning
+
+Part 1-
+Goal Redesign: Pencil holder with cute face
+To the left: initial sketch idea
+Materials used:
+salt container (label removed)
+base rubber surface surrounds container
+bottle caps (as eyes)
+magnets (for holding up caps)
+plastic cable holder (as eraser cup)
+flat wire (as smile)
+Issues with first design:
+The cardboard of the salt container was too thick to use magnets
+Difficulties sticking objects to rubber surface
+
+Part 2-
+To the left: reworked sketch idea
+Materials added:
+tape (to adhere objects to container)
+salt pourer (as nose)
+twist tie (new smile)
+smaller plastic cable holder (for holding screws)
+Issue resolution:
+Tape/sticky putty used for sticking objects
+Added features:
+Eraser cup is now for USBs
+New cup for screws
+Nose added to face
+Handle added to drag holder around
+New issues:
+Handle is insecurely attached (wire/rubber material not compatible)
+
+Step 3: Final Product
+Face
+Handle
+In Use
+
+Reflection Card: Interestingly enough, the disassembly part was easier than the redesign section
+Ultimately, I was saddened that I wasn't able to incorporate more parts from the original object in my redesign, even though I did use scrap parts from around my room
+Inspiration
+
+Pseudocode
+
+How chatGPT helped me understand some of the functions that's not in the P5Js documentation: https://docs
+com/document/d/1eFn8tIhPKjN6LbFnvKq4dM_LRPCFKbp6VwpUPaz8epM/edit?usp=sharing
+
+Remixing
+
+Reflection Card:
+Adding the pseudocode "forced" me to think about what each line means and does in the code
+com/document/d/1eFn8tIhPKjN6LbFnvKq4dM_LRPCFKbp6VwpUPaz8epM/edit?usp=sharing
+
+Remixing
+
+Reflection Card:
+Adding the pseudocode "forced" me to think about what each line means and does in the code
+com/document/d/1eFn8tIhPKjN6LbFnvKq4dM_LRPCFKbp6VwpUPaz8epM/edit?usp=sharing
+
+Remixing
+
+Reflection Card:
+Adding the pseudocode "forced" me to think about what each line means and does in the code
+It is especially helpful for constructing logical frameworks
+The object I have disassembled is Dreamcast, a home video game console
+The object I have disassembled is Dreamcast, a home video game console
+Thus, when I disassemble it myself, I do not have a complete idea of its functionality, its pros and cons
+It accounts for the durability of the old, but also the appearance of the new”
+
+Before disassembling it, I wish I had learned more about the time when the machine existed, its history, the culture around it, the meaning it carried, and the value people expected from its use back then
+If I could have had more depth of feeling and awareness of the object before disassembling it, it might have evoked more of my emotions and thinking
+I can then generate more ideas and inspiration when I use the disassembled parts to design new objects
+However, I have gained a lot from this disassembly process
+It was an enjoyable experience, and I'm proud I didn't destroy or force any part of it during the disassembly
+During "decomposing" and "disassembling", I was amazed at how intricately each piece interacted with the other
+Dreamcast
+The object I disassembled is called Dreamcast, it is a  home video game console released by Sega in 1998
+Dreamcast
+The object I disassembled is called Dreamcast, it is a  home video game console released by Sega in 1998
+Dissecting Process
+
+Dissected components
+
+Re-design Preparation 
+
+Idyllic Little House & electric fan
+Reflection Card:
+
+01/18/2023 at 2 PM, NY-USA, it was my first time disassembling an electronic object
+Reflection Card:
+
+01/18/2023 at 2 PM, NY-USA, it was my first time disassembling an electronic object
+Reflection Card:
+
+01/18/2023 at 2 PM, NY-USA, it was my first time disassembling an electronic object
+But I never repaired something; when necessary, I took it to a specialist, mainly if it was an electronic item
+But I never repaired something; when necessary, I took it to a specialist, mainly if it was an electronic item
+But I never repaired something; when necessary, I took it to a specialist, mainly if it was an electronic item
+In my learning process, I could not identify how the parts worked to make it functional, for example, how the web camera I disassembled makes it possible to record a person and instantaneously reproduce on a computer
+In my learning process, I could not identify how the parts worked to make it functional, for example, how the web camera I disassembled makes it possible to record a person and instantaneously reproduce on a computer
+Whenever I had a new idea, I had to test and understand the toy balance point
+In my family, we have a culture to avoid breaking - I wrote more about this in my gear essay
+If it were broken, we would never disassemble it
+ORIGINAL CODE
+choose a "Pattern Creator" code to explore and remix
+ORIGINAL CODE
+choose a "Pattern Creator" code to explore and remix
+p5js
+p5js
+org/#/2022-All/pattern-creator/
+
+TINKERING WITH THE CODE
+1- I read line by line to understand the code and its functions;
+2 - For the functions that I couldn't understand, especially the ones that used Cos and Sen calculations, I changed the number to observe changes
+platform helped me translate to p5
+Js language what I wanted to do on the code, but I didn't know how to write it
+Remix Code
+1 - my first test was to change the fixed pattern numbers by setting up the initial pattern with my birthday date;
+2 - as a coincidence, the createPattern(120, 5
+Due to this, I decided to add music to my remix code
+Due to this, I decided to add music to my remix code
+Once I wrote the code, the pattern start point changed from one drawing to another, and it did not spin
+As a learning reflection, this was a challenging assignment
+Additionally, CHATGPT made coding more inclusive to me once it helped me translate my thoughts or commands to p5
+js , leaving me with the logic functional coding part
+p5js
+p5js
+org/reajmorais/sketches/8UxKOWank
+
+Video of what the original project looks like
+
+Original Code of the Project
+
+For me, the most challenging part of dissecting the original code was first, determining which object was actually moving, was the background that was moving? Or the train, or both? My answer to that question came from "messing around" with different parts of the code in order to figure out each code's purpose
+org/reajmorais/sketches/8UxKOWank
+
+Video of what the original project looks like
+
+Original Code of the Project
+
+For me, the most challenging part of dissecting the original code was first, determining which object was actually moving, was the background that was moving? Or the train, or both? My answer to that question came from "messing around" with different parts of the code in order to figure out each code's purpose
+org/reajmorais/sketches/8UxKOWank
+
+Video of what the original project looks like
+
+Original Code of the Project
+
+For me, the most challenging part of dissecting the original code was first, determining which object was actually moving, was the background that was moving? Or the train, or both? My answer to that question came from "messing around" with different parts of the code in order to figure out each code's purpose
+As part of the new project I was creating, I coded the airplane, whereas, in the original project, it was not the case
+How was it called, and what should I do if I wish to replace them with new ones?
+
+Link to  the modified code with new interactions - aka the "new" project code as well as the pseudocode:
+
+https://editor
+How was it called, and what should I do if I wish to replace them with new ones?
+
+Link to  the modified code with new interactions - aka the "new" project code as well as the pseudocode:
+
+https://editor
+How was it called, and what should I do if I wish to replace them with new ones?
+
+Link to  the modified code with new interactions - aka the "new" project code as well as the pseudocode:
+
+https://editor
+p5js
+p5js
+org/zw2754/sketches/6yKBRaSAt
+
+Video of the new project:
+
+Screenshot of the new/modified code
+
+Summary of the major changes(codes) I've made to the new project:
+
+I have changed the background music by uploading my favorite music to the Sketch assets and then calling it afterwards
+I wrote new code to create an airplane to replace the original train object and then allowed it to move with my mouse so I could control it anywhere I wanted to go
+In order to match my theme, I change the frame size and speed of the mov
+
+Creative Code Reflecting and Learning
+
+Throughout the dissect/remix/re-create code process
+org/zw2754/sketches/6yKBRaSAt
+
+Video of the new project:
+
+Screenshot of the new/modified code
+
+Summary of the major changes(codes) I've made to the new project:
+
+I have changed the background music by uploading my favorite music to the Sketch assets and then calling it afterwards
+I wrote new code to create an airplane to replace the original train object and then allowed it to move with my mouse so I could control it anywhere I wanted to go
+In order to match my theme, I change the frame size and speed of the mov
+
+Creative Code Reflecting and Learning
+
+Throughout the dissect/remix/re-create code process
+org/zw2754/sketches/6yKBRaSAt
+
+Video of the new project:
+
+Screenshot of the new/modified code
+
+Summary of the major changes(codes) I've made to the new project:
+
+I have changed the background music by uploading my favorite music to the Sketch assets and then calling it afterwards
+I wrote new code to create an airplane to replace the original train object and then allowed it to move with my mouse so I could control it anywhere I wanted to go
+In order to match my theme, I change the frame size and speed of the mov
+
+Creative Code Reflecting and Learning
+
+Throughout the dissect/remix/re-create code process
+org/zw2754/sketches/6yKBRaSAt
+
+Video of the new project:
+
+Screenshot of the new/modified code
+
+Summary of the major changes(codes) I've made to the new project:
+
+I have changed the background music by uploading my favorite music to the Sketch assets and then calling it afterwards
+I wrote new code to create an airplane to replace the original train object and then allowed it to move with my mouse so I could control it anywhere I wanted to go
+In order to match my theme, I change the frame size and speed of the mov
+
+Creative Code Reflecting and Learning
+
+Throughout the dissect/remix/re-create code process
+Learning happens through constantly trying, exploring, analyzing what you observe, and reflecting on the steps you have tried
+The illustration technique used in the drawings are painted tissue and collage
+When all the parts were draw, I laser cut my prototype
+The illustration technique used in the drawings are painted tissue and collage
+When all the parts were draw, I laser cut my prototype
+First in cardboard and then on MDF
+I made adjustments in each one of them so it would fit the way I imagined
+Becoming familiar with the laser cut was an exciting experience for me
+One of my biggest inspirations for my laser cut project was my daughter's book
+Overall, it was a fun and satisfying experience to see my designs come to life through the use of the laser cut
+I tried sketching their bodies, but their mouth/beak was a problem
+Coincidentally, I found the "donkey wood animal" that belonged to my grandfather
+Because I was using my computer without a mouse to manipulate the platform tools and wanted the drawing to be as proportionally as possible, I first used geometric squared forms to create the body (Image 1)
+Because I was using my computer without a mouse to manipulate the platform tools and wanted the drawing to be as proportionally as possible, I first used geometric squared forms to create the body (Image 1)
+So, again, I resort to a physical prototype to help me emulate how the connections would happen (Image 4)
+" Because I used the rubber function to erase the lines or shapes I wasn't going to use, the first print considered these "shadows" and cut them
+Second, the machine was not working, so we used the "new" laser cut
+Seeing my draw on the wood on the previous digitally printed page was great, but it didn't work
+The laser did not cut through the wood, making it impossible to disattach the animal body parts without ruining them
+The laser did not cut through the wood, making it impossible to disattach the animal body parts without ruining them
+The "old" laser cut was fixed, and it printed perfectly
+However, once I tried to connect the parts, I realized that the fitting parts were too wide and the legs could pass through them
+If the connections fit, the animal's legs, head, and tail would be motionless
+I've witnessed my mom fixing bikes, computers, TV, and almost all other small electronic appliances
+I've witnessed my mom fixing bikes, computers, TV, and almost all other small electronic appliances
+I've witnessed my mom fixing bikes, computers, TV, and almost all other small electronic appliances
+There are at least eight inputs on the mouse and they are all controlled by such a small integrated circuit!
+
+Counting the interactive components on a mouse
+6 clickable buttons,
+1 Scroll wheel, 1 switch, 1wireless connector of some sort, 1 light with optical sensing
+
+Vision Board and initial design
+6 clickable buttons,
+1 Scroll wheel, 1 switch, 1wireless connector of some sort, 1 light with optical sensing
+
+Vision Board and initial design
+6 clickable buttons,
+1 Scroll wheel, 1 switch, 1wireless connector of some sort, 1 light with optical sensing
+
+Vision Board and initial design
+(Some of them are a bit too small for me) I had to rethink my design to use the big parts in the end
+p5js
+p5js
+p5js
+p5js
+org/jooprojects/sketches/Y6T0202my
+
+Reflection Card: When remixing, it is difficult to think outside the constraints of what is already built
+org/jooprojects/sketches/Y6T0202my
+
+Reflection Card: When remixing, it is difficult to think outside the constraints of what is already built
+It also took a lot longer than I expected to come up with a remix idea and then implement it
+Because you aren't starting from scratch, you have to figure out how what you want to add fits into existing pieces
+When remixing, it is difficult to think outside the constraints of what is already built
+It also took a lot longer than I expected to come up with a remix idea and then implement it
+Because you aren't starting from scratch, you have to figure out how what you want to add fits into existing pieces
+It is very visible in commented out code where the creator experimented on their own work and gave me inspiration to pursue my own remixing
+
+Pseudocode:
+https://docs
+It is very visible in commented out code where the creator experimented on their own work and gave me inspiration to pursue my own remixing
+
+Pseudocode:
+https://docs
+com/document/d/1Kwy9dI7jchvXM-6i0zSzKDrNF05c9FHQtFuoJbqRCfI/edit?usp=sharing
+
+Here is where I learned about user interaction through mouseIsPressed boolean
+
+In redesign, I realized that the frameCount means that the ellipses are moving further apart, which makes the flowers appear bigger, but kind of ruins my heart shape in redesign
+
+I don't understand how the effect of frameCount affects the shape of the flowers, both in placement and creation
+
+Changes to Code:
+1
+Sketch + Prototype
+
+above: b/f dropping weight via pulley
+below: a/f weight being dropped, lever slants & transfer water
+
+tying string around the weight (finding the center of gravity) to attach it to the pulley in a stable manner
+Sketch + Prototype
+
+above: b/f dropping weight via pulley
+below: a/f weight being dropped, lever slants & transfer water
+
+tying string around the weight (finding the center of gravity) to attach it to the pulley in a stable manner
+Circle shaped wood (cut by laser cutter) circumscribe the pipeline
+Circle shaped wood (cut by laser cutter) circumscribe the pipeline
+The number of wood determines the maximum angle of the slant of the pipeline
+That is, we realized that the number of wood circles and angle of the slant are inversely proportional
+finding the optimal balance
+
+Error 2: mislocation of the pipeline & the pulley
+Weight of the pulley does not hit the pipeline
+Error 3: Too much water (soaked in the cotton) cause too much friction and thus hinder the water transfer
+Error 4: dislocation of the pipeline on the wood plate below
+Followings are some concept that I encountered while building the station: a) finding the center of gravity through proper string tension, b) water can also cause friction (due to its weight) when it is absorbed into a sponge-like material, c) integration of levers and pulleys, d) finding the optimal balance between power levels and time intervals during the gogoboard coding process
+Followings are some concept that I encountered while building the station: a) finding the center of gravity through proper string tension, b) water can also cause friction (due to its weight) when it is absorbed into a sponge-like material, c) integration of levers and pulleys, d) finding the optimal balance between power levels and time intervals during the gogoboard coding process
+Followings are some concept that I encountered while building the station: a) finding the center of gravity through proper string tension, b) water can also cause friction (due to its weight) when it is absorbed into a sponge-like material, c) integration of levers and pulleys, d) finding the optimal balance between power levels and time intervals during the gogoboard coding process
+Followings are some concept that I encountered while building the station: a) finding the center of gravity through proper string tension, b) water can also cause friction (due to its weight) when it is absorbed into a sponge-like material, c) integration of levers and pulleys, d) finding the optimal balance between power levels and time intervals during the gogoboard coding process
+Rube Goldberg:
+Input: Heartbeat
+Output: Broadcast wifi message
+
+Design
+
+The general idea is to divide the whole mechanism into two parts, In the first part, the input of heartbeat will transit into motor movement, which will trigger some kind physical mechanism that push the button
+Rube Goldberg:
+Input: Heartbeat
+Output: Broadcast wifi message
+
+Design
+
+The general idea is to divide the whole mechanism into two parts, In the first part, the input of heartbeat will transit into motor movement, which will trigger some kind physical mechanism that push the button
+Rube Goldberg:
+Input: Heartbeat
+Output: Broadcast wifi message
+
+Design
+
+The general idea is to divide the whole mechanism into two parts, In the first part, the input of heartbeat will transit into motor movement, which will trigger some kind physical mechanism that push the button
+Then, the button will trigger the broadcast mechanism, which will be received by the next group
+Then, the button will trigger the broadcast mechanism, which will be received by the next group
+Then, the button will trigger the broadcast mechanism, which will be received by the next group
+At the beginning we had different ideas, such as designing a car that would transport weight and then would deposit the objects triggering the next button
+Finally, we decided to build a pulley with wood, and a box and a gear with the laser cutter machine
+Finally, we decided to build a pulley with wood, and a box and a gear with the laser cutter machine
+Finally, we decided to build a pulley with wood, and a box and a gear with the laser cutter machine
+Finally, we decided to build a pulley with wood, and a box and a gear with the laser cutter machine
+prototype
+
+We cut a piece of wood to make a base and we cut a wood stick
+prototype
+
+We cut a piece of wood to make a base and we cut a wood stick
+Then, we made a hole in he base to attach the vertical wood stick
+We made a hole in the vertical stick to attach the gear
+We laser cut 4 circles to build a gear, and a box
+We laser cut 4 circles to build a gear, and a box
+Then, we decided to make another hole in the base to attach the motor
+We put weight in the box to trigger a button behind the box that sends a wifi message to the next station
+We glued the pieces of the box, and added magnets to make the box heavy
+final station
+
+How we code the two mechanisms with GoGo Code
+
+This is the final version of the box with some flowers as decorations
+At the end, we laser cut a heart to decorate the heartbeat sensor
+At the end, we laser cut a heart to decorate the heartbeat sensor
+It can be difficult to imagine mechanism working, to prototype real physics working, and trying the best materials, and weight
+We learnt how to shape and work with wood, continue trying laser cutter machine and added physics mechanism
+We learnt how to shape and work with wood, continue trying laser cutter machine and added physics mechanism
+At first, we really struggle over how we can insert a middle link between heartbeat and broadcast because both seem to be so “un”-physical
+At first, we really struggle over how we can insert a middle link between heartbeat and broadcast because both seem to be so “un”-physical
+We then decided to use an extra button and the gear to interpolate between the heartbeat
+We then decided to use an extra button and the gear to interpolate between the heartbeat
+Another thing we encountered is how to come up with a solid structure that supports the gear
+After considering the level of convenience for both, we finally decide on a disc base, which will allow us to fix layout for other elements like the button and the motor
+After considering the level of convenience for both, we finally decide on a disc base, which will allow us to fix layout for other elements like the button and the motor
+Quackie is content and enjoying the quiet winter for now, but soon will be eager for his prime time in the summer!
+
+Ideation:
+
+I love ducks! I collect rubber duckies and my family calls me ducky, so I knew I wanted to make a duck
+I googled a few laser cut duck ideas
+I began by sketching out my ideas of what pieces I would need to make this duck
+I then brought a rubber duck image into Illustrator and used the pen tool to cut out each piece
+
+Prototype:
+I cut out my images in Illustrator and decided to make the little "hooks" to hold the wings
+I then cut everything onto cardboard to test it out
+Successful score attempt
+Failed latch attempt
+
+Once I knew my simple design would work, I then began to play around with how I could make the duck's tail wiggle
+I googled a few laser cut duck ideas
+I began by sketching out my ideas of what pieces I would need to make this duck
+I then brought a rubber duck image into Illustrator and used the pen tool to cut out each piece
+
+Prototype:
+I cut out my images in Illustrator and decided to make the little "hooks" to hold the wings
+I then cut everything onto cardboard to test it out
+Successful score attempt
+Failed latch attempt
+
+Once I knew my simple design would work, I then began to play around with how I could make the duck's tail wiggle
+I googled a few laser cut duck ideas
+I began by sketching out my ideas of what pieces I would need to make this duck
+I then brought a rubber duck image into Illustrator and used the pen tool to cut out each piece
+
+Prototype:
+I cut out my images in Illustrator and decided to make the little "hooks" to hold the wings
+I then cut everything onto cardboard to test it out
+Successful score attempt
+Failed latch attempt
+
+Once I knew my simple design would work, I then began to play around with how I could make the duck's tail wiggle
+I googled a few laser cut duck ideas
+I began by sketching out my ideas of what pieces I would need to make this duck
+I then brought a rubber duck image into Illustrator and used the pen tool to cut out each piece
+
+Prototype:
+I cut out my images in Illustrator and decided to make the little "hooks" to hold the wings
+I then cut everything onto cardboard to test it out
+Successful score attempt
+Failed latch attempt
+
+Once I knew my simple design would work, I then began to play around with how I could make the duck's tail wiggle
+I googled a few laser cut duck ideas
+I began by sketching out my ideas of what pieces I would need to make this duck
+I then brought a rubber duck image into Illustrator and used the pen tool to cut out each piece
+
+Prototype:
+I cut out my images in Illustrator and decided to make the little "hooks" to hold the wings
+I then cut everything onto cardboard to test it out
+Successful score attempt
+Failed latch attempt
+
+Once I knew my simple design would work, I then began to play around with how I could make the duck's tail wiggle
+Test:
+Once I confirmed that all of my pieces would fit, I then painted the wood and began to cut my pieces
+Test:
+Once I confirmed that all of my pieces would fit, I then painted the wood and began to cut my pieces
+In order to get the detail on both sides of the duck I had to reflect the body and the wings and then engrave on both sides
+The idea is that he is a snorkeling duck!
+
+This project took a lot of reiterations and perseverance
+However, making measurements exact so that things could slide into place as well as attempting to add an element of difficulty by making the duck wiggle really made me go through many iterations before everything worked
+However, making measurements exact so that things could slide into place as well as attempting to add an element of difficulty by making the duck wiggle really made me go through many iterations before everything worked
+I need this to be a reflection
+
+I embody the online-offline contrast by creating a tape collage to represent the offline experience, highlighting the colorful yet noisy online conversations, while I used soft and solid cotton dyed in red, green, blue and yellow, together with small objects on top that help simulate a dreamlike micro-environment to represent the intimacies of offline experience
+Reflection:
+Reading Jackson's essay makes me rethink the realtionship between objects and meaning, especially in a world that is so intellectually oriented
+In my own practice of dissecting and repurposing an old object, an old flip-phone, I really try to think about its original use and meaning  for people, then how I can develop new, or even opposite meaning in it
+In my own practice of dissecting and repurposing an old object, an old flip-phone, I really try to think about its original use and meaning  for people, then how I can develop new, or even opposite meaning in it
+)
+
+dissected artifact
+1
+I chose to take apart a portable charger
+The outside had an aluminum tube protecting it and the only other visible parts were the charger ports (one USB, one Micro USB)
+There also was plastic on top and the bottom
+I knew there would be a circuit board, battery, and wires connecting them inside
+When I began taking the portable charger apart, I had trouble taking the outer plastic casing off
+I used a variety of tools and eventually decided I would need to break some of the plastic
+Once the top was off, it was easy to slide the rest of the aluminum casing off
+A majority of pieces are plastic besides the aluminum casing
+A majority of pieces are plastic besides the aluminum casing
+There also was a screw
+The actual portable charger was made of a circuit board, connected by 2 wires to a battery, as anticipated
+The circuit board had a copper wire wrapped around a spool on top, assumably for conducting energy
+The aluminum and plastic parts are more decorative and protective, whereas the circuit board and battery are structural
+The aluminum and plastic parts are more decorative and protective, whereas the circuit board and battery are structural
+The aluminum and plastic parts are more decorative and protective, whereas the circuit board and battery are structural
+The screws and wires, including the copper, are more connecting parts
+I recently have moved a lot and don't have a lot of materials, and struggled to think of how to repurpose this with what was available
+So, I simplified my goal and used the aluminum aspect, the plastic cap on the bottom, and tape to reattach the pieces
+So, I simplified my goal and used the aluminum aspect, the plastic cap on the bottom, and tape to reattach the pieces
+Then, I thought it could be repurposed as a dog toy (putting treat inside for my dog to get out)
+In the future, I will take apart electronics with more of a plan in place of how to use, and will focus on developing my understanding of how to use these pieces
+In the future, I will take apart electronics with more of a plan in place of how to use, and will focus on developing my understanding of how to use these pieces
+In the future, I will take apart electronics with more of a plan in place of how to use, and will focus on developing my understanding of how to use these pieces
+This process helped me reflect on the ways we must have a plan to critically use technology
+As Jackson (2014) illustrated, technology is often made (like the MacBook Pro example) in ways that make it extremely difficult to repair and not necessarily environmentally friendly
+Creating and repurposing technology in sustainable ways requires the maker to critically engage with the materials around them in ways that prevent additional waste
+This process also made me reflect on the importance of patience
+I ended up creating something that is not useful, and so it does not constitute a worthwhile repair or sufficiently salvaging the materials
+Repair is a big part of my family traditions as my father and grandfather both are mechanics, and so I was raised in a tradition of repairing whatever we could, and although I have more experience with repairing non-electronics I am looking forward to gaining practice in this realm
+Repair is a big part of my family traditions as my father and grandfather both are mechanics, and so I was raised in a tradition of repairing whatever we could, and although I have more experience with repairing non-electronics I am looking forward to gaining practice in this realm
+Repair is a big part of my family traditions as my father and grandfather both are mechanics, and so I was raised in a tradition of repairing whatever we could, and although I have more experience with repairing non-electronics I am looking forward to gaining practice in this realm
+Sketches and prototypes
+
+A new skill I learnt: How to make a hinge/connecting parts: Make sure the slot that's cut open has the same width as the thickness of the material I'm gonna use
+
+V1-- creating a 3-D dog
+V2-- calculating to create the connecting pieces
+V3-- fine tuning
+What should the diameter of the slots be? Where should I place them? What should the shape be? How can I design the slots for the middle piece so I can fit the wings in there securely? My first sketch for the slot kept me up until 4am that day since I was determined to calculate all the length and then turn them into ovals
+What should the diameter of the slots be? Where should I place them? What should the shape be? How can I design the slots for the middle piece so I can fit the wings in there securely? My first sketch for the slot kept me up until 4am that day since I was determined to calculate all the length and then turn them into ovals
+I also learnt about the differences in materials --- my pieces were fitting together when printed on cardboard, but not mdf
+I also learnt about the differences in materials --- my pieces were fitting together when printed on cardboard, but not mdf
+I also learnt about the differences in materials --- my pieces were fitting together when printed on cardboard, but not mdf
+My final adjustments were done by trail and error --- cutting and fitting and adjusting and go through the process again
+Inspiration
+
+Drawing: prototype
+
+I chose to create a sea turtle as I grew up in Florida, which is one of the nesting/hatching areas along the Atlantic coast
+Drawing: Final
+
+Prototype, cardboard cutout
+
+I realized the importance of printing cardboard prototypes during the process
+Drawing: Final
+
+Prototype, cardboard cutout
+
+I realized the importance of printing cardboard prototypes during the process
+For example, in one prototype, the printer cut the pieces instead of engraving, and some of the connecting pieces were too big or too small
+Once I was able to correct all of these issues, I then printed the final draft on plywood
+Reflection Card:
+I enjoyed this process of working with the laser cutter and creating the omni animal
+It did require a few tries and adjustments before all of the pieces fit together for the final product
+It was difficult to get the sizing of the connecting pieces exactly right, so I finally had to use sandpaper to get the connectors to fit in the egg
+Idea 1: Gears
+Our input is the humidity sensor and output is the tilt/shake sensor
+Initially we wanted to make a wall of gears that rotate
+
+A lot of gears work in vertical ways are very beautiful! And the noise is powerful!
+
+We planned to laser cut the gears and found ready-made, free design online
+
+We also prepared other directions in case the gears don't work out
+Initially we wanted to make a wall of gears that rotate
+
+A lot of gears work in vertical ways are very beautiful! And the noise is powerful!
+
+We planned to laser cut the gears and found ready-made, free design online
+
+We also prepared other directions in case the gears don't work out
+The making
+
+Unfortunately, the gears idea did not work out
+The tilt/shake sensor can only send out signal when its face is turned 90 degrees
+Gear connect with a fan?
+
+I searched wooden toy online before, and had the idea of adding fan blades to one of the gear to create wind, as a way to "shake" things
+Gear connect with a fan?
+
+I searched wooden toy online before, and had the idea of adding fan blades to one of the gear to create wind, as a way to "shake" things
+Gear connect with a fan?
+
+I searched wooden toy online before, and had the idea of adding fan blades to one of the gear to create wind, as a way to "shake" things
+Besides, I have always liked the design of bamboo dragonflies (竹蜻蜓 in Chinese) and wonder if I can actually make it and make it fly
+
+I went through a lot of trials and errors to finally understand how to "do 3D design" on the wood in order to draw the right angles and form the curves
+
+Understanding is not enough, wood cut skill is also required
+Besides, I have always liked the design of bamboo dragonflies (竹蜻蜓 in Chinese) and wonder if I can actually make it and make it fly
+
+I went through a lot of trials and errors to finally understand how to "do 3D design" on the wood in order to draw the right angles and form the curves
+
+Understanding is not enough, wood cut skill is also required
+Sketch: Input is the light sensor, which will trigger the motor
+Sketch: Input is the light sensor, which will trigger the motor
+Sketch: Input is the light sensor, which will trigger the motor
+The output will be temperature, adjusted by an ice pack in the final step
+Input: Light
+Output: Temperature
+
+Our initial sketch of the overall design
+We wish to create a pulley system as well as a ramp that that would enable the ice/ice bag to drop, which  would eventually trigger the temperature sensor!
+
+We drilled into the base to  secure the post for the pulley using a handheld drill and the drill machine
+We wish to create a pulley system as well as a ramp that that would enable the ice/ice bag to drop, which  would eventually trigger the temperature sensor!
+
+We drilled into the base to  secure the post for the pulley using a handheld drill and the drill machine
+We wish to create a pulley system as well as a ramp that that would enable the ice/ice bag to drop, which  would eventually trigger the temperature sensor!
+
+We drilled into the base to  secure the post for the pulley using a handheld drill and the drill machine
+We wish to create a pulley system as well as a ramp that that would enable the ice/ice bag to drop, which  would eventually trigger the temperature sensor!
+
+We drilled into the base to  secure the post for the pulley using a handheld drill and the drill machine
+We wish to create a pulley system as well as a ramp that that would enable the ice/ice bag to drop, which  would eventually trigger the temperature sensor!
+
+We drilled into the base to  secure the post for the pulley using a handheld drill and the drill machine
+We wish to create a pulley system as well as a ramp that that would enable the ice/ice bag to drop, which  would eventually trigger the temperature sensor!
+
+We drilled into the base to  secure the post for the pulley using a handheld drill and the drill machine
+We needed to drill a square that would fit the size of the post
+We needed to drill a square that would fit the size of the post
+We also cut wooden barriers to keep the ice on slide and prevent it from falling off the sides
+We also cut wooden barriers to keep the ice on slide and prevent it from falling off the sides
+Took us hours to figure out how to properly connected each pieces together, and using the drill to dig through the wood
+Took us hours to figure out how to properly connected each pieces together, and using the drill to dig through the wood
+So it would be steady but also provides flexibility for the pulley
+Test 1, although the ramp is working properly with the motor, the direction of the falling ice-bag is out of expected
+Test 1, although the ramp is working properly with the motor, the direction of the falling ice-bag is out of expected
+However, it kept get stuck on the wood ramp and having a difficult time to fall into the box
+However, it kept get stuck on the wood ramp and having a difficult time to fall into the box
+However, it kept get stuck on the wood ramp and having a difficult time to fall into the box
+We then suspect is because of the wood ramp doesn’t offer much fraction for the ice-bag to fall
+We then suspect is because of the wood ramp doesn’t offer much fraction for the ice-bag to fall
+Test 3, we then tried different plastic bag to help the ice cause we suspect is the weight and the size of the bag that interferes with the falling process
+However, after testing, we exclude that is not the case
+At the end, we added a tape to the ramp so it will provide some smoothnesses and less fraction  to the falling process
+Further, instead of putting ice into the bag, we changed to put the sensor into the bag and let the ice falls freely
+After trial 4, 5 and 6
+At the seventh time, we finally make it work!
+
+The input for our part is light and the output is temperature
+We decided to use ice to trigger the temperature sensor in the final step
+We decided to use ice to trigger the temperature sensor in the final step
+We sketched a few steps to include a pulley and seesaw as our simple machines
+We sketched a few steps to include a pulley and seesaw as our simple machines
+The idea was to begin with the light sensor triggering the motor to start winding the cord attached to the pulley
+The idea was to begin with the light sensor triggering the motor to start winding the cord attached to the pulley
+The idea was to begin with the light sensor triggering the motor to start winding the cord attached to the pulley
+The idea was to begin with the light sensor triggering the motor to start winding the cord attached to the pulley
+The cord then lifts the seesaw holding the ice and it slides down into the container with the temperature sensor
+The cord then lifts the seesaw holding the ice and it slides down into the container with the temperature sensor
+We realized that the pulley was not able to lift the weight of the seesaw holding the ice, and also the friction of the wood was preventing the ice from sliding all the way down
+We realized that the pulley was not able to lift the weight of the seesaw holding the ice, and also the friction of the wood was preventing the ice from sliding all the way down
+We added metallic tape to create a slide effect on the seesaw, which allowed the ice to slide much faster
+We then found that the motor was better able to support the weight of the seesaw if we  secured it above the seesaw, rather than at the same level, so we taped it to the wooden post
+We then found that the motor was better able to support the weight of the seesaw if we  secured it above the seesaw, rather than at the same level, so we taped it to the wooden post
+We then found that the motor was better able to support the weight of the seesaw if we  secured it above the seesaw, rather than at the same level, so we taped it to the wooden post
+For instance, when we want to make sure that the motor steadily stays on the wood stick and above the ground, we need to find a way to dig a hole in the vertical stick since hot glue and wood glue are neither strong enough to hold the motor in place
+For instance, when we want to make sure that the motor steadily stays on the wood stick and above the ground, we need to find a way to dig a hole in the vertical stick since hot glue and wood glue are neither strong enough to hold the motor in place
+For instance, when we want to make sure that the motor steadily stays on the wood stick and above the ground, we need to find a way to dig a hole in the vertical stick since hot glue and wood glue are neither strong enough to hold the motor in place
+With Akio's help, we tried four different drills/tools/woodcutters before we found the right one we needed!
+With Akio's help, we tried four different drills/tools/woodcutters before we found the right one we needed!
+Original code:
+I went through a few different coding iterations, trying out different ideas in an html format using a shader and htlm
+Original code:
+I went through a few different coding iterations, trying out different ideas in an html format using a shader and htlm
+Ultimately, I moved away from this because although I could create the html and add text, I couldn't get the p5
+js codes for shaders to run properly after 4 days
+I decided finally on this project:
+My comments can be found here and below: This code drew me in because of its use of sine
+I've always felt called to the natural waves of sine curves, and in this case, it felt connected to water and breathing, which are both very calming for me, so it felt appropriate to remix
+I started off using more complex codes from open source libraries, and was frustrated trying to figure out what they were saying
+Instead of being frustrated at what I did not know, I moved into simpler codes and practiced translating what I did know and understanding! Although many of my translations didn't "translate" into my final project, they were crucial steps in the beginning/middle to my exploration, applying, learning, and reflecting,
+
+Remix code:
+https://youtu
+Instead of being frustrated at what I did not know, I moved into simpler codes and practiced translating what I did know and understanding! Although many of my translations didn't "translate" into my final project, they were crucial steps in the beginning/middle to my exploration, applying, learning, and reflecting,
+
+Remix code:
+https://youtu
+be/EKHuIGBPofs
+At first, I was browsing aimlessly looking for ideas and just trying to understand what different codes were saying
+This practice sparked my interest in creating a visual that could encourage pausing, and taking a few deeper breaths
+I like this code because it had a movement element that I felt could convey similar movements to breathing
+When completing my remix, I tried adding pictures, gifs, appearing/disappearing text, shaders, and rotating circles, but it all felt too complicated for the message I was trying to convey
+Reflection Card: I went through 7 iterations using different code blocks, although the most surprising knowledge came from working with htlms
+Reflection Card: I went through 7 iterations using different code blocks, although the most surprising knowledge came from working with htlms
+I knew htlms were websites, and I knew they were coded, and I knew javascript existed, but I did not know how they all fit together
+I knew htlms were websites, and I knew they were coded, and I knew javascript existed, but I did not know how they all fit together
+At first, I was really confused trying to run my code in p5js because I wanted it to be a website
+At first, I was really confused trying to run my code in p5js because I wanted it to be a website
+At first, I was really confused trying to run my code in p5js because I wanted it to be a website
+I used online resources to learn that I needed another application (I used Brackets) and html starter code and then it would make a website
+original code
+
+My code
+
+Reflection Card:
+I remix this character board by infusing in words and characters that are personally meaningful to me, that is a mixture of Chinese characters from my favorite poems, English letters, and the numbers 0,1 which represent the digital world we live in
+original code
+
+My code
+
+Reflection Card:
+I remix this character board by infusing in words and characters that are personally meaningful to me, that is a mixture of Chinese characters from my favorite poems, English letters, and the numbers 0,1 which represent the digital world we live in
+Original Code Link
+New Code Link
+Zoom in
+Video
+
+if you press "s" you can save screenshot via code
+
+Insight
+
+LVN (which I got to know at MIT media lab) is a AI-powered listening and analytic tool help users see patterns across conversation, identify theme, and highlight voices around what matters most in the community
+Getting data from LVN, I extracted the keywords in NY and Education that happened in Manhattan which is my current community and put them into the array of my code and so that they could be displayed on the screen
+The orbit rotation also represents the shape of  manhattan
+(which is tilted little right)
+
+Trial & Error
+
+I wanted to add sound to the background
+Akio helped me and we tried to copy the code from the processing website
+it did not work, unfortunately, giving unfathomable errors
+However, for some reason which I cannot decipher, it did not run on my computer
+Reflection Card:
+1) By writing pseudocode, I was able to comprehend most reasoning behind every graphics
+Reflection Card:
+1) By writing pseudocode, I was able to comprehend most reasoning behind every graphics
+Reflection Card:
+1) By writing pseudocode, I was able to comprehend most reasoning behind every graphics
+Reflection Card:
+1) By writing pseudocode, I was able to comprehend most reasoning behind every graphics
+Reflection Card:
+1) By writing pseudocode, I was able to comprehend most reasoning behind every graphics
+As I could explore "reference" section and apply the logic accordingly , it empowered me with more agency; I  had the "applying"/"acting" experience that actually functions in a customized manner
+3) The biggest challenges were a) choosing the original code (shouldn't be too difficult but also shouldn't be too simple), b) inserting sound and changing fonts (as in trial & error section)
+3) The biggest challenges were a) choosing the original code (shouldn't be too difficult but also shouldn't be too simple), b) inserting sound and changing fonts (as in trial & error section)
+Rube Goldberg
+input: Wifi receive
+output:  Light
+
+IDEATE:
+Helen noticed that after making her phone stand in class that it did not function properly, so we decided to repurpose it into our project
+After meeting we discussed various ideas, but landed on the concept that we wanted the phone to fall from the stand to cover the light sensor
+Rube Goldberg
+input: Wifi receive
+output:  Light
+
+IDEATE:
+Helen noticed that after making her phone stand in class that it did not function properly, so we decided to repurpose it into our project
+After meeting we discussed various ideas, but landed on the concept that we wanted the phone to fall from the stand to cover the light sensor
+Rube Goldberg
+input: Wifi receive
+output:  Light
+
+IDEATE:
+Helen noticed that after making her phone stand in class that it did not function properly, so we decided to repurpose it into our project
+After meeting we discussed various ideas, but landed on the concept that we wanted the phone to fall from the stand to cover the light sensor
+so then we worked backwards to decide how to get the phone stand to stay up and then when released fall over
+We utilized the simple machines website to help us develop various ideas of how to incorporate an incline plane and a pulley system
+
+This image shows our sketching process after discussing our ideas
+
+PROTOTYPE:
+We broke the project into sections:
+
+Incline Plane:
+
+Pulley:
+
+Light Box:
+
+The incline plane involved some adjustments as we added in the servo to "open the door" for the marbles and therefore had to cut a slit in the wall
+so then we worked backwards to decide how to get the phone stand to stay up and then when released fall over
+We utilized the simple machines website to help us develop various ideas of how to incorporate an incline plane and a pulley system
+
+This image shows our sketching process after discussing our ideas
+
+PROTOTYPE:
+We broke the project into sections:
+
+Incline Plane:
+
+Pulley:
+
+Light Box:
+
+The incline plane involved some adjustments as we added in the servo to "open the door" for the marbles and therefore had to cut a slit in the wall
+so then we worked backwards to decide how to get the phone stand to stay up and then when released fall over
+We utilized the simple machines website to help us develop various ideas of how to incorporate an incline plane and a pulley system
+
+This image shows our sketching process after discussing our ideas
+
+PROTOTYPE:
+We broke the project into sections:
+
+Incline Plane:
+
+Pulley:
+
+Light Box:
+
+The incline plane involved some adjustments as we added in the servo to "open the door" for the marbles and therefore had to cut a slit in the wall
+Also, we retroactively deiced to add a distance sensor which involved late drilling a hole in order get the sensor to fit in
+Also, we retroactively deiced to add a distance sensor which involved late drilling a hole in order get the sensor to fit in
+Also, we retroactively deiced to add a distance sensor which involved late drilling a hole in order get the sensor to fit in
+If we had planned this out better then we could have put the slit and holes in before creating the stand
+
+The pulley was quick to make by making a base and to walls and I was able to repurpose a wire spool to allow the string to rotate through
+If we had planned this out better then we could have put the slit and holes in before creating the stand
+
+The pulley was quick to make by making a base and to walls and I was able to repurpose a wire spool to allow the string to rotate through
+Super simple - we just created a box, but we had to measure out where to place the box so the phone lands on it without tipping over, and with that had to weight the box down so that it stayed still when the phone fell on it
+Code
+
+When receive a message -- servo moves 90 degrees to open the door, which releases the marble down the incline plane
+When the marble passes the distance sensor on the plane it triggers LED lights (ADD CODE IMAGES/TALK ABOUT CODING IT)
+
+Reflect 
+
+	•	We could have planned out our incline better about creating holes for the "door" and the distance sensor before putting it together
+	•	We could have created a more secure way to use the pulley to hold down the phone case
+When the marble passes the distance sensor on the plane it triggers LED lights (ADD CODE IMAGES/TALK ABOUT CODING IT)
+
+Reflect 
+
+	•	We could have planned out our incline better about creating holes for the "door" and the distance sensor before putting it together
+	•	We could have created a more secure way to use the pulley to hold down the phone case
+Akio sent us a very nice tutorial and we experimented with the Arduino blocks to code the neo pixel
+Sketch: Input is the light sensor, which will trigger the motor
+Sketch: Input is the light sensor, which will trigger the motor
+Sketch: Input is the light sensor, which will trigger the motor
+The output will be temperature, adjusted by an ice pack in the final step
+Input: Light
+Output: Temperature
+
+Our initial sketch of the overall design
+We wish to create a pulley system as well as a ramp that that would enable the ice/ice bag to drop, which  would eventually trigger the temperature sensor!
+
+We drilled into the base to  secure the post for the pulley using a handheld drill and the drill machine
+We wish to create a pulley system as well as a ramp that that would enable the ice/ice bag to drop, which  would eventually trigger the temperature sensor!
+
+We drilled into the base to  secure the post for the pulley using a handheld drill and the drill machine
+We wish to create a pulley system as well as a ramp that that would enable the ice/ice bag to drop, which  would eventually trigger the temperature sensor!
+
+We drilled into the base to  secure the post for the pulley using a handheld drill and the drill machine
+We wish to create a pulley system as well as a ramp that that would enable the ice/ice bag to drop, which  would eventually trigger the temperature sensor!
+
+We drilled into the base to  secure the post for the pulley using a handheld drill and the drill machine
+We wish to create a pulley system as well as a ramp that that would enable the ice/ice bag to drop, which  would eventually trigger the temperature sensor!
+
+We drilled into the base to  secure the post for the pulley using a handheld drill and the drill machine
+We wish to create a pulley system as well as a ramp that that would enable the ice/ice bag to drop, which  would eventually trigger the temperature sensor!
+
+We drilled into the base to  secure the post for the pulley using a handheld drill and the drill machine
+We needed to drill a square that would fit the size of the post
+We needed to drill a square that would fit the size of the post
+We also cut wooden barriers to keep the ice on slide and prevent it from falling off the sides
+We also cut wooden barriers to keep the ice on slide and prevent it from falling off the sides
+Took us hours to figure out how to properly connected each pieces together, and using the drill to dig through the wood
+Took us hours to figure out how to properly connected each pieces together, and using the drill to dig through the wood
+So it would be steady but also provides flexibility for the pulley
+Test 1, although the ramp is working properly with the motor, the direction of the falling ice-bag is out of expected
+Test 1, although the ramp is working properly with the motor, the direction of the falling ice-bag is out of expected
+However, it kept get stuck on the wood ramp and having a difficult time to fall into the box
+However, it kept get stuck on the wood ramp and having a difficult time to fall into the box
+However, it kept get stuck on the wood ramp and having a difficult time to fall into the box
+We then suspect is because of the wood ramp doesn’t offer much fraction for the ice-bag to fall
+We then suspect is because of the wood ramp doesn’t offer much fraction for the ice-bag to fall
+Test 3, we then tried different plastic bag to help the ice cause we suspect is the weight and the size of the bag that interferes with the falling process
+However, after testing, we exclude that is not the case
+At the end, we added a tape to the ramp so it will provide some smoothnesses and less fraction  to the falling process
+Further, instead of putting ice into the bag, we changed to put the sensor into the bag and let the ice falls freely
+After trial 4, 5 and 6
+At the seventh time, we finally make it work!
+
+The input for our part is light and the output is temperature
+We decided to use ice to trigger the temperature sensor in the final step
+We decided to use ice to trigger the temperature sensor in the final step
+We sketched a few steps to include a pulley and seesaw as our simple machines
+We sketched a few steps to include a pulley and seesaw as our simple machines
+The idea was to begin with the light sensor triggering the motor to start winding the cord attached to the pulley
+The idea was to begin with the light sensor triggering the motor to start winding the cord attached to the pulley
+The idea was to begin with the light sensor triggering the motor to start winding the cord attached to the pulley
+The idea was to begin with the light sensor triggering the motor to start winding the cord attached to the pulley
+The cord then lifts the seesaw holding the ice and it slides down into the container with the temperature sensor
+The cord then lifts the seesaw holding the ice and it slides down into the container with the temperature sensor
+We realized that the pulley was not able to lift the weight of the seesaw holding the ice, and also the friction of the wood was preventing the ice from sliding all the way down
+We realized that the pulley was not able to lift the weight of the seesaw holding the ice, and also the friction of the wood was preventing the ice from sliding all the way down
+We added metallic tape to create a slide effect on the seesaw, which allowed the ice to slide much faster
+We then found that the motor was better able to support the weight of the seesaw if we  secured it above the seesaw, rather than at the same level, so we taped it to the wooden post
+We then found that the motor was better able to support the weight of the seesaw if we  secured it above the seesaw, rather than at the same level, so we taped it to the wooden post
+We then found that the motor was better able to support the weight of the seesaw if we  secured it above the seesaw, rather than at the same level, so we taped it to the wooden post
+For instance, when we want to make sure that the motor steadily stays on the wood stick and above the ground, we need to find a way to dig a hole in the vertical stick since hot glue and wood glue are neither strong enough to hold the motor in place
+For instance, when we want to make sure that the motor steadily stays on the wood stick and above the ground, we need to find a way to dig a hole in the vertical stick since hot glue and wood glue are neither strong enough to hold the motor in place
+For instance, when we want to make sure that the motor steadily stays on the wood stick and above the ground, we need to find a way to dig a hole in the vertical stick since hot glue and wood glue are neither strong enough to hold the motor in place
+With Akio's help, we tried four different drills/tools/woodcutters before we found the right one we needed!
+With Akio's help, we tried four different drills/tools/woodcutters before we found the right one we needed!
+The experience of grabbing a microwave from the street's trash, dissecting it, and repurposing the fan was counter-cultural in different ways
+The experience of grabbing a microwave from the street's trash, dissecting it, and repurposing the fan was counter-cultural in different ways
+First, I felt empowered opening a technological artifact and using various tools traditionally attributed to man
+I was used to thinking about repairing technology as a man's task: the person that always fixed artifacts in my home was a man
+Second, repairing instead of using new materials was a way to care for the environment and our technologies
+Jackson (2014)  invites us to build a strong relationship with objects and take care of them and proposes an ethics of mutual care and responsibility, called repair-centered ethics paradigm
+The story of a useless microwave found in the street's trash
+
+DISASSEMBLING PHASE: COMPONENTS
+
+Quick notes in the lab of akio's explanation
+
+TOOLS
+
+CORE PART
+Mostly metal, and plastic
+
+Beeper
+Motor
+Magnetron
+Fuse
+Capacitor
+Transformer
+
+Fan and Structure attaching  it
+
+external structure
+
+Base and wall: metal
+Door: Plastic
+
+Walls with ventilation
+
+Base with ventilation
+
+Door
+
+Buttons
+
+attaching parts
+Mostly metal, and plastic
+
+Spring 
+
+Screws
+Metal attachments
+Gears
+
+Video of the process
+
+repurpose and design phase
+
+Once I disassembled the different parts, I observed each element and found the fan an interesting element to start playing and trying things
+The story of a useless microwave found in the street's trash
+
+DISASSEMBLING PHASE: COMPONENTS
+
+Quick notes in the lab of akio's explanation
+
+TOOLS
+
+CORE PART
+Mostly metal, and plastic
+
+Beeper
+Motor
+Magnetron
+Fuse
+Capacitor
+Transformer
+
+Fan and Structure attaching  it
+
+external structure
+
+Base and wall: metal
+Door: Plastic
+
+Walls with ventilation
+
+Base with ventilation
+
+Door
+
+Buttons
+
+attaching parts
+Mostly metal, and plastic
+
+Spring 
+
+Screws
+Metal attachments
+Gears
+
+Video of the process
+
+repurpose and design phase
+
+Once I disassembled the different parts, I observed each element and found the fan an interesting element to start playing and trying things
+The story of a useless microwave found in the street's trash
+
+DISASSEMBLING PHASE: COMPONENTS
+
+Quick notes in the lab of akio's explanation
+
+TOOLS
+
+CORE PART
+Mostly metal, and plastic
+
+Beeper
+Motor
+Magnetron
+Fuse
+Capacitor
+Transformer
+
+Fan and Structure attaching  it
+
+external structure
+
+Base and wall: metal
+Door: Plastic
+
+Walls with ventilation
+
+Base with ventilation
+
+Door
+
+Buttons
+
+attaching parts
+Mostly metal, and plastic
+
+Spring 
+
+Screws
+Metal attachments
+Gears
+
+Video of the process
+
+repurpose and design phase
+
+Once I disassembled the different parts, I observed each element and found the fan an interesting element to start playing and trying things
+The story of a useless microwave found in the street's trash
+
+DISASSEMBLING PHASE: COMPONENTS
+
+Quick notes in the lab of akio's explanation
+
+TOOLS
+
+CORE PART
+Mostly metal, and plastic
+
+Beeper
+Motor
+Magnetron
+Fuse
+Capacitor
+Transformer
+
+Fan and Structure attaching  it
+
+external structure
+
+Base and wall: metal
+Door: Plastic
+
+Walls with ventilation
+
+Base with ventilation
+
+Door
+
+Buttons
+
+attaching parts
+Mostly metal, and plastic
+
+Spring 
+
+Screws
+Metal attachments
+Gears
+
+Video of the process
+
+repurpose and design phase
+
+Once I disassembled the different parts, I observed each element and found the fan an interesting element to start playing and trying things
+It reminded me the video at Heliopolis work, where students made a ship with a helix repurposing objects
+Second Idea
+
+Try out the fan, as I forgot to plug in the microwave to test if it was working
+It worked !!!
+
+I decided to put a switch to pick if I wanted to turn it on or off
+Megan helped me to use a multimeter to measure the voltage
+Fourth idea
+
+Stick metallic and colorful stars in the helix to see a nice effect
+Final PRODUCT
+
+electric Fan with switch and decorations to refresh ourselves during summer and put in a desk or nightstand
+Final PRODUCT
+
+electric Fan with switch and decorations to refresh ourselves during summer and put in a desk or nightstand
+I attached the fan to a recycled piece of wood, as I was looking for a non-conductive material
+I attached the fan to a recycled piece of wood, as I was looking for a non-conductive material
+I added a wood support to put the fan in a table
+What I learned from this process is don't expect the result to strictly align with your conceptions because whether a design works in reality can only be know after trial
+However, it turns out that the elaborate veins on the outer layer will make the whole prices fall apart if the size is too small, because the laser will burn the edge of the material and shrink the actual size
+Rube Goldberg
+input: Wifi receive
+output:  Light
+
+IDEATE:
+Helen noticed that after making her phone stand in class that it did not function properly, so we decided to repurpose it into our project
+After meeting we discussed various ideas, but landed on the concept that we wanted the phone to fall from the stand to cover the light sensor
+Rube Goldberg
+input: Wifi receive
+output:  Light
+
+IDEATE:
+Helen noticed that after making her phone stand in class that it did not function properly, so we decided to repurpose it into our project
+After meeting we discussed various ideas, but landed on the concept that we wanted the phone to fall from the stand to cover the light sensor
+Rube Goldberg
+input: Wifi receive
+output:  Light
+
+IDEATE:
+Helen noticed that after making her phone stand in class that it did not function properly, so we decided to repurpose it into our project
+After meeting we discussed various ideas, but landed on the concept that we wanted the phone to fall from the stand to cover the light sensor
+so then we worked backwards to decide how to get the phone stand to stay up and then when released fall over
+We utilized the simple machines website to help us develop various ideas of how to incorporate an incline plane and a pulley system
+
+This image shows our sketching process after discussing our ideas
+
+PROTOTYPE:
+We broke the project into sections:
+
+Incline Plane:
+
+Pulley:
+
+Light Box:
+
+The incline plane involved some adjustments as we added in the servo to "open the door" for the marbles and therefore had to cut a slit in the wall
+so then we worked backwards to decide how to get the phone stand to stay up and then when released fall over
+We utilized the simple machines website to help us develop various ideas of how to incorporate an incline plane and a pulley system
+
+This image shows our sketching process after discussing our ideas
+
+PROTOTYPE:
+We broke the project into sections:
+
+Incline Plane:
+
+Pulley:
+
+Light Box:
+
+The incline plane involved some adjustments as we added in the servo to "open the door" for the marbles and therefore had to cut a slit in the wall
+so then we worked backwards to decide how to get the phone stand to stay up and then when released fall over
+We utilized the simple machines website to help us develop various ideas of how to incorporate an incline plane and a pulley system
+
+This image shows our sketching process after discussing our ideas
+
+PROTOTYPE:
+We broke the project into sections:
+
+Incline Plane:
+
+Pulley:
+
+Light Box:
+
+The incline plane involved some adjustments as we added in the servo to "open the door" for the marbles and therefore had to cut a slit in the wall
+Also, we retroactively deiced to add a distance sensor which involved late drilling a hole in order get the sensor to fit in
+Also, we retroactively deiced to add a distance sensor which involved late drilling a hole in order get the sensor to fit in
+Also, we retroactively deiced to add a distance sensor which involved late drilling a hole in order get the sensor to fit in
+If we had planned this out better then we could have put the slit and holes in before creating the stand
+
+The pulley was quick to make by making a base and to walls and I was able to repurpose a wire spool to allow the string to rotate through
+If we had planned this out better then we could have put the slit and holes in before creating the stand
+
+The pulley was quick to make by making a base and to walls and I was able to repurpose a wire spool to allow the string to rotate through
+Super simple - we just created a box, but we had to measure out where to place the box so the phone lands on it without tipping over, and with that had to weight the box down so that it stayed still when the phone fell on it
+Code
+
+When receive a message -- servo moves 90 degrees to open the door, which releases the marble down the incline plane
+When the marble passes the distance sensor on the plane it triggers LED lights (ADD CODE IMAGES/TALK ABOUT CODING IT)
+
+Reflect 
+
+	•	We could have planned out our incline better about creating holes for the "door" and the distance sensor before putting it together
+	•	We could have created a more secure way to use the pulley to hold down the phone case
+When the marble passes the distance sensor on the plane it triggers LED lights (ADD CODE IMAGES/TALK ABOUT CODING IT)
+
+Reflect 
+
+	•	We could have planned out our incline better about creating holes for the "door" and the distance sensor before putting it together
+	•	We could have created a more secure way to use the pulley to hold down the phone case
+Akio sent us a very nice tutorial and we experimented with the Arduino blocks to code the neo pixel
+Because the previous group was finishing their move at the edge of the table, we built a ramp to continue the moving path
+So, we decided to use a car pattern design, cut on the laser cut machine, commonly used in robotics learning settings
+Coding the GogoBoard
+
+THE CODE
+While we were assembling our ramp and car, we coded our GogoBoards
+Coding the GogoBoard
+
+THE CODE
+While we were assembling our ramp and car, we coded our GogoBoards
+Following the tilt action, the first GogoBoard would signal the second to trigger the car motor and play music
+Once the engines are on, they should turn the wheel clockwise attached to them and move straight ahead until the end of the ramp
+Once the engines are on, they should turn the wheel clockwise attached to them and move straight ahead until the end of the ramp
+The testing was a nightmare
+First, we couldn't start the engines together and turn the wheel in the same direction
+We changed the code, motors, wheels, and car weight and even turned the engines on opposite sides
+We changed the code, motors, wheels, and car weight and even turned the engines on opposite sides
+We changed the code, motors, wheels, and car weight and even turned the engines on opposite sides
+Akio helped us fix the code, although one wheel was faster than the other, which kept the car pending to the right and following through the ramp
+Akio helped us fix the code, although one wheel was faster than the other, which kept the car pending to the right and following through the ramp
+Akio helped us fix the code, although one wheel was faster than the other, which kept the car pending to the right and following through the ramp
+The problem was an old glue that was left on the motor that made the wheel turn wrong
+The problem was an old glue that was left on the motor that made the wheel turn wrong
+Once we got the bond out and set the right speed, the car drove ahead and nailed the ballon!
+
+1 - Inspiration;  2- Sketches
+
+THE SIMPLE MACHINE
+We decided to build a ramp as a simple machine
+We used the laser cut for the ramp and sides because we needed precision
+We used the laser cut for the ramp and sides because we needed precision
+And the legs we cut at the wood saw and wood sander machine
+However, we were unsure about the ideal angle for the ramp, so we employed an adaptable feature to connect its parts: hinges
+Using the hinges was an excellent decision because when we were testing the car walking, the ramp was too tilted, so effortlessly, we adapted the angle by putting the ramps from part higher
+Using the hinges was an excellent decision because when we were testing the car walking, the ramp was too tilted, so effortlessly, we adapted the angle by putting the ramps from part higher
+Also, we decided to inflate the balloon more so the plastic area was finer (good decision)
+We used some pieces of wood to weigh on the pole bottom and try to balance it
+It was not enough! The final solution was to wrap the pole with the ramp's last part legs
+Code Remix:  
+The story of learning to code:
+Live information from my coding learning process
+
+My first idea was to work on a project that had an interactive component between the body of the user and the computer
+Code Remix:  
+The story of learning to code:
+Live information from my coding learning process
+
+My first idea was to work on a project that had an interactive component between the body of the user and the computer
+I started working with another project:
+
+ORIGINAL PROJECT
+
+Pseudo code comments
+
+Video Recording
+
+Visualization
+
+Code
+
+The exercise of writing pseudocode allowed me to review the foundation of coding and trying to fix some of the basic notions
+I started working with another project:
+
+ORIGINAL PROJECT
+
+Pseudo code comments
+
+Video Recording
+
+Visualization
+
+Code
+
+The exercise of writing pseudocode allowed me to review the foundation of coding and trying to fix some of the basic notions
+I started working with another project:
+
+ORIGINAL PROJECT
+
+Pseudo code comments
+
+Video Recording
+
+Visualization
+
+Code
+
+The exercise of writing pseudocode allowed me to review the foundation of coding and trying to fix some of the basic notions
+At the beginning, this function and measures scared me
+I still don't understand the whole code, but I was able to play with the speed numbers change and the interval
+REMIX CODE
+
+Pseudo code with changes
+Video Recording
+Visualization
+Code
+
+I decided to start with something simple, so I changed colors with picker color and change the name in the entire code to make it coherent to the reader/programmer
+At the beginning this simple task broke the visualization, because I was forgetting to change one missing color
+Megan suggested to use COMMAND + F to not forget any piece of code
+I wanted to add music to this code remix and Inara helped me
+I wanted to add music to this code remix and Inara helped me
+At the beginning, I was worried because code is still difficult for me
+At the end of the task I started feeling more comfortable with the code, and I was able to introduce more important changes
+The pseudocode helped me to understand the code, but until the end of my task I was discovering new functions and meanings
+The pseudocode helped me to understand the code, but until the end of my task I was discovering new functions and meanings
+The pseudocode helped me to understand the code, but until the end of my task I was discovering new functions and meanings
+Remixing a code helps to have a foundation where you can start programming, because an empty white page can be hard for beginners
+When I felt I was breaking the code, asking for help to my peers and teacher assistants was a good way to feel that things were not so complicated: we just needed some tools and tricks
+During the process, I just thought about the difficulties to code, so I decided to build a live data visualization of my code learning process
+During the process, I just thought about the difficulties to code, so I decided to build a live data visualization of my code learning process
+Got inspirations from different materials (cotton, plush yarn, bell) available in the lab
+The story of Baa-Baa the sheep
+Baa-Baa lives in children's mind and imagination
+It connects to topics like measuring, geometry, balance
+It connects to topics like measuring, geometry, balance
+Learning by doing: Learned design thinking, iterative/agile design, project management, time management naturally in the process
+Time flies so fast and again I don't even realize that I am learning
+Build self efficacy: I made 3 prototypes before the final decision
+When the prototype finally worked, I felt really happy and had the confidence in myself: I can solve problems
+Get really useful feedback from them as inspirations for next iteration
+Inspirations
+Design & Hand-drawing on Inkspace
+Final prototype
+
+I added flames  to the base to symbolize the burning fire
+Reflection Card:
+The biggest takeaway I have from this assignment, besides the lovable firework smell comes from the laser cutter and knowledge and skills of how to use the machine
+My realization is that although having a good idea and illustrating it or visualizing it is extremely important
+The importance of learning while doing is even greater!
+Take my experience, for instance, I had drawn many drafts on Inkscape before going to the lab, but it wasn’t until I actually learned how to use the laser cutter that I realized that many of the ideas I had drafted were hard to implement in the real world, which I hadn’t anticipated
+Conceiving an idea a hundred times on the computer or in your head is not the same as learning how the machine works, using it and cutting stuff out, and then assessing where it needs improvement
+It was intriguing to see how the notion of "repairing" was articulated as a "timely phenomenon bridging past and future", namely "aftermath", which inherits the layered world and entails continuity of "order, value, and meaning" (Jackson, 2014)
+In my project, the phone slider and the movable monitor stand were manifested as embodied instructional material of the number system and provided the embodied structure of 2 players game, respectively
+I think the original purpose of the embodied design affordance was sustained and transformed throughout the “repair” process and the project entails a portion of the essence of the aftermath–continuity (of order and value) and resilience
+Old Slider Phone
+Employing slider to represent and embody base 2 & base 3 number system to encourage children to concretize number system with sensorimotor movement
+Old Slider Phone
+Employing slider to represent and embody base 2 & base 3 number system to encourage children to concretize number system with sensorimotor movement
+Old Slider Phone
+Employing slider to represent and embody base 2 & base 3 number system to encourage children to concretize number system with sensorimotor movement
+Slider (Coil, wire, plastic)
+
+Attaching knobs to two slider coils
+
+Employing affordance of the phone slider to embody base 2 and 3 number system
+
+Learning binary (base 2) number system
+
+base 2 & base 3 number system
+
+Challenge: I initially had not intuitive moment learning base 2 (binary) system and it was easier for me to learn base 3 than base 2 given that base 3 is similar to base 10 (decimal) system which we use universally
+Slider (Coil, wire, plastic)
+
+Attaching knobs to two slider coils
+
+Employing affordance of the phone slider to embody base 2 and 3 number system
+
+Learning binary (base 2) number system
+
+base 2 & base 3 number system
+
+Challenge: I initially had not intuitive moment learning base 2 (binary) system and it was easier for me to learn base 3 than base 2 given that base 3 is similar to base 10 (decimal) system which we use universally
+Throughout this process, I realized employing other representation than number would be the easier way to learn the logic of the number system
+Throughout this process, I realized employing other representation than number would be the easier way to learn the logic of the number system
+Monitor Stand (screw, spring, rubber, magnet)
+
+Monitor Screen (film, circuit, power supply, sound/color generator, buttons)
+
+Serendipitously I figured out that the surface of the stand  is composed of magnet!
+
+Challenge: As soon as I detached the screen from the stand, the vertical spring went back to the top and didn't stay in the middle!!
+
+Inquiry: I wonder what makes the object to stay vs
+Monitor Stand (screw, spring, rubber, magnet)
+
+Monitor Screen (film, circuit, power supply, sound/color generator, buttons)
+
+Serendipitously I figured out that the surface of the stand  is composed of magnet!
+
+Challenge: As soon as I detached the screen from the stand, the vertical spring went back to the top and didn't stay in the middle!!
+
+Inquiry: I wonder what makes the object to stay vs
+Monitor Stand (screw, spring, rubber, magnet)
+
+Monitor Screen (film, circuit, power supply, sound/color generator, buttons)
+
+Serendipitously I figured out that the surface of the stand  is composed of magnet!
+
+Challenge: As soon as I detached the screen from the stand, the vertical spring went back to the top and didn't stay in the middle!!
+
+Inquiry: I wonder what makes the object to stay vs
+Monitor Stand (screw, spring, rubber, magnet)
+
+Monitor Screen (film, circuit, power supply, sound/color generator, buttons)
+
+Serendipitously I figured out that the surface of the stand  is composed of magnet!
+
+Challenge: As soon as I detached the screen from the stand, the vertical spring went back to the top and didn't stay in the middle!!
+
+Inquiry: I wonder what makes the object to stay vs
+Monitor Stand (screw, spring, rubber, magnet)
+
+Monitor Screen (film, circuit, power supply, sound/color generator, buttons)
+
+Serendipitously I figured out that the surface of the stand  is composed of magnet!
+
+Challenge: As soon as I detached the screen from the stand, the vertical spring went back to the top and didn't stay in the middle!!
+
+Inquiry: I wonder what makes the object to stay vs
+slider phone)
+
+Gluing colored-buttons on the magnet to attach it on the monitor stand
+slider phone)
+
+Gluing colored-buttons on the magnet to attach it on the monitor stand
+This way, we can express base 2 or 3 number system using different embodied representation!
+
+Rotating nature of the stand inspired me to build two-player game display
+
+Inquiry: I still cannot figure out what makes the stand neck rotate

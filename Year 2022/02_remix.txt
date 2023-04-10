@@ -1,0 +1,13 @@
+Revised Reflection
+
+I gained a deeper understanding of the codes as well as a brand new  practical application to practice my coding ability. By listing the pseudocode out, I began to understand how to put all the codes together and the meaning of different codes.
+After saw the comments from Jonathan, I realized that the codes that I remixed was indeed to super-facial, so I decided that I should try to touch a deeper level of coding.
+The idea is simple, to tell people that all lives matter. When I was passing through a neighborhood in Harlem the other day, there was this huge wall painted with the phrase "black lives matter". That occurred to me that this could be used as the theme of redoing my project. But only emphasize the importance of black lives is too shallow as well as difficult for me to come up with too many options to mess around with the code. So I try to wear their shoes: As a asian, there are many inequalities in my community as well, many people has suffered from the partiality even in place where diverse culture are respected and welcomed such as NYC. So it's imperative for us to think about all lives matter, black, white and asian people we should live in harmony, so I came up with the idea and decided to adopts it in the code.
+
+Then I started to create some of the fundamentals logics of the code. The original code was great, but I was thinking about changing the content as well as how the content can pop up. In the original code, the codes pop ups only in places where the user clicks on a place. I've managed to change the aspect, to let codes pop up in places unexpected, randomly. And I also set the if-else conditions so that different content corresponding to different race can be represented. I failed to change the codes based on my experience at first, after referencing the files from psj5, I began to able to write down the fundamental logic of the project.
+
+Special thanks to David in helping me solving some of the problems such as why the words can not be shown on the screen after clicking the button, how to print our texts as PSJ5 does not have the "Print" function as Python or the "Console.log()" function in Javascript.
+
+pseudocode
+
+new project

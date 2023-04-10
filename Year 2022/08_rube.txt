@@ -1,0 +1,30 @@
+Thinking about simple machines and tilt
+
+These two drawings show some of our initial ideas on how we could use simple machines to manipulate the tilt of the board. We thought about different types of levers and ways we could move the fulcrum.
+
+Tilt & Re-Thinking Angles
+When first trying to create a lever to manipulate the tilt of the board, we found that the boarded needed to register about a 45 degree tilt. This required a lot of weight/force on the side of the lever opposite the gogo board.
+
+To counteract this, we repurposed the phone stand created during the wood working lab to increase the angle the board was tilted before lever was activated.
+
+Flagpole test run
+We tested out using the motor to raise a flag. We tried to have the string wind around the wheel attached to the motor in order to raise the flag. However, we ran into the problem of the string gradually moving toward the motor and eventually getting caught in the space between the wheel and the motor.
+
+3D Printed Part
+With significant help from TA David - we 3D printed a special piece to fix this problem.
+
+We thought through a few different ways to utilize the new part, and found most success by connecting it with hot glue directly to the wheel from the GoGo Kit.
+
+Reflection
+This was an incredible learning process for me. I’ve never developed so many iterations of a design so quickly and so collaboratively. I found this process led me to quickly develop my making skill.
+
+I also found myself rethinking how I Can combine materials and sensors to create truly exciting, engaging, and personally meaningful interactive artifacts.
+
+I experienced the “diving in” then zooming out  when trying to figure out how to use the Crict machine. I found myself hyperfocusing on the basics of hooking up the machine, the design software, the techniques for design - like using the mirror feature for iron-ons,  the different matts to insert, and the different materials to use.
+
+After a few failed attempts and iterations using different amounts of pressure and figuring out the right materials select, I successfully printed my GoGo letters.
+
+I then zoomed out on how the letters I had just made fit into our larger project design.
+
+
+

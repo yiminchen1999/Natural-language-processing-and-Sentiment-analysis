@@ -1,0 +1,13 @@
+INPUTS
+Step 1: At the beginning players role the dice. Each side corresponds to a different stakeholder. Based on what they get they choose from different prompt cards (action cards) that they can use
+STEP 2: After they know their role in the system they take actions based on their position. Each action is sensitive to the environment and is connected to the AQI.
+Step 3: As they take actions they see the AQI go up and down in realtime and are able to see the quantitative impact of their actions
+Different shaped physical objects vs prompts
+Player A) Good guy Task: takes decisions in favor of the climate
+Goal: ensure that the AQI stays below the harmful levels
+Player B) Bad guy Task: takes decisions that are detrimental to the environment
+Goal: ensure that the AQI stays above the harmful levels
+Option 2:
+Collaborative game: climate action simulation??
+-All players are presented with a problem and they solve it together?
+OUTPUT

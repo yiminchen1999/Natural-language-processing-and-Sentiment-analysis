@@ -1,0 +1,460 @@
+Original Code: https://p5play
+p5js
+p5js
+org/quinton-ashley/sketches/szN_XdV5O
+
+Trial and error:
+I initially started with saving the code on my desktop and updating it with notepad, however it was difficult to see the effect of my changes
+org/quinton-ashley/sketches/szN_XdV5O
+
+Trial and error:
+I initially started with saving the code on my desktop and updating it with notepad, however it was difficult to see the effect of my changes
+I was able to change the directions in which they moved and adjust the speed by updating the velocity
+
+Pseudocode
+
+I was having difficulty changing the background, so I then switched over to the js5 editor and started to work there
+I was able to change the directions in which they moved and adjust the speed by updating the velocity
+
+Pseudocode
+
+I was having difficulty changing the background, so I then switched over to the js5 editor and started to work there
+I then found additional code that I could add to change shapes and colors of the "sprites" so I experimented with the dots, polygon and star shape
+Each one reacted differently - the polygon had a "collide" and "bounce" reaction, whereas the star held the sprites inside of its borders
+
+The code remix was quite challenging when I was getting started and trying to figure out how to use the libraries
+Each one reacted differently - the polygon had a "collide" and "bounce" reaction, whereas the star held the sprites inside of its borders
+
+The code remix was quite challenging when I was getting started and trying to figure out how to use the libraries
+I had difficulty changing the background of the game, as I initially wanted to switch it out to look like a video game background
+Original code: Follow
+ (with pseudocode)
+
+Biggest learnings from the pseudocode exercise
+1
+Original code: Follow
+ (with pseudocode)
+
+Biggest learnings from the pseudocode exercise
+1
+Original code: Follow
+ (with pseudocode)
+
+Biggest learnings from the pseudocode exercise
+1
+draw() is the key to create interactive graphics and animation
+3
+draw() is the key to create interactive graphics and animation
+3
+New design idea 1:
+I wanted to make a snake game/"fish eat fish" type of experience and realized that it would be too difficult
+
+After playing around the code, I realized that frameRate() is a intersting function so I kept it
+
+New design idea 2:
+I got interested in this movement and wanted a drawing effect to show the trail/track of the movement
+
+I did not know how to search for the effect I wanted at first
+Luckily, I found this resource in p5
+New design:  Art tool (and a math learning tool)
+
+Changes made based on the original code
+1
+Added a slider to control the frame rate and a clear button to reset the canvas
+
+A user can adjust the frame rate with the slider
+When the rate is higher, the lines are denser from before and present a different artistic feeling
+
+I tried changing the color and length of the strokes in the code
+Given more time, I will build them as buttons or sliders for users to play with
+
+1
+Learning code is like learning another language that is rooted in computational thinking
+Learning code is like learning another language that is rooted in computational thinking
+However, constructionist way of learning coding gave me an understanding of what codes can do and build self-efficacy
+I now know how to debug and solve problems on my own
+First I created a rectangle to put inside the buttons
+I didn't know how to do the buttons, but with the help of Akio and the references I was able to create
+Play the video to see the code working!
+
+I didn't understand how to clear my canvas, so I decided to create an erase by giving the same color of the canvas to the brush
+But after I was able to create the reset button :)
+
+Along with my code is possible to read my pseudocode where I explain my choices
+But after I was able to create the reset button :)
+
+Along with my code is possible to read my pseudocode where I explain my choices
+But after I was able to create the reset button :)
+
+Along with my code is possible to read my pseudocode where I explain my choices
+But after I was able to create the reset button :)
+
+Along with my code is possible to read my pseudocode where I explain my choices
+I wanted to add a button but didn't know how, so I looked for references and even sought help from ChatGPT
+With Akio's help and my own research, I was able to find a simple code that I felt comfortable with
+I dedicated a significant amount of time to styling the code and making it look good
+This project was especially meaningful to me as my daughter had asked me to draw on my computer using paint, so finding a suitable code was a fun challenge
+This project was especially meaningful to me as my daughter had asked me to draw on my computer using paint, so finding a suitable code was a fun challenge
+Link to original project with pseudocode comments: https://editor
+Link to original project with pseudocode comments: https://editor
+Link to original project with pseudocode comments: https://editor
+p5js
+p5js
+org/hh2867/sketches/RfEPqAr6A
+
+Link to NEW project with pseudocode comments on what has been reiterated: https://editor
+org/hh2867/sketches/RfEPqAr6A
+
+Link to NEW project with pseudocode comments on what has been reiterated: https://editor
+org/hh2867/sketches/RfEPqAr6A
+
+Link to NEW project with pseudocode comments on what has been reiterated: https://editor
+org/hh2867/sketches/RfEPqAr6A
+
+Link to NEW project with pseudocode comments on what has been reiterated: https://editor
+org/hh2867/sketches/RfEPqAr6A
+
+Link to NEW project with pseudocode comments on what has been reiterated: https://editor
+p5js
+p5js
+org/hh2867/sketches/F5u02Xbj_
+
+Summary of what I changed:
+
+I turned the simple foggy forest into a meditation experience with purpose
+For this I was able to utilize other codes in the p5js gallery by looking at how various people had made rain
+For this I was able to utilize other codes in the p5js gallery by looking at how various people had made rain
+For this I was able to utilize other codes in the p5js gallery by looking at how various people had made rain
+The Meditation Sounds:
+I first converted youtube sounds to mp3 and then uploaded them into my p5
+I knew what I needed to happen and what the computer needed to be told to make it happen, but it took me a bit to figure out the correct 'if, else' statement to make it happen
+Even if it not exactly how I "wanted" to code it, it still functions
+Inspiration
+
+Pseudocode
+
+How chatGPT helped me understand some of the functions that's not in the P5Js documentation: https://docs
+com/document/d/1eFn8tIhPKjN6LbFnvKq4dM_LRPCFKbp6VwpUPaz8epM/edit?usp=sharing
+
+Remixing
+
+Reflection Card:
+Adding the pseudocode "forced" me to think about what each line means and does in the code
+com/document/d/1eFn8tIhPKjN6LbFnvKq4dM_LRPCFKbp6VwpUPaz8epM/edit?usp=sharing
+
+Remixing
+
+Reflection Card:
+Adding the pseudocode "forced" me to think about what each line means and does in the code
+com/document/d/1eFn8tIhPKjN6LbFnvKq4dM_LRPCFKbp6VwpUPaz8epM/edit?usp=sharing
+
+Remixing
+
+Reflection Card:
+Adding the pseudocode "forced" me to think about what each line means and does in the code
+It is especially helpful for constructing logical frameworks
+ORIGINAL CODE
+choose a "Pattern Creator" code to explore and remix
+ORIGINAL CODE
+choose a "Pattern Creator" code to explore and remix
+p5js
+p5js
+org/#/2022-All/pattern-creator/
+
+TINKERING WITH THE CODE
+1- I read line by line to understand the code and its functions;
+2 - For the functions that I couldn't understand, especially the ones that used Cos and Sen calculations, I changed the number to observe changes
+platform helped me translate to p5
+Js language what I wanted to do on the code, but I didn't know how to write it
+Remix Code
+1 - my first test was to change the fixed pattern numbers by setting up the initial pattern with my birthday date;
+2 - as a coincidence, the createPattern(120, 5
+Due to this, I decided to add music to my remix code
+Due to this, I decided to add music to my remix code
+Once I wrote the code, the pattern start point changed from one drawing to another, and it did not spin
+As a learning reflection, this was a challenging assignment
+Additionally, CHATGPT made coding more inclusive to me once it helped me translate my thoughts or commands to p5
+js , leaving me with the logic functional coding part
+p5js
+p5js
+org/reajmorais/sketches/8UxKOWank
+
+Video of what the original project looks like
+
+Original Code of the Project
+
+For me, the most challenging part of dissecting the original code was first, determining which object was actually moving, was the background that was moving? Or the train, or both? My answer to that question came from "messing around" with different parts of the code in order to figure out each code's purpose
+org/reajmorais/sketches/8UxKOWank
+
+Video of what the original project looks like
+
+Original Code of the Project
+
+For me, the most challenging part of dissecting the original code was first, determining which object was actually moving, was the background that was moving? Or the train, or both? My answer to that question came from "messing around" with different parts of the code in order to figure out each code's purpose
+org/reajmorais/sketches/8UxKOWank
+
+Video of what the original project looks like
+
+Original Code of the Project
+
+For me, the most challenging part of dissecting the original code was first, determining which object was actually moving, was the background that was moving? Or the train, or both? My answer to that question came from "messing around" with different parts of the code in order to figure out each code's purpose
+As part of the new project I was creating, I coded the airplane, whereas, in the original project, it was not the case
+How was it called, and what should I do if I wish to replace them with new ones?
+
+Link to  the modified code with new interactions - aka the "new" project code as well as the pseudocode:
+
+https://editor
+How was it called, and what should I do if I wish to replace them with new ones?
+
+Link to  the modified code with new interactions - aka the "new" project code as well as the pseudocode:
+
+https://editor
+How was it called, and what should I do if I wish to replace them with new ones?
+
+Link to  the modified code with new interactions - aka the "new" project code as well as the pseudocode:
+
+https://editor
+p5js
+p5js
+org/zw2754/sketches/6yKBRaSAt
+
+Video of the new project:
+
+Screenshot of the new/modified code
+
+Summary of the major changes(codes) I've made to the new project:
+
+I have changed the background music by uploading my favorite music to the Sketch assets and then calling it afterwards
+I wrote new code to create an airplane to replace the original train object and then allowed it to move with my mouse so I could control it anywhere I wanted to go
+In order to match my theme, I change the frame size and speed of the mov
+
+Creative Code Reflecting and Learning
+
+Throughout the dissect/remix/re-create code process
+org/zw2754/sketches/6yKBRaSAt
+
+Video of the new project:
+
+Screenshot of the new/modified code
+
+Summary of the major changes(codes) I've made to the new project:
+
+I have changed the background music by uploading my favorite music to the Sketch assets and then calling it afterwards
+I wrote new code to create an airplane to replace the original train object and then allowed it to move with my mouse so I could control it anywhere I wanted to go
+In order to match my theme, I change the frame size and speed of the mov
+
+Creative Code Reflecting and Learning
+
+Throughout the dissect/remix/re-create code process
+org/zw2754/sketches/6yKBRaSAt
+
+Video of the new project:
+
+Screenshot of the new/modified code
+
+Summary of the major changes(codes) I've made to the new project:
+
+I have changed the background music by uploading my favorite music to the Sketch assets and then calling it afterwards
+I wrote new code to create an airplane to replace the original train object and then allowed it to move with my mouse so I could control it anywhere I wanted to go
+In order to match my theme, I change the frame size and speed of the mov
+
+Creative Code Reflecting and Learning
+
+Throughout the dissect/remix/re-create code process
+org/zw2754/sketches/6yKBRaSAt
+
+Video of the new project:
+
+Screenshot of the new/modified code
+
+Summary of the major changes(codes) I've made to the new project:
+
+I have changed the background music by uploading my favorite music to the Sketch assets and then calling it afterwards
+I wrote new code to create an airplane to replace the original train object and then allowed it to move with my mouse so I could control it anywhere I wanted to go
+In order to match my theme, I change the frame size and speed of the mov
+
+Creative Code Reflecting and Learning
+
+Throughout the dissect/remix/re-create code process
+Learning happens through constantly trying, exploring, analyzing what you observe, and reflecting on the steps you have tried
+p5js
+p5js
+p5js
+p5js
+org/jooprojects/sketches/Y6T0202my
+
+Reflection Card: When remixing, it is difficult to think outside the constraints of what is already built
+org/jooprojects/sketches/Y6T0202my
+
+Reflection Card: When remixing, it is difficult to think outside the constraints of what is already built
+It also took a lot longer than I expected to come up with a remix idea and then implement it
+Because you aren't starting from scratch, you have to figure out how what you want to add fits into existing pieces
+When remixing, it is difficult to think outside the constraints of what is already built
+It also took a lot longer than I expected to come up with a remix idea and then implement it
+Because you aren't starting from scratch, you have to figure out how what you want to add fits into existing pieces
+It is very visible in commented out code where the creator experimented on their own work and gave me inspiration to pursue my own remixing
+
+Pseudocode:
+https://docs
+It is very visible in commented out code where the creator experimented on their own work and gave me inspiration to pursue my own remixing
+
+Pseudocode:
+https://docs
+com/document/d/1Kwy9dI7jchvXM-6i0zSzKDrNF05c9FHQtFuoJbqRCfI/edit?usp=sharing
+
+Here is where I learned about user interaction through mouseIsPressed boolean
+
+In redesign, I realized that the frameCount means that the ellipses are moving further apart, which makes the flowers appear bigger, but kind of ruins my heart shape in redesign
+
+I don't understand how the effect of frameCount affects the shape of the flowers, both in placement and creation
+
+Changes to Code:
+1
+Original code:
+I went through a few different coding iterations, trying out different ideas in an html format using a shader and htlm
+Original code:
+I went through a few different coding iterations, trying out different ideas in an html format using a shader and htlm
+Ultimately, I moved away from this because although I could create the html and add text, I couldn't get the p5
+js codes for shaders to run properly after 4 days
+I decided finally on this project:
+My comments can be found here and below: This code drew me in because of its use of sine
+I've always felt called to the natural waves of sine curves, and in this case, it felt connected to water and breathing, which are both very calming for me, so it felt appropriate to remix
+I started off using more complex codes from open source libraries, and was frustrated trying to figure out what they were saying
+Instead of being frustrated at what I did not know, I moved into simpler codes and practiced translating what I did know and understanding! Although many of my translations didn't "translate" into my final project, they were crucial steps in the beginning/middle to my exploration, applying, learning, and reflecting,
+
+Remix code:
+https://youtu
+Instead of being frustrated at what I did not know, I moved into simpler codes and practiced translating what I did know and understanding! Although many of my translations didn't "translate" into my final project, they were crucial steps in the beginning/middle to my exploration, applying, learning, and reflecting,
+
+Remix code:
+https://youtu
+be/EKHuIGBPofs
+At first, I was browsing aimlessly looking for ideas and just trying to understand what different codes were saying
+This practice sparked my interest in creating a visual that could encourage pausing, and taking a few deeper breaths
+I like this code because it had a movement element that I felt could convey similar movements to breathing
+When completing my remix, I tried adding pictures, gifs, appearing/disappearing text, shaders, and rotating circles, but it all felt too complicated for the message I was trying to convey
+Reflection Card: I went through 7 iterations using different code blocks, although the most surprising knowledge came from working with htlms
+Reflection Card: I went through 7 iterations using different code blocks, although the most surprising knowledge came from working with htlms
+I knew htlms were websites, and I knew they were coded, and I knew javascript existed, but I did not know how they all fit together
+I knew htlms were websites, and I knew they were coded, and I knew javascript existed, but I did not know how they all fit together
+At first, I was really confused trying to run my code in p5js because I wanted it to be a website
+At first, I was really confused trying to run my code in p5js because I wanted it to be a website
+At first, I was really confused trying to run my code in p5js because I wanted it to be a website
+I used online resources to learn that I needed another application (I used Brackets) and html starter code and then it would make a website
+original code
+
+My code
+
+Reflection Card:
+I remix this character board by infusing in words and characters that are personally meaningful to me, that is a mixture of Chinese characters from my favorite poems, English letters, and the numbers 0,1 which represent the digital world we live in
+original code
+
+My code
+
+Reflection Card:
+I remix this character board by infusing in words and characters that are personally meaningful to me, that is a mixture of Chinese characters from my favorite poems, English letters, and the numbers 0,1 which represent the digital world we live in
+Original Code Link
+New Code Link
+Zoom in
+Video
+
+if you press "s" you can save screenshot via code
+
+Insight
+
+LVN (which I got to know at MIT media lab) is a AI-powered listening and analytic tool help users see patterns across conversation, identify theme, and highlight voices around what matters most in the community
+Getting data from LVN, I extracted the keywords in NY and Education that happened in Manhattan which is my current community and put them into the array of my code and so that they could be displayed on the screen
+The orbit rotation also represents the shape of  manhattan
+(which is tilted little right)
+
+Trial & Error
+
+I wanted to add sound to the background
+Akio helped me and we tried to copy the code from the processing website
+it did not work, unfortunately, giving unfathomable errors
+However, for some reason which I cannot decipher, it did not run on my computer
+Reflection Card:
+1) By writing pseudocode, I was able to comprehend most reasoning behind every graphics
+Reflection Card:
+1) By writing pseudocode, I was able to comprehend most reasoning behind every graphics
+Reflection Card:
+1) By writing pseudocode, I was able to comprehend most reasoning behind every graphics
+Reflection Card:
+1) By writing pseudocode, I was able to comprehend most reasoning behind every graphics
+Reflection Card:
+1) By writing pseudocode, I was able to comprehend most reasoning behind every graphics
+As I could explore "reference" section and apply the logic accordingly , it empowered me with more agency; I  had the "applying"/"acting" experience that actually functions in a customized manner
+3) The biggest challenges were a) choosing the original code (shouldn't be too difficult but also shouldn't be too simple), b) inserting sound and changing fonts (as in trial & error section)
+3) The biggest challenges were a) choosing the original code (shouldn't be too difficult but also shouldn't be too simple), b) inserting sound and changing fonts (as in trial & error section)
+Code Remix:  
+The story of learning to code:
+Live information from my coding learning process
+
+My first idea was to work on a project that had an interactive component between the body of the user and the computer
+Code Remix:  
+The story of learning to code:
+Live information from my coding learning process
+
+My first idea was to work on a project that had an interactive component between the body of the user and the computer
+I started working with another project:
+
+ORIGINAL PROJECT
+
+Pseudo code comments
+
+Video Recording
+
+Visualization
+
+Code
+
+The exercise of writing pseudocode allowed me to review the foundation of coding and trying to fix some of the basic notions
+I started working with another project:
+
+ORIGINAL PROJECT
+
+Pseudo code comments
+
+Video Recording
+
+Visualization
+
+Code
+
+The exercise of writing pseudocode allowed me to review the foundation of coding and trying to fix some of the basic notions
+I started working with another project:
+
+ORIGINAL PROJECT
+
+Pseudo code comments
+
+Video Recording
+
+Visualization
+
+Code
+
+The exercise of writing pseudocode allowed me to review the foundation of coding and trying to fix some of the basic notions
+At the beginning, this function and measures scared me
+I still don't understand the whole code, but I was able to play with the speed numbers change and the interval
+REMIX CODE
+
+Pseudo code with changes
+Video Recording
+Visualization
+Code
+
+I decided to start with something simple, so I changed colors with picker color and change the name in the entire code to make it coherent to the reader/programmer
+At the beginning this simple task broke the visualization, because I was forgetting to change one missing color
+Megan suggested to use COMMAND + F to not forget any piece of code
+I wanted to add music to this code remix and Inara helped me
+I wanted to add music to this code remix and Inara helped me
+At the beginning, I was worried because code is still difficult for me
+At the end of the task I started feeling more comfortable with the code, and I was able to introduce more important changes
+The pseudocode helped me to understand the code, but until the end of my task I was discovering new functions and meanings
+The pseudocode helped me to understand the code, but until the end of my task I was discovering new functions and meanings
+The pseudocode helped me to understand the code, but until the end of my task I was discovering new functions and meanings
+Remixing a code helps to have a foundation where you can start programming, because an empty white page can be hard for beginners
+When I felt I was breaking the code, asking for help to my peers and teacher assistants was a good way to feel that things were not so complicated: we just needed some tools and tricks
+During the process, I just thought about the difficulties to code, so I decided to build a live data visualization of my code learning process
+During the process, I just thought about the difficulties to code, so I decided to build a live data visualization of my code learning process

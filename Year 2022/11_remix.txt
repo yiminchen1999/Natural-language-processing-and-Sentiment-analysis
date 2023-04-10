@@ -1,0 +1,8 @@
+original code with pseudocode
+not quite sure about this variable
+MY remix
+I want to control the speed of the text changing but I have not figured it out.
+Reflection
+I learned how to set variables and set it value, how to write a function, draw shapes and fill in colors by observing the existing code.
+When I saw this line "var side = windowWidth< windowHeight ? windowWidth : windowHeight" I was so confused and then find something basic for programmers online. Also whenever there is some function or syntax I do not understand, I will search it in p5.js reference and there would be an explanation. When I try to explain the original code by writing the pseudocode, I have to make sure everything I wrote is making sense. I guess learning happened when I actively searched for something to try to answer my question.
+To create something new by remixing, I have to know what can be changed and what has to stay to make the program function. After changing the numbers in the program, I had an overall understanding that how each code controls the pattern. Today is the new year of the Tiger so I want to make something related to the Lunar new year. I tried to change the original flowery pattern into a Chinese coin which is a classical decoration for the lunar new year. I borrowed some code from another project to add some text. My biggest challenge is to understand sin() and cos(). I am not sure how these function made this pattern happen. When I was playing with the code, they seemed interchangeable.

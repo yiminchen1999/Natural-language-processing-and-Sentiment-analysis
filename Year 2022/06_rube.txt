@@ -1,0 +1,8 @@
+Sketch
+Initial sketches
+Process
+Creating an evil plant
+Final product
+How to enable the tilt?
+Use small balls to imitate seeds/fruit rolling out of the flower and then trigger the tilting board
+Project description: Our Rube Goldberg machine has two components. The first one is a mechanical machine that has a gear and an axle which we lasercut. These enable the up and down movement when the rain sensor is activated. Attached to the gears is a plant that grows (moves up) when rain falls on it. This movement initiated another chain reaction which pushes the balls off the plank (laser cut) and then activates the next group's tilt sensor.

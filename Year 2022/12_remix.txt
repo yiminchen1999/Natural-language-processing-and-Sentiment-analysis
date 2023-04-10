@@ -1,0 +1,14 @@
+Original Code with my pseudocode: https://openprocessing.org/sketch/1463898
+Video: https://youtu.be/ODMmfkcqnog
+
+My Remix:  https://openprocessing.org/sketch/1464446
+
+What I wanted to Achieve: https://youtu.be/iYfFVQTIOY8
+
+What I did: https://youtu.be/6fe6U1jnbe4
+
+Reflection
+I think the pseudocode helped me understand each statement deeper, if I didn't go through the process, I would have probably left out some parts that I would have deemed as not important.
+Remixing codes are always fun to me! I like taking it up a notch. I try to push myself and think more about how I can make it better.
+I wanted  the user to move their mouse and the words of the speech appear on the canvas. I felt this experience would have made the user more connected to MLK and his speech. I have also added sound to the visuals which makes it more impactful. I have always admired MLK and every time I listen to him, I still get goosebumps so for me the sound element was an important factor.
+A lot of challenges! For starters, the debugging process is kind of hard because the console does not explicitly tell you where you are going wrong. I also think I left little time for exploration and I jumped into typography/text interaction without having any prior knowledge in it.

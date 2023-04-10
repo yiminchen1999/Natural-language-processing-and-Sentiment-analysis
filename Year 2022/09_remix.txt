@@ -1,0 +1,13 @@
+Link to the original code with my pseudocode : https://openprocessing.org/sketch/1460155
+Link to my new code: 
+https://openprocessing.org/sketch/1462744
+
+Original code with my pseudocode
+
+My new project with my pseudocode
+
+Reflection
+By writing pseudocode, I understood the purpose of each code line and learned the structure of coding better. I also had a deeper understanding of the p5 js syntaxes and parameters. The learning happens when I try to figure our what was the purpose of each line.
+     When remixing to create something new using the old code, I learned about how to break down each part of the code, and how to make them more structured through the process of rearranging the code and add more functions and syntax to create something new.
+     The original code was about just showing random texts on the screen. Because I am celebrating Chinese New Year with my friends these day, I decided to change the atmosphere to be about Chinese New Year and the year of tiger. I modified the color to be mainly red and yellow, which is festival in Chinese culture. I changed the words showing on the screen to be about Chinese New Year and Chinese idiom represents the positive influences of tigers. Then I added the click function to show the little tiger emoji when the users click the mouse. Lastly I added a loop to make the text show each 200 millisecond so the screen would not be that messy quickly.
+    My biggest challenge was the process of adding the timer loop to slow down the draw. I overcame it with looking through the reference and searched for project example online. I finally realized that the timer variable needs to be added before setting the canvas. Hence I solved this problem.

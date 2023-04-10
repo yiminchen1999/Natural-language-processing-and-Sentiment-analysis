@@ -1,0 +1,22 @@
+There seems to be identification with the artifact: the kids played with his older sister uninterruptedly for about 20 minutes at the beginning of our meeting and a little bit more towards the end. They interacted with the felt pieces, created stories and characters that interacted within the newly-created narrative.
+
+Different creations emerge from the simple forms: faces, houses, doors, animals are a few examples of their creation. This might be a signal that the kit sparked their imagination.
+
+They made good use of the “scaffolds” (“carvings” in the layers of felt) and quickly uncovered the letters and numbers. This was good (they seemed to like those “a-ha moments”), but once they “completed the task,” they lost some of their interest in playing.
+
+Play was almost entirely social—there seems to be little room for a toy that is for E. to play alone.
+
+They loved playing with LED+batteries, but we still hadn't found a way to integrate those with the kit. Other components we're considering to incorporate in the final product: music (triggered by the formation of letters), prompts to inspire narratives e.g.: “there was once a bunny...”)
+
+They played differently with the letters(negative shapes) and numbers(positive shapes). Positive shapes were more obvious and easier for them to figure out what to do. The kids independently found the numbers and put eyes them.
+
+Play test: kids "built" people using the shapes that form letters and numbers, adding elements like googly eyes and little shiny starts
+
+LED light experiment: we brought some IED light and batteries to the interview. After playing with the alpha shapes, the kids tired to light up the lights by connecting them to the battery and observing how it works.
+This made us think of adding LED lights into our design
+
+Prototyping the interaction: when the sensor is covered, the LED turns on. We built this raw version to check whether the code was working properly, and later we took another step in prototyping--testing the interaction with felt and MDF, the materials that we plan to use in the final product.
+
+When we moved to wood, we realized that we'd need to cover the back and sides of the sensor board with tape, so that less light would hit the sensor. This step also showed us how much space we would need to cover the sensors, boards and wires under the user interface.
+
+Schematic drawing of the functions that we plan for the "in-the-box" part of the toy: inside the box, the learner will place shapes in slots that will cover the sensor and, with that, turn on color LEDs. Outside the box, play is more free and shapes might be use to create narratives and characters.

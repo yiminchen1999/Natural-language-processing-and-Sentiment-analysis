@@ -1,0 +1,20 @@
+Original Project: Waltz of Circles
+Original Project Forked with Pseudo Code | Google Doc with Pseudo Code
+Remixed Project
+
+Declaration of Random Variables
+Don't understand this code
+Don't understand this code
+use of conditional
+Random values added to center
+Don't understand this code
+Random Values Added to Color
+Input
+
+Video Explainer
+
+I found the Waltz of Circles animation to be very beautiful and mathematical, so I chose it for this project. Starting off, I had to analyze the code that was in  Writing out the pseudocode allowed me to organize my thoughts and understand how each component of the code was connected to each other. The animation is quite advanced to code, but the names of the functions and variables made it easy to make some hypotheses about what each block did. To verify some of my assumptions, I would experiment with different values for specific parameters and see how it changed the animation. I found this to be at times more useful than referring back to the reference list.
+
+I forked the original code and decided I was going to add a keyPress input that would allow the animation to change when pressed. I wanted the animation to change randomly with quite a bit of volatility. So I declared many variables that used the random function, and incorporated those variables into certain parameters that changed the shape, density of connectedness, the connection of the circle, and even the colors.
+
+The biggest challenge was incorporating the the keyPress function. I had some help from Akio on this who helped me navigate why I was getting errors when trying to incorporate the function. The solution was actually quite simple in the end, in that I needed to declare the function somewhere outside of the code I am working with instead of in it.

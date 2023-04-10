@@ -1,0 +1,13 @@
+Design and Prototypes:
+some of the hand drawn design pieces
+first prototype: using cardboard; the material is easy to break, so we made a second prototype using MDF board
+second prototype: using MDF board, needs more decoration for Justice to play, so we decided to use vinyl to decorate
+vinyl cutter cutting the vinyl, then we put them on the game pieces
+second interview with Justice, showing her how to play with the puzzle prototype
+
+2D design pictures
+Link to the interview document
+
+Reflection
+We were quite nervous that our kid would not like our prototype, but fortunately she really likes it, " The game was so cool!", that's how she described when she passed the second test we set up for her. Our learning goal was to let her to develop the basic sense of direction telling and puzzle solving. At first, it was a bit hard for her to understand how the game works, especially how to pick boards to make a way home. But after the first couple of trials, she was capable to connect the roads to make way home.
+There are certain aspects we want to address in our final product. First and foremost is the aesthetics, our original prototype was rudimentary: we only decorated the roads, none of the other accessories were engraved or colored.  so we'll try to adopt more advance engrave techniques to the board and all the accessories, for example, we'll use the Carvey to deepen the slots for the figures. The second thing is that we'll incorporate the 3D printing in our design.The house, tress, ghost and the Barbie would all be printed out by using the 3D printing  machine

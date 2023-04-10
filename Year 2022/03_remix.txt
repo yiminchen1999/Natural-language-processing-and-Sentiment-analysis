@@ -1,0 +1,32 @@
+Creative Code Remix:
+"Viral” Letters
+
+1. The Original Code with Comments
+Click the iFrame code below for jumping to my page
+
+2. My New Project with Additional Changes
+Click the iFrame code below for jumping to my page
+
+I do not understand line 46 very well.
+
+‘charAt' is not in the reference of p5.js, I searched it on Google, by which said that it belongs to Java String Methods, working as "returning the character at the specified index (position)".
+
+In order to achieve the effect of "pressing the mouse, the letters become larger", I tried to write as below, based on the code of the original project:
+
+'function keyPressed () {
+if (keyCode == ENTER)
+textSize += 300;}'
+
+Well, the text size did not change at all. After checking the reference of p5.js, I found a tip saying that "textSize() was expecting no more than 1 arguments".
+
+By abstracting each letter into a square, the size of the letter is actually determined by the area enclosed by the four corners of the square. Therefore, in order to achieve the effect of "clicking the mouse, the letters become larger", I need to change the coordinates of the four corners of the letter.
+
+Based on line 36 in the original project's code, I created a new random variable 'addSize' and a following command, 'textSize (x, y, addSize, addSize); ', to generating new coordinates of each letter,  so that those letters can follow the change of the coordinate system of the mouse, enlarging its sizes one by one.
+
+3. Reflection
+
+Interest is the best teacher. When searching reference codes, I was actually looking for the visual effects I liked most, resulting in my high motivation to learn. After all, it is a bit scary to let me write an interaction in code from scratch. Interpreting the code piece by piece is forcing me to comprehend the function of each command. In the process of "translation", I think there are two most useful methods: one is to consult the reference webpage in time, and the other is to directly delete this line code, seeing if the code runs, and soon you will know what it does.
+
+Remixing projects gave me more confidence in coding, I was a little timid at first seeing so many cool works, but felt a sense of accomplishment when I ran my codes successfully. In addition, mixing code is not simpily "cooked" them together, as people's computational thinkings vary, I obviously felt that creating a new code based on the old ones will be more concisely in debugging.
+
+Well, I kind of understand the concept that p5.js is a framework. When imitating codes, I got confused by a variety of languages people used, and took too much time to digest each command. I also know that the imagination of writing code is important, as many excellent works are compiled from the most basic references.

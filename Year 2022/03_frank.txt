@@ -1,0 +1,21 @@
+FrankenThing: 
+From Fidget Spinner to Zoetrope
+
+[Reflection]
+The process of dismantling the fidget spinner is actually the deconstruction and reconstruction happening in the physical world. Through “articulate (Jackson, 2014, p.223)” each part of the toy, I finally decided to use the main part, weight, to create a simple zoetrope, based on the characteristics of the toy’s horizontal rotation. In the production process, the most upsetting part is that the corrugated marks of the old cardboard make it difficult for me to hold a perfect circle, and the cardboard is too thick to be cut with scissors, plus the hand-painted patterns vary in size, these factors are negatively affect the final animation. Improvements include making the gaps between the cardboards larger, allowing the user to see the animation inside the barrel with less effort.
+
+When repairing the toy, what impressed me the most was that each part played its own function. For example, I tried to put only one wing and weight of the toy on the bottom of the zoetrope, but without the support of the bottom cap, the weight could not drive the wing to rotate. I think one advantage of repairing something is that it encourages creators to learn and innovate on the basis of previous experience, which makes it easier to realize creative ideas than to make from scratch.
+
+I am agree with Jackson’s emphasis that things are stable at the macro level, and each part is constantly changing at the micro level (2005, p. 222). As the earth’s resources are limited, moral care should not be lacking when repairing (such as saving resources, optimizing past results).
+
+[The Categories of the Components]
+Wings: connecting parts, structural parts
+Circuit Boards: decorative parts
+Weight: structural part, a main unit which allows the toy to rotate smoothly
+Button Caps: connecting parts
+
+[Materials]
+Wings: plastic
+Circuit Boards: copper,  aluminum
+Weight: stainless steel (outer ring, inner ring and balls), copper (outer ring and ball retainer)
+Button Caps: plastic

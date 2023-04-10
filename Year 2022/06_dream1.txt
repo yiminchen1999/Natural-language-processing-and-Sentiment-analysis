@@ -1,0 +1,30 @@
+Flora with her family
+Interview report: https://docs.google.com/document/d/1Z1JJ4DDkle5okD491qto3XOh2SL9ZteTPVkUWwn_uy8/edit?usp=sharing
+Although she was shy, she did tell us that she loved dinosaurs and puzzles and when we asked her if she'd like us to make a puzzle for her she did start talking a lot more and got excited.
+Flora's favorite puzzle
+
+First 2D design on gravit that failed because we didn't realize it won't complement the dimensions of MDF.
+Dino prototype
+Dinosaur prototype. When we asked Flora what she thought it was she said 'A house' we really don't blame her it does look like a house. For the 3D design we made sure we didn’t use any squares.
+We made a volcano and asked her how she'd like to interact with it. She said she would like light as it helps us see in the dark.
+After the interview she wanted to do the puzzle again and we gave it to her to take home. She played with it a few more times. She even took the dino to the dinner table. Pictures courtesy: Renato
+
+Post interview brainstorming sketches
+Idea 1: the dinosaur should be able to be assembled and disassembled  like a 3D puzzle.
+Thinking about how the actual puzzle should be designed so as to fit the dinosaur on top. Should we create holes the size of the dino's foot?
+Should these holes be in the same piece or in different pieces? Our idea here was to fit in a sensor in one of the holes which would activate the gogoboard in the volcano.
+
+Puzzle Prototype
+We lasercut our cardboard puzzle prototype and drew and colored on it by hand. We were aware that she may not like it or want something else so did not want to be wasteful.
+
+Post interview reflection
+
+We tested out our prototype with Flora which had the puzzle and two 3D objects which are supposed to be on the final toy with an output. The puzzle pieces were designed to be big enough for her to be able to do it with ease and also have fun as she just turned three. To our surprise, she was able to do the puzzle really quickly. For the next iteration we are thinking of adding more details to the puzzle so that it is more challenging for her. Flora loved the purple dinosaur (two of her favorite things). Our intention going into the interview was to ask her if there are any other interactions that she would like or if she would like the ones that we had already planned. Upon asking if she would like the volcano to light up she really liked the idea and added “light helps us see in the dark”. Another thing we learnt from the interview was how clear Flora was as to what she wanted the puzzle to do which helped us in taking the decisions on our final design. Hence we decided to keep the puzzle as is and decided to experiment with the 3D components of the puzzle. Moreover, she was also able to identify the shapes. Since the interview was more of a success so we decided to stick to our initial learning goals but going forward we do want to make modifications to the design of our puzzle and the 3D components.
+
+In chapter 6 of Design Thinking the author talks about paying attention to all kinds of user interactions and not restricting it to just one focus. We did find ourselves engaging in the ‘applied ethnography’ as Renato shared the insights from her day to day play dates and interactions which were useful for us. As we incorporated what she liked, we did notice her opening up to us a little during the second interview.
+
+
+
+
+
+

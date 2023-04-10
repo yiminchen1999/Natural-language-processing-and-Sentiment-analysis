@@ -8,11 +8,14 @@ import numpy as np
 
 
 import glob
+from transformers import AutoTokenizer, TFXLMRobertaForSequenceClassification
+
 
 # import libraries
 import pandas as pd
 import os
-
+import pandas as pd
+from transformers import pipeline
 # # combine txt files that start with "01" in the folder "Year_2021_corpus" into one txt file called "Year_2021_corpus_01.txt" and so on.
 # for i in range(7):
 #     with open("Year_2021_corpus_0" + str(i+1) + ".txt", "w") as f:
@@ -28,43 +31,48 @@ keyword_list = dictionary["traget n-gram"].tolist()
 print(keyword_list)
 
 def keyword_sentence(file_name):
-    # read a txt file save all sentences which are separated by period and remove any new line in a list called "sentences"
     with open(file_name, "r") as f:
         content = f.read()
         sentences = content.split(".")
         sentences = [sentence.strip() for sentence in sentences]
 
-    # find out sentences in sentences list which contain any keyword in keyword list and save those sentences in a list called "keyword_sentences"
     keyword_sentences = []
     for sentence in sentences:
         for keyword in keyword_list:
             if keyword in sentence:
                 keyword_sentences.append(sentence)
 
-    # join the keyword sentences with '\n' to form a single string
-    result = '\n'.join(keyword_sentences)
-    return result
+    return keyword_sentences
+
+
 
 def simplify_and_save(year):
     year_str = str(year)
     file_pattern = f"Year {year_str}/*.txt"
     file_list = glob.glob(file_pattern)
-    result = []
+
+    # create a dictionary to group sentences by student name
+    result = {
+        "omni": [],
+        "frank": [],
+        "remix": [],
+        "rube": []
+    }
+
     for file in file_list:
+        student = file.split("_")[1].split(".")[0]  # extract student name from file name
         sentences = keyword_sentence(file)
-        # split the string of sentences by '\n' and add the resulting list of sentences to the result list
-        result.extend(sentences.split('\n'))
-    with open(f"{year_str}_results.txt", "w") as file:
-        file.write('\n'.join(result) + '\n')
+        result[student].extend(sentences)
+
+    # write the results to separate files for each student
+    for student, sentences in result.items():
+        with open(f"{year_str}_{student}.txt", "w") as file:
+            file.write('\n'.join(sentences) + '\n')
+
     return result
 
 
-
-
-
-
-Year_2023_s1 = keyword_sentence("Year 2023/01_frank.txt")
-print(Year_2023_s1)
+#Year_2023_s1 = keyword_sentence("Year 2023/01_frank.txt")
 #Year_2023_s2 = keyword_sentence("Year 2023/01_omni.txt")
 #Year_2023_s3 = keyword_sentence("Year 2023/01_remix.txt")
 #Year_2023_s4 = keyword_sentence("Year 2023/01_rube.txt")
@@ -72,4 +80,20 @@ print(Year_2023_s1)
 
 
 results = simplify_and_save(2023)
-print(results)
+
+
+classifier = pipeline("sentiment-analysis", model="cardiffnlp/twitter-xlm-roberta-base-sentiment")
+with open("2023_frank.txt", "r") as f:
+    text = f.read()
+    result_frank = classifier(text)
+print(result_frank)
+
+with open("2023_omni.txt", "r") as f:
+    text = f.read()
+    result_omni = classifier(text)
+print(result_omni)
+
+with open("2023_rube.txt", "r") as f:
+    text = f.read()
+    result_rube = classifier(text)
+print(result_rube)

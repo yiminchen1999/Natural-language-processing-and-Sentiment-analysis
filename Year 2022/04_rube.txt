@@ -1,0 +1,2 @@
+final design
+in our iterations we nixed the pulley and instead used a hook that held the string in place

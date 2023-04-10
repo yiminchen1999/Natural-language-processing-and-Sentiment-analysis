@@ -1,0 +1,26 @@
+Tool
+Woodshop
+Technique
+Experimenting with different joint techniques to connect thick lumbers.
+Description
+We made an assembly out of thick lumbers to show Mortise and Tenon, a technique for connecting different blocks of wood without using nails and glue. There are three pieces in total and the woodworking techniques used include sawing, cutting, hammering, chiseling, drilling and sanding.
+Images
+3D Design file:
+https://www.tinkercad.com/things/d8NAUHBmsXj
+Instructions
+You can achieve those woodworking techniques below: 
+Techniques
+Saw is the process of cutting large pieces/blocks of wood. The smaller and denser the saw teeth, the higher the cutting accuracy.
+Taking the wooden stick in the photo as an example, the operation time and finished product of a small saw are better than that of a large saw.
+The lab offers two tools for cutting wood: handheld and platform. The hand-held cutter is more flexible, you can keep the wood integrity while making a vertical cut, but the depth of the cut is limited (less than the radius of a round knife).
+Although the platform cutter is not very flexible, it can successfully cut wood of various thicknesses in the lab, and the cutting marks are also flat.
+If you plan to dig a three-dimensional pattern (like the cross we created) at the stick while maintaining its aesthetics, we recommend the hammer and chisel craft.
+First, hammer a flathead screwdriver into the part to be hollowed out; Then, knock out the excess wood.
+In addition to basically drill, you can also use the drilling machine to make a row of dense holes, so that the hard-to-cut areas can be easily broken off (with sanding to trim the edges).
+Sanding is to make the edge of the component look better, the lab provides sanding paper, sanding tape, hand sander and platform sander.
+
+Image Instructions
+The hand-held cutter
+The platform cutter
+
+
