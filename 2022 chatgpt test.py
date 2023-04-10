@@ -1,4 +1,3 @@
-
 # import libraries
 import pandas as pd
 import os
@@ -30,19 +29,16 @@ dictionary = pd.read_excel("dictionary 2.0.xlsx")
 keyword_list = dictionary["traget n-gram"].tolist()
 # print(keyword_list)
 
-def keyword_sentence(file_name):
-    # read a txt file save all sentences which are separated by period and remove any new line in a list called "sentences"
+def keyword_sentence(file_name, added_sentences=set()):
     with open(file_name, "r") as f:
         sentences = f.read().split(".")
         sentences = [sentence.strip() for sentence in sentences]
-
-    # find out sentences in sentences list which contain any keyword in keyword list and save those sentences in a list called "keyword_sentences"
     keyword_sentences = []
     for sentence in sentences:
         for keyword in keyword_list:
-            if keyword in sentence:
+            if keyword in sentence and sentence not in added_sentences:
                 keyword_sentences.append(sentence)
-
+                added_sentences.add(sentence)
     return keyword_sentences
 
 #frank project
@@ -123,8 +119,16 @@ def sentiment_scores_to_dataframe(sentences):
 
     # create a DataFrame from the scores
     df = pd.DataFrame(scores)
+
+    # check if all expected columns are present in the DataFrame
+    expected_columns = ["neg", "neu", "pos", "compound"]
+    if not all(col in df.columns for col in expected_columns):
+        missing_columns = set(expected_columns) - set(df.columns)
+        raise ValueError(f"Columns {missing_columns} are missing from the DataFrame.")
+
     # add a column with the sentence text
     df["Sentence"] = sentences
+
     # reorder the columns
     df = df[["Sentence", "neg", "neu", "pos", "compound"]]
 
