@@ -1,33 +1,15 @@
-# import libraries
 import pandas as pd
 import os
-from transformers import pipeline
-
-# # combine txt files that start with "01" in the folder "Year_2021_corpus" into one txt file called "Year_2021_corpus_01.txt" and so on.
-# for i in range(7):
-#     with open("Year_2021_corpus_0" + str(i+1) + ".txt", "w") as f:
-#         for file_name in os.listdir("Year_2021_corpus"):
-#             if file_name.startswith("0"+str(i+1)):
-#                 with open("Year_2021_corpus/" + file_name, "r") as f1:
-#                     f.write(f1.read())
-
-
-# run following code if you get SSL certificate error
 import ssl
-#try:
-    #_create_unverified_https_context = ssl._create_unverified_context
-#except AttributeError:
-    #pass
-#else:
-    #ssl._create_default_https_context = _create_unverified_https_context
-#nltk.download()
-
+import nltk
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
+from transformers import pipeline
 
 # read a file from local folder and save it as a data frame called "dictionary"
 dictionary = pd.read_excel("dictionary 2.0.xlsx")
 # extract keyword list from dictionary
 keyword_list = dictionary["traget n-gram"].tolist()
-# print(keyword_list)
+
 
 def keyword_sentence(file_name, added_sentences=set()):
     with open(file_name, "r") as f:
@@ -41,73 +23,9 @@ def keyword_sentence(file_name, added_sentences=set()):
                 added_sentences.add(sentence)
     return keyword_sentences
 
-#frank project
-Year_2022_s1 = keyword_sentence("Year 2022/01_frank.txt")
-Year_2022_s2 = keyword_sentence("Year 2022/02_frank.txt")
-Year_2022_s3 = keyword_sentence("Year 2022/03_frank.txt")
-Year_2022_s4 = keyword_sentence("Year 2022/04_frank.txt")
-Year_2022_s5 = keyword_sentence("Year 2022/05_frank.txt")
-Year_2022_s6 = keyword_sentence("Year 2022/06_frank.txt")
-Year_2022_s7 = keyword_sentence("Year 2022/07_frank.txt")
-Year_2022_s8 = keyword_sentence("Year 2022/08_frank.txt")
-Year_2022_s9 = keyword_sentence("Year 2022/09_frank.txt")
-Year_2022_s10 = keyword_sentence("Year 2022/10_frank.txt")
-Year_2022_s11 = keyword_sentence("Year 2022/11_frank.txt")
-Year_2022_s12 = keyword_sentence("Year 2022/12_frank.txt")
 
-#classifer = pipeline("sentiment-analysis", model="cardiffnlp/twitter-xlm-roberta-base-sentiment")
-#res = classifer(Year_2021_s1)
-#print(res)
-print(Year_2022_s1)
-
-import nltk
-
-nltk.download('vader_lexicon')
-from nltk.sentiment.vader import SentimentIntensityAnalyzer
-
-#importing the necessary libraries
-from nltk.sentiment.vader import SentimentIntensityAnalyzer
-
-#creating an instance of the SentimentIntensityAnalyzer
+# create an instance of the SentimentIntensityAnalyzer
 sid = SentimentIntensityAnalyzer()
-
-
-#defining a function to get the sentiment of a sentence
-def sentiment_analyzer_scores(sentences):
-    # create an empty list to store the scores for each sentence
-    scores_list = []
-    for sentence in sentences:
-        # get the sentiment score for the sentence
-        score = sid.polarity_scores(sentence)
-        # add the score to the list
-        scores_list.append(score)
-    # return the list of scores
-    return scores_list
-
-
-# call the function on each list of sentences
-scores_2022_s1 = sentiment_analyzer_scores(Year_2022_s1)
-scores_2022_s2 = sentiment_analyzer_scores(Year_2022_s2)
-# repeat for each list of sentences
-
-# print the list of scores for the first sentence in each list
-print(scores_2022_s1[0])
-print(scores_2022_s2[0])
-# repeat for each list of scores
-
-def print_sentiment_scores(sentences):
-    for sentence in sentences:
-        # calculate the sentiment score for the sentence
-        score = sid.polarity_scores(sentence)
-        # print the sentence and its score
-        print(f"{sentence}: {score}")
-        print("\n")
-
-# sample call to the function
-Year_2022_s1 = keyword_sentence("Year 2022/01_frank.txt")
-print_sentiment_scores(Year_2022_s1)
-
-import pandas as pd
 
 
 def sentiment_scores_to_dataframe(sentences):
@@ -115,24 +33,15 @@ def sentiment_scores_to_dataframe(sentences):
     for sentence in sentences:
         # calculate the sentiment score for the sentence
         score = sid.polarity_scores(sentence)
-        scores.append(score)
+        # add the sentence and its score to the list
+        scores.append({'sentence': sentence, 'score': score})
 
     # create a DataFrame from the scores
     df = pd.DataFrame(scores)
 
-    # check if all expected columns are present in the DataFrame
-    expected_columns = ["neg", "neu", "pos", "compound"]
-    if not all(col in df.columns for col in expected_columns):
-        missing_columns = set(expected_columns) - set(df.columns)
-        raise ValueError(f"Columns {missing_columns} are missing from the DataFrame.")
-
-    # add a column with the sentence text
-    df["Sentence"] = sentences
-
-    # reorder the columns
-    df = df[["Sentence", "neg", "neu", "pos", "compound"]]
-
     return df
+
+
 
 
 # generate sentiment scores and save them to an Excel file for each file
@@ -140,8 +49,10 @@ for i in range(1, 13):
     filename = f"Year 2022/{i:02d}_frank.txt"
     sentences = keyword_sentence(filename)
     df = sentiment_scores_to_dataframe(sentences)
-    output_filename = f"{i:02d}_frank_sentiment_scores.xlsx"
-    df.to_excel(output_filename, index=False)
+    output_filename = f"{i:02d}_frank_sentiment_scores_ver2.xlsx"
+    # add a column for the filename and save the DataFrame to an Excel file
+    df['filename'] = filename
+    df.to_excel(output_filename, index=False)  # write the DataFrame to an Excel file
 
 
 #Here's what the above class is doing, explained in a concise way:

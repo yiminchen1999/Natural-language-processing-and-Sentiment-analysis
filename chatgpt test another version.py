@@ -31,7 +31,7 @@ def get_sentiment_scores(keyword_sentences):
 # Get all sentences and scores for each file
 all_scores = []
 for i in range(1, 13):
-    file_name = f"Year 2022/{i:02d}_frank.txt"
+    file_name = f"Year 2022/{i:02d}_omni.txt"
     keyword_sentences = keyword_sentence(file_name)
     scores = get_sentiment_scores(keyword_sentences)
     for j, score in enumerate(scores):
@@ -47,6 +47,6 @@ for i in range(1, 13):
 # Convert scores to dataframe and save to Excel
 all_scores_df = pd.DataFrame(all_scores)
 
-all_scores_df.to_excel("2022_frank_sentiment_scores.xlsx", index=False)
+all_scores_df.to_excel("2022_omni_sentiment_scores.xlsx", index=False)
 
 
