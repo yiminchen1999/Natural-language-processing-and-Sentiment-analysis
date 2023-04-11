@@ -24,3 +24,6 @@
     It is calculated by taking the sum of all the lexicon ratings which have been normalized between -1 (most extreme negative) and +1 (most extreme positive), and then normalized between -1 (most extreme negative) and +1 (most extreme positive).
     The compound score ranges from -1 to 1, where a score of -1 indicates the most negative sentiment, 0 indicates a neutral sentiment, and 1 indicates the most positive sentiment. 
     The compound score is often used to interpret the sentiment of a piece of text as a single number, making it easier to compare and analyze sentiment across different texts.
+
+# sample output for 2022 12students' frank project
+    2022_ver2_frank_sentiment_analysis_scores.png
