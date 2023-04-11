@@ -14,6 +14,11 @@
     It uses a lexicon of words to assign a score to a given text based on the sentiment of the words it contains.
     The score is a value between -1 and 1, with -1 being the most negative sentiment and 1 being the most positive sentiment.
 
+# Lexicon-based
+    Lexicon-based sentiment analysis is a type of sentiment analysis that uses a predefined set of words, or lexicon, to identify the sentiment of a given text. 
+    This type of sentiment analysis is based on the idea that certain words have a positive or negative connotation, and by counting the number of positive and negative words in a text, the sentiment of the text can be determined. 
+    Lexicon-based sentiment analysis is often used in natural language processing (NLP) applications, such as text classification and sentiment analysis.
+
 # Meaning of compound score
     In sentiment analysis, the compound score is a metric that represents the overall sentiment polarity of a piece of text. 
     It is calculated by taking the sum of all the lexicon ratings which have been normalized between -1 (most extreme negative) and +1 (most extreme positive), and then normalized between -1 (most extreme negative) and +1 (most extreme positive).
