@@ -26,4 +26,4 @@
     The compound score is often used to interpret the sentiment of a piece of text as a single number, making it easier to compare and analyze sentiment across different texts.
 
 # sample output for 2022 12students' frank project
-2022_ver2_frank_sentiment_analysis_scores.png
+![alt text](https://github.com/yiminchen1999/Natural-language-processing-and-Sentiment-analysis/blob/421aa61891257c8c7b43116cbc2c7d92318e46b3/folder%20for%20plot/2022_ver2_frank_sentiment_analysis_scores.png)
