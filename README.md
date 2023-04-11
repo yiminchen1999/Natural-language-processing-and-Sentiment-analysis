@@ -9,6 +9,11 @@
     7. Define a function to print the sentiment of a sentence.
     8. Generate sentiment scores and save
 
+# about SentimentIntensityAnalyzer
+    SentimentIntensityAnalyzer is a tool from the Natural Language Toolkit (NLTK) library that is used to analyze the sentiment of a given text.
+    It uses a lexicon of words to assign a score to a given text based on the sentiment of the words it contains.
+    The score is a value between -1 and 1, with -1 being the most negative sentiment and 1 being the most positive sentiment.
+
 # Meaning of compound score
     In sentiment analysis, the compound score is a metric that represents the overall sentiment polarity of a piece of text. 
     It is calculated by taking the sum of all the lexicon ratings which have been normalized between -1 (most extreme negative) and +1 (most extreme positive), and then normalized between -1 (most extreme negative) and +1 (most extreme positive).
