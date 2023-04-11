@@ -27,3 +27,16 @@
 
 # sample output for 2022 12students' frank project
 ![alt text](https://github.com/yiminchen1999/Natural-language-processing-and-Sentiment-analysis/blob/421aa61891257c8c7b43116cbc2c7d92318e46b3/folder%20for%20plot/2022_ver2_frank_sentiment_analysis_scores.png)
+
+# sample output for 2022 12students' omni project
+![alt text](https://github.com/yiminchen1999/Natural-language-processing-and-Sentiment-analysis/blob/cbb375a7319717a3b999efad32c80c88ef922def/folder%20for%20plot/2022_ver2_omni_sentiment_analysis_scores.png)
+
+# sample output for 2022 12students' remix project
+![alt text](https://github.com/yiminchen1999/Natural-language-processing-and-Sentiment-analysis/blob/cbb375a7319717a3b999efad32c80c88ef922def/folder%20for%20plot/2022_ver2_remix_sentiment_analysis_scores.png)
+
+# sample output for 2022 12students' dream1 project
+![alt text](https://github.com/yiminchen1999/Natural-language-processing-and-Sentiment-analysis/blob/cbb375a7319717a3b999efad32c80c88ef922def/folder%20for%20plot/2022_ver2_dream1_sentiment_analysis_scores.png)
+
+# sample output for 2022 12students' rube project
+![alt text](https://github.com/yiminchen1999/Natural-language-processing-and-Sentiment-analysis/blob/cbb375a7319717a3b999efad32c80c88ef922def/folder%20for%20plot/2022_ver2_rube_sentiment_analysis_scores.png)
+
