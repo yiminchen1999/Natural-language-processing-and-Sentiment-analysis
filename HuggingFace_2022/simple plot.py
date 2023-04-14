@@ -4,57 +4,29 @@ import json
 # read the excel file
 df = pd.read_excel('frank_2022_SA_01.xlsx')
 
-# Initialize counters for each sentiment label
-neg_count = 0
-neu_count = 0
-pos_count = 0
+import matplotlib.pyplot as plt
+import pandas as pd
 
-# Iterate over each row and increment the corresponding counter
-for i, row in df.iterrows():
-    sentiment = eval(row['sentiment'])  # Convert string to dictionary
-    if sentiment['label'] == 'negative':
-        neg_count += 1
-    elif sentiment['label'] == 'neutral':
-        neu_count += 1
-    elif sentiment['label'] == 'positive':
-        pos_count += 1
+# Define the data as a pandas DataFrame
+data = pd.DataFrame({
+    'sentiment': ['neutral', 'negative', 'neutral', 'neutral', 'positive', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'positive', 'positive', 'neutral', 'neutral', 'negative', 'neutral'],
+    'file_number': [1]*23
+})
 
-# Create a list of sentiment counts
-counts = [neg_count, neu_count, pos_count]
+# Group the data by sentiment and file_number and calculate the mean sentiment score
+grouped_data = data.groupby(['sentiment', 'file_number']).size().reset_index(name='count')
 
-# Create a list of sentiment labels
-labels = ['Negative', 'Neutral', 'Positive']
+# Create a boxplot of the sentiment scores by file number
+plt.boxplot([
+    grouped_data[grouped_data['sentiment'] == 'negative']['count'],
+    grouped_data[grouped_data['sentiment'] == 'neutral']['count'],
+    grouped_data[grouped_data['sentiment'] == 'positive']['count']
+], labels=['Negative', 'Neutral', 'Positive'])
 
-# Define colors for each sentiment label
-colors = {'Negative': 'red', 'Neutral': 'gray', 'Positive': 'green'}
+# Set the plot title and axis labels
+plt.title('Sentiment Analysis Results by File Number')
+plt.xlabel('File Number')
+plt.ylabel('Sentiment')
 
-# Create a list of color values based on the sentiment labels
-bar_colors = [colors[label] for label in labels]
-
-# Create a bar plot of sentiment counts with custom colors
-plt.bar(labels, counts, color=bar_colors)
-
-# Set plot title and labels
-plt.title('Distribution of Sentiment Scores for 2022_frank_01')
-plt.xlabel('Sentiment Label')
-plt.ylabel('Count')
-plt.savefig("2022_frank01_count.png")
-# Show plot
+# Show the plot
 plt.show()
-
-plt.savefig("2022_frank01_count.png")
-
-
-# Extract the sentiment scores
-#scores = []
-#for sentiment in df['sentiment']:
-    #sentiment_dict = json.loads(sentiment.replace("'", "\""))
-    #scores.append(sentiment_dict['score'])
-
-# create bar plot
-#fig, ax = plt.subplots()
-#ax.bar(df['sentence'], scores)
-#ax.set_ylabel('Sentiment Score')
-#plt.xticks(rotation=90)
-#plt.tight_layout()
-#plt.show()
