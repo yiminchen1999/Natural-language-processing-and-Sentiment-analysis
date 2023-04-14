@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import json
 # read the excel file
-df = pd.read_excel('frank_2022_SA_03.xlsx')
+df = pd.read_excel('frank_2022_SA_01.xlsx')
 
 # Initialize counters for each sentiment label
 neg_count = 0
@@ -35,14 +35,14 @@ bar_colors = [colors[label] for label in labels]
 plt.bar(labels, counts, color=bar_colors)
 
 # Set plot title and labels
-plt.title('Distribution of Sentiment Scores for 2022_frank_03')
+plt.title('Distribution of Sentiment Scores for 2022_frank_01')
 plt.xlabel('Sentiment Label')
 plt.ylabel('Count')
-plt.savefig("2022_frank03_count.png")
+plt.savefig("2022_frank01_count.png")
 # Show plot
 plt.show()
 
-plt.savefig("2022_frank03_count.png")
+plt.savefig("2022_frank01_count.png")
 
 
 # Extract the sentiment scores
