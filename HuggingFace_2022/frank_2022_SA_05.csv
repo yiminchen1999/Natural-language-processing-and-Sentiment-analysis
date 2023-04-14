@@ -1,0 +1,5 @@
+sentence,sentiment
+"DISSECTED ARTIFACT  FINAL PRODUCT  Short* reflection Creating my “Frankenthing” made me reflect on my trajectory as a “fixer.” When I was a child, I liked to tinker with components of radios, pocket calculators, an old TV that we had at home. ","{'label': 'neutral', 'score': 0.49357032775878906}"
+One of them is associated with the perceived status of those who fix and repair things. ,"{'label': 'neutral', 'score': 0.6318749189376831}"
+"As Jackson notes, innovation and repair came to be seen as two extremes of the social order. ","{'label': 'neutral', 'score': 0.6177409291267395}"
+"Maybe, his words made me reflect, the fixer can really see value where others see waste. ","{'label': 'positive', 'score': 0.5293357372283936}"

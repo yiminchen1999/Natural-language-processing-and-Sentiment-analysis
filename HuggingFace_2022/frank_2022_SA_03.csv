@@ -1,0 +1,7 @@
+sentence,sentiment
+FrankenThing:  From Fidget Spinner to Zoetrope  [Reflection] The process of dismantling the fidget spinner is actually the deconstruction and reconstruction happening in the physical world. ,"{'label': 'neutral', 'score': 0.712826669216156}"
+"In the production process, the most upsetting part is that the corrugated marks of the old cardboard make it difficult for me to hold a perfect circle, and the cardboard is too thick to be cut with scissors, plus the hand-painted patterns vary in size, these factors are negatively affect the final animation. ","{'label': 'negative', 'score': 0.7705734372138977}"
+"Improvements include making the gaps between the cardboards larger, allowing the user to see the animation inside the barrel with less effort. ","{'label': 'neutral', 'score': 0.4835588037967682}"
+"When repairing the toy, what impressed me the most was that each part played its own function. ","{'label': 'positive', 'score': 0.7958539724349976}"
+"I think one advantage of repairing something is that it encourages creators to learn and innovate on the basis of previous experience, which makes it easier to realize creative ideas than to make from scratch. ","{'label': 'positive', 'score': 0.7907391786575317}"
+"As the earth’s resources are limited, moral care should not be lacking when repairing (such as saving resources, optimizing past results). ","{'label': 'neutral', 'score': 0.43224427103996277}"

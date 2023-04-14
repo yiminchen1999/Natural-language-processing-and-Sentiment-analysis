@@ -1,36 +1,60 @@
 import matplotlib.pyplot as plt
+import pandas as pd
+import json
+# read the excel file
+df = pd.read_excel('frank_2022_SA_03.xlsx')
 
-sentiment_scores = [{'label': 'neutral', 'score': 0.7108820080757141},                    {'label': 'negative', 'score': 0.5155061483383179},                    {'label': 'neutral', 'score': 0.4959917962551117},                    {'label': 'neutral', 'score': 0.7584750652313232},                    {'label': 'positive', 'score': 0.6433528661727905},                    {'label': 'neutral', 'score': 0.7857950925827026},                    {'label': 'neutral', 'score': 0.4486306607723236},                    {'label': 'neutral', 'score': 0.743915319442749},                    {'label': 'neutral', 'score': 0.8410157561302185},                    {'label': 'neutral', 'score': 0.8730957508087158},                    {'label': 'neutral', 'score': 0.7833043932914734},                    {'label': 'neutral', 'score': 0.8343775868415833},                    {'label': 'neutral', 'score': 0.7712959051132202},                    {'label': 'neutral', 'score': 0.776803731918335},                    {'label': 'neutral', 'score': 0.8200016021728516},                    {'label': 'neutral', 'score': 0.6157656908035278},                    {'label': 'neutral', 'score': 0.8190017938613892},                    {'label': 'neutral', 'score': 0.7150989770889282},                    {'label': 'neutral', 'score': 0.7759681940078735},                    {'label': 'neutral', 'score': 0.7375119924545288},                    {'label': 'neutral', 'score': 0.48532310128211975},                    {'label': 'positive', 'score': 0.4630918502807617},                    {'label': 'positive', 'score': 0.6873413324356079},                    {'label': 'neutral', 'score': 0.6023297309875488},                    {'label': 'neutral', 'score': 0.4999650716781616},                    {'label': 'negative', 'score': 0.5476510524749756},                    {'label': 'positive', 'score': 0.5904302597045898}]
+# Initialize counters for each sentiment label
+neg_count = 0
+neu_count = 0
+pos_count = 0
 
-# Initialize empty lists for x (indices), y (score values), and colors
-x = []
-y = []
-colors = []
+# Iterate over each row and increment the corresponding counter
+for i, row in df.iterrows():
+    sentiment = eval(row['sentiment'])  # Convert string to dictionary
+    if sentiment['label'] == 'negative':
+        neg_count += 1
+    elif sentiment['label'] == 'neutral':
+        neu_count += 1
+    elif sentiment['label'] == 'positive':
+        pos_count += 1
 
-# Loop through the sentiment scores and append the index, score value, and color to the respective lists
-for i, score in enumerate(sentiment_scores):
-    x.append(i)
-    y.append(score['score'])
-    if score['label'] == 'positive':
-        colors.append('green')
-    elif score['label'] == 'negative':
-        colors.append('red')
-    else:
-        colors.append('grey')
+# Create a list of sentiment counts
+counts = [neg_count, neu_count, pos_count]
 
-# Create the bar plot
-plt.bar(x, y, color=colors)
+# Create a list of sentiment labels
+labels = ['Negative', 'Neutral', 'Positive']
 
-# Add axis labels and title
-plt.xlabel('Sentiment Analysis Result for 2022_frank_01')
-plt.ylabel('Score Value')
-plt.title('Sentiment Analysis Scores')
+# Define colors for each sentiment label
+colors = {'Negative': 'red', 'Neutral': 'gray', 'Positive': 'green'}
 
-# Customize the plot
-plt.xticks(x, [f" {i+1}" for i in x], rotation=45)
-plt.ylim([0, 1])
-plt.grid(axis='y', alpha=0.5)
+# Create a list of color values based on the sentiment labels
+bar_colors = [colors[label] for label in labels]
 
-# Show the plot
+# Create a bar plot of sentiment counts with custom colors
+plt.bar(labels, counts, color=bar_colors)
+
+# Set plot title and labels
+plt.title('Distribution of Sentiment Scores for 2022_frank_03')
+plt.xlabel('Sentiment Label')
+plt.ylabel('Count')
+
+# Show plot
 plt.show()
-plt.savefig("HuggingFace_2022/frank01.plot.png")
+plt.savefig("2022_frank03_count.png")
+
+
+
+# Extract the sentiment scores
+#scores = []
+#for sentiment in df['sentiment']:
+    #sentiment_dict = json.loads(sentiment.replace("'", "\""))
+    #scores.append(sentiment_dict['score'])
+
+# create bar plot
+#fig, ax = plt.subplots()
+#ax.bar(df['sentence'], scores)
+#ax.set_ylabel('Sentiment Score')
+#plt.xticks(rotation=90)
+#plt.tight_layout()
+#plt.show()

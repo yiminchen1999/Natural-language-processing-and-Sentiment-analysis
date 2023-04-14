@@ -1,0 +1,12 @@
+sentence,sentiment
+I stumbled upon a bunch of cassette tapes that I used as a child! ,"{'label': 'positive', 'score': 0.5001645088195801}"
+I started by removing the film out of the cassette players and decided to use the entire cassette and the film to make something.I also found a broken lamp that was just lying around the house and decided to use that with the cassette tapes. ,"{'label': 'neutral', 'score': 0.6276656985282898}"
+"I immediately started working on the prototype, tinkering around with the cassettes and its films to make it stand on the lamp base. ","{'label': 'neutral', 'score': 0.48619499802589417}"
+"Reflection As I was playing around with the cassette tape, I found myself noticing the amount of plastic used to make one cassette tape, something that I had never observed before. ","{'label': 'neutral', 'score': 0.49780648946762085}"
+Jackson(2014) mentions that innovation is reserved for shiny tools while the repair is relegated to a lower level and comes after innovation is completed. ,"{'label': 'neutral', 'score': 0.6572580933570862}"
+"And I agree with him that it is a false representation of innovation, and the maintenance and repair process cannot be separated from innovation. ","{'label': 'negative', 'score': 0.731066107749939}"
+"In many third-world countries, people find tools around their environment to repair things exceptionally well, mainly because they cannot afford new items. ","{'label': 'neutral', 'score': 0.4153977930545807}"
+"For me, a cassette tape connected me to music, and I never thought of it as a decorative piece. ","{'label': 'neutral', 'score': 0.61774742603302}"
+"Also, when you are learning to repair and repurpose, you already have a set of ideas that you work on, and with continuous tinkering, the objects make more sense. ","{'label': 'positive', 'score': 0.6122391819953918}"
+"As mentioned above, repairing & repurposing is a significant part of my culture, mainly because people still do not have money to splurge on fancy machines. ","{'label': 'negative', 'score': 0.5312039852142334}"
+"Although the reason for repair is a lack of money, most people from third-world countries are not conscious of sustainability or don't understand it entirely but are ""innovating""  through experimentation and tinkering which is quite commendable!","{'label': 'negative', 'score': 0.8641855120658875}"

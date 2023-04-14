@@ -1,0 +1,6 @@
+sentence,sentiment
+"Final product Key, earring hook, broken piece of a chain, broken earring used as a decorative hanging  Process Rough sketch, material, trial and error, attempt 1, attempt 2  Reflection  As I created my Frakenthing it made me reflect on multiple ways in which things can be used. ","{'label': 'neutral', 'score': 0.5332081913948059}"
+"My parents do not throw away stuff and try to use it so I think I get this from them as I grew up in a house with a storage room with things such as a broken stereo, old cassettes and fans, etc. ","{'label': 'neutral', 'score': 0.6158968210220337}"
+The author uses the word Extension for repair which aptly describes the process of creating this keychain from broken pieces of jewelry. ,"{'label': 'neutral', 'score': 0.6896141767501831}"
+"When I started planning, I decided to use the circular hook which I thought would fit perfectly (Attempt 1) but as I tried to attach the key, I realized the hook that apparently looked perfect could not hold the key. ","{'label': 'negative', 'score': 0.5486196875572205}"
+"Moreover, learning through repair is more relevant and timely now that people are trying to move towards practices that are more environment friendly. ","{'label': 'positive', 'score': 0.5821927785873413}"

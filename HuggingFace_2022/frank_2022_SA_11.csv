@@ -1,0 +1,6 @@
+sentence,sentiment
+Dissected artifact slide tray used in film photography projector Font side back inside holder Plastic film stopper To make the films stop moving screws Stainless steel To fix the tray and film divider Spring Steel To make the holder bounce up and down Bottom Steel To hold the film slides film divider Plastic To divide slides Components  I did not know what this thing was when I first got it. ,"{'label': 'neutral', 'score': 0.6309892535209656}"
+"When we compare a car designer and a repairman in an auto repair shop, it seems the car designer is representing innovation and development. ","{'label': 'neutral', 'score': 0.4921101927757263}"
+"However, without the repairman, the actual design could not last long on road. ","{'label': 'negative', 'score': 0.7030843496322632}"
+It is important to take repair into consideration when making a design as breaking happens all the time. ,"{'label': 'neutral', 'score': 0.6202234029769897}"
+The repairable products could last longer than others.,"{'label': 'neutral', 'score': 0.4922066330909729}"

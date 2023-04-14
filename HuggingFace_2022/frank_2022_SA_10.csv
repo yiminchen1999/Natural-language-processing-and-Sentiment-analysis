@@ -1,0 +1,6 @@
+sentence,sentiment
+Reflection  I have encountered many problems when redesigning. ,"{'label': 'negative', 'score': 0.7953780293464661}"
+"I wanted to do something fancy with electricity, but it turned out to be lack of resources and capability, so I turned to something simple but more aesthetic and conceptual. ","{'label': 'negative', 'score': 0.5190781950950623}"
+"As for the reading, the author mentions the difference between innovation and repair. ","{'label': 'neutral', 'score': 0.7194581627845764}"
+"Innovation, to people, is something new and fancy, while repair seems to be not as creative. ","{'label': 'negative', 'score': 0.35612809658050537}"
+"From this project, I would say, repair is also a innovative process, and sometimes can advance the original design. ","{'label': 'positive', 'score': 0.7507218718528748}"

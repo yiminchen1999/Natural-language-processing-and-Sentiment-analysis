@@ -1,0 +1,8 @@
+sentence,sentiment
+"Sketching, cutting boards, duplicating sketches and cutting, sticking  Process  Final product  Reflection  When I looked at the moving box, I first recognized its original function – containing things. ","{'label': 'neutral', 'score': 0.6068324446678162}"
+"It also inherited the durability from its original material – wood, so as its wooden color. ","{'label': 'neutral', 'score': 0.5424304008483887}"
+"Therefore, this holder maintains the durability and wooden color, but at the same time encountered a rebirth. ","{'label': 'neutral', 'score': 0.5446463823318481}"
+"As Steven Jackson mentions in his article, maintenance, repair, and breakdown are not separate or alternative to innovation but are sites for interesting and consequential operations. ","{'label': 'neutral', 'score': 0.5886465907096863}"
+"From my personal understanding, in the process of repairing, innovative ideas and new technologies might occur. ","{'label': 'positive', 'score': 0.5322343707084656}"
+Their occurrence is not without foundation but is due to the purpose of repairing and maintenance. ,"{'label': 'neutral', 'score': 0.7244470119476318}"
+"Similarly, the reason for me to repair the moving box is not to creatively build new things without a foundation, but to maintain its durability and functionality as a container. ","{'label': 'positive', 'score': 0.4766399562358856}"
