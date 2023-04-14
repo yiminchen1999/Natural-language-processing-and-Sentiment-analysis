@@ -3,6 +3,7 @@ import os
 import ssl
 import nltk
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
+import re
 from transformers import pipeline
 
 # read a file from local folder and save it as a data frame called "dictionary"
@@ -11,10 +12,22 @@ dictionary = pd.read_excel("dictionary 2.0.xlsx")
 keyword_list = dictionary["traget n-gram"].tolist()
 
 
+#def keyword_sentence(file_name, added_sentences=set()):
+    #with open(file_name, "r") as f:
+        #sentences = f.read().split(".")
+        #sentences = [sentence.strip() for sentence in sentences]
+    #keyword_sentences = []
+    #for sentence in sentences:
+        #for keyword in keyword_list:
+            #if keyword in sentence and sentence not in added_sentences:
+                #keyword_sentences.append(sentence)
+                #added_sentences.add(sentence)
+    #return keyword_sentences
+
 def keyword_sentence(file_name, added_sentences=set()):
     with open(file_name, "r") as f:
-        sentences = f.read().split(".")
-        sentences = [sentence.strip() for sentence in sentences]
+        text = f.read().replace("\n", " ")
+    sentences = re.findall(r'\b.+?[.!?]+(?:\s|\n\n|$)', text)
     keyword_sentences = []
     for sentence in sentences:
         for keyword in keyword_list:
@@ -22,7 +35,6 @@ def keyword_sentence(file_name, added_sentences=set()):
                 keyword_sentences.append(sentence)
                 added_sentences.add(sentence)
     return keyword_sentences
-
 
 # create an instance of the SentimentIntensityAnalyzer
 sid = SentimentIntensityAnalyzer()
@@ -49,7 +61,8 @@ for i in range(1, 13):
     filename = f"Year 2022/{i:02d}_frank.txt"
     sentences = keyword_sentence(filename)
     df = sentiment_scores_to_dataframe(sentences)
-    output_filename = f"{i:02d}_frank_sentiment_scores_ver2.xlsx"
+    #output_filename = f"{i:02d}_frank_sentiment_scores_ver2.xlsx"
+    output_filename = f"{i:02d}_frank_sentiment_scores_ver3.xlsx"
     # add a column for the filename and save the DataFrame to an Excel file
     df['filename'] = filename
     df.to_excel(output_filename, index=False)  # write the DataFrame to an Excel file
