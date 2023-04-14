@@ -1,0 +1,10 @@
+sentence,sentiment
+"the dissected artifact naming with components, categories of the components and materials  Plan:  Because I am traveling out of town, and living in a new apartment. ","{'label': 'neutral', 'score': 0.7538564801216125}"
+I did not have much materials to repurpose. ,"{'label': 'negative', 'score': 0.6670237183570862}"
+"Then I used a cardboard from a hair dryer packaging box, combined them together to create my organizer. ","{'label': 'neutral', 'score': 0.6658754348754883}"
+Process: I glued the cardboard with the fabric to be the bottom. ,"{'label': 'neutral', 'score': 0.7791426181793213}"
+"cardboard of hair dryer: made of fibers from trees and plants  early prototype  decoration design  final product: desktop organizer  Reflection: To be honest, I was really struggle when reading the assignment prompt, because I did not have too much talent on hands-on and DIY abilities before. ","{'label': 'neutral', 'score': 0.45224571228027344}"
+"My mom once told me that in her generation, people always want to find a way to repair things when things are broken, but I always want to get rid of the broken things and buy a new one. ","{'label': 'neutral', 'score': 0.46738389134407043}"
+"Jackson’s Rethinking Repair inspired me of the importance of breaking and repair, it is a routine, a normal and inevitable feature of technology’s course in the world. ","{'label': 'neutral', 'score': 0.5340485572814941}"
+"Having more experiences of maintenance and repairing, we can practice the sense of creativity and innovation to generate new technologies. ","{'label': 'positive', 'score': 0.6780085563659668}"
+"The author stated that “attention to maintenance and repair may help to redirect our gaze from moments of production to moments of sustainability.” I have always been putting my sight on the current situation and future design, but after breaking down and repurposing something on my own, I recognize the importance of sustainable feature of each artifact that is no longer useful. ","{'label': 'positive', 'score': 0.4422527551651001}"

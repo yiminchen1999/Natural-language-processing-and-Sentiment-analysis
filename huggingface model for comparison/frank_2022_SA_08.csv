@@ -1,0 +1,6 @@
+sentence,sentiment
+"I decided to dissect my old broken Furby as I had very little knowledge about what’s “under the hood.” Through the process of breaking down the Furby into smaller and smaller pieces, I was confronted with many more sub-pieces than I had anticipated. ","{'label': 'negative', 'score': 0.6908639073371887}"
+"Furthermore, as I began examining these pieces to consider if and how they might be repurposed I realized just how many reusable pieces this one broken Furby doll has. ","{'label': 'neutral', 'score': 0.5792633891105652}"
+I found it particularly useful to examine pieces and consider how it’s specific feature might be useful for repurposing. ,"{'label': 'positive', 'score': 0.6833006739616394}"
+I observed that the outer shell plastic molds included special slots for the ears with separate smaller slots below for the ear fur to hook in. ,"{'label': 'neutral', 'score': 0.7128394842147827}"
+I also observed that the eyes and eyelids were each separate pieces that were originally connected by a dowel running through them allowing the eyes to “open” and “close.” Thinking about how this could be leveraged for repurposed design helped me see how the process of repairing could source of creativity and  innovative as Jackson explained. ,"{'label': 'positive', 'score': 0.5116361975669861}"

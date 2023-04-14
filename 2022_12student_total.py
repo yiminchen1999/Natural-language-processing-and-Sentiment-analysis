@@ -1,15 +1,15 @@
 import pandas as pd
 import os
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
-
+import re
 # Load dictionary
 dictionary = pd.read_excel("dictionary 2.0.xlsx")
 keyword_list = dictionary["traget n-gram"].tolist()
 # Define function to get keyword sentences
 def keyword_sentence(file_name, added_sentences=set()):
     with open(file_name, "r") as f:
-        sentences = f.read().split(".")
-        sentences = [sentence.strip() for sentence in sentences]
+        text = f.read().replace("\n", " ")
+    sentences = re.findall(r'\b.+?[.!?]+(?:\s|\n\n|$)', text)
     keyword_sentences = []
     for sentence in sentences:
         for keyword in keyword_list:
@@ -31,7 +31,7 @@ def get_sentiment_scores(keyword_sentences):
 # Get all sentences and scores for each file
 all_scores = []
 for i in range(1, 13):
-    file_name = f"Year 2022/{i:02d}_remix.txt"
+    file_name = f"Year 2022/{i:02d}_frank.txt"
     keyword_sentences = keyword_sentence(file_name)
     scores = get_sentiment_scores(keyword_sentences)
     for j, score in enumerate(scores):
@@ -40,13 +40,12 @@ for i in range(1, 13):
             "Negative": score["neg"],
             "Neutral": score["neu"],
             "Positive": score["pos"],
-            "Compound": score["compound"],
             "File": file_name
         })
 
 # Convert scores to dataframe and save to Excel
 all_scores_df = pd.DataFrame(all_scores)
 
-all_scores_df.to_excel("2022_remix_sentiment_scores.xlsx", index=False)
+all_scores_df.to_excel("2022_frank__sentiment_scores.xlsx", index=False)
 
 

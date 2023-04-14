@@ -1,0 +1,5 @@
+sentence,sentiment
+"components of the artifacts dissected  empty diet coke can  scissor & tape  Prototype  decoration:  cat ears  Final product  piece from the box  useless box  Plan: since last time we were discussing getting a phone holder, I was thinking I would really need a phone holder. ","{'label': 'neutral', 'score': 0.6034713387489319}"
+The dome at the button  The button is domed to save the material for creating the can and it allows the can to stand more pressure from the outside. ,"{'label': 'neutral', 'score': 0.6342552304267883}"
+"Since I bought lots of diet coke to drink, so I've curious about the number stamped on the button, but now I know that it represents something. ","{'label': 'neutral', 'score': 0.5974023938179016}"
+"Decoration  The outside decoration of the can is colorful and easy to notice, but I didn't know there was a inner layer: There is a layer called epoxy lacquer prevents the drinks to have a metallic taste and the acids in the beverage from sabotaging the aluminium  Tabs  I did not realized that tab itself has its own history and has such brilliant design. ","{'label': 'neutral', 'score': 0.4186326861381531}"
