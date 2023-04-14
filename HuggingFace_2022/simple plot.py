@@ -38,11 +38,11 @@ plt.bar(labels, counts, color=bar_colors)
 plt.title('Distribution of Sentiment Scores for 2022_frank_03')
 plt.xlabel('Sentiment Label')
 plt.ylabel('Count')
-
+plt.savefig("2022_frank03_count.png")
 # Show plot
 plt.show()
-plt.savefig("2022_frank03_count.png")
 
+plt.savefig("2022_frank03_count.png")
 
 
 # Extract the sentiment scores
