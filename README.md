@@ -41,3 +41,4 @@
 ![alt text](https://github.com/yiminchen1999/Natural-language-processing-and-Sentiment-analysis/blob/cbb375a7319717a3b999efad32c80c88ef922def/folder%20for%20plot/2022_ver2_rube_sentiment_analysis_scores.png)
 
 ![alt text](https://github.com/yiminchen1999/Natural-language-processing-and-Sentiment-analysis/blob/dab205c04a6482a66b199b15be5b54070cb1905e/folder%20for%20plot/Figure_2022_frank_01.png)
+![alt text](https://github.com/yiminchen1999/Natural-language-processing-and-Sentiment-analysis/blob/4e94e24787e7b43223a02d08e73aa7b8bc4409b4/folder%20for%20plot/count%20sum_2022frank01.png)
