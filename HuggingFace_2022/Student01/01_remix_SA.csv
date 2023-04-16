@@ -1,0 +1,10 @@
+sentence,label,score
+Reflection What did you learn by writing pseudocode? ,neutral,0.7482618093490601
+By explaining the sections of code I was able to follow the logic of the program and guess at the purpose of different variables. ,neutral,0.48809242248535156
+Learning happened mostly by experimenting on a hypothesis I had about a particular part of the code. ,neutral,0.7146438360214233
+By adjusting a number I could see how that property would change the display  What did you learn from remixing to create something new? ,neutral,0.6473199725151062
+I also learned about color inputs and arguments and generally just got more practice with p5  How did you make the original code yours? ,neutral,0.521210789680481
+I switched up the colors and changed the faces a bit as well as switched the narrative on its head. ,neutral,0.5841699242591858
+Also maybe initially finding something that I thought was simple enough to tackle remixing. ,neutral,0.5592299103736877
+"found this from another p5 project, could I somehow add audio to my page? ",neutral,0.7452985644340515
+figured out how to add the sound library but adding code to have it play is making it all take forever to load.. ,negative,0.5996932983398438

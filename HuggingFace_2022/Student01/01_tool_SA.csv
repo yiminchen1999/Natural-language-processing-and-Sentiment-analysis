@@ -1,0 +1,15 @@
+sentence,label,score
+TOOL: Laser cutter  TECHNIQUE: Experimenting with recycled materials & complex designs  Description: -repurpose discarded materials as a new sheet of material to cut with -utilize myoats.com and tracing to create intricate designs  images  material & instructions:  TO MAKE RECYCLED MATERIAL  (each step relates to image to the left) 1. ,neutral,0.6383022665977478
+gather paper/cardboard 2. ,neutral,0.7734806537628174
+put onto parchment paper and spread out 8. ,neutral,0.5976213812828064
+layer bits of cardboard along the top if wanted (this creates an interesting layered effect with the laser cutter) 9. ,positive,0.5470895767211914
+place another piece of parchment paper on top to roll out (I used a flat cookie sheet to rub it around and even it out) 10. ,neutral,0.5846196413040161
+"once dry, place on laser cutter to cut. ",neutral,0.5398104786872864
+Use default settings for cardboard.* 12. ,neutral,0.7336882948875427
+Use gravit or coreldraw Pen to trace the edges (maybe edge detection software would be more efficient). ,neutral,0.5295698046684265
+"3.Save as .cdr, .svg, or .pdf file, and use laser cutter to cut the shapes. ",neutral,0.7069680690765381
+"5.Experiment with different materials for cutting (cardboard  links and notes *Because of the variable nature of this recycled material, be prepared to run a second time if denser/thicker parts need another pass, cracking the screen to turn off the laser for parts that don't need it. ",neutral,0.6893720030784607
+"Also, make use of the ability to reposition the Home of the laser to utilize sections that you'd like to cut. ",neutral,0.5213382244110107
+some of the cardboard on top didn't mix and I didn't want to push my blender anymore.. ,negative,0.8409507274627686
+"so I took them out and thought, hey, this could help reinforce the material with one side having a layer of cardboard, and could look prettier than just the uniform gray color it was turning into. ",positive,0.5544683933258057
+"When I cut with the material, I didn't realize but that layer of cardboard was much easier to pop off than the denser blended material below. ",neutral,0.5345291495323181

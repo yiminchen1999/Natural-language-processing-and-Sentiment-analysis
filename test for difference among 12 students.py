@@ -4,7 +4,7 @@ import seaborn as sns
 
 # Load the data
 data = pd.read_excel("frank_2022_SA_01_combined.xlsx")
-
+# frank project for 12 students
 # Define a dictionary mapping labels to colors
 label_colors = {'positive': 'green', 'negative': 'red', 'neutral': 'grey'}
 
