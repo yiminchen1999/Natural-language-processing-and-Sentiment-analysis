@@ -31,6 +31,7 @@ dfs = []
 for file_name1 in file_names1:
     # Read the Excel file into a pandas DataFrame
     df = pd.read_excel(f'{file_name1}.xlsx')
+    df['Name'] = file_name
 
     # Append the DataFrame to the list
     dfs.append(df)
